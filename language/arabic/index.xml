@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – Arabic</title>
+    <link>/language/arabic/</link>
+    <description>Recent content in Arabic on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/language/arabic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: The Oxus Society for Central Asian Affairs</title>
+      <link>/sources/sources/oxus_society/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/oxus_society/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;
+&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: World Bank</title>
+      <link>/sources/sources/world_bank/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/world_bank/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt; offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;
+&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;
+&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wbl.worldbank.org/en/reports&#34;&gt;Women, Business, and the Law Reports&lt;/a&gt; Annual report measuring the laws and regulations that affect women’s economic opportunity in 190 economies, including Kazakhstan.&lt;/p&gt;
+&lt;p&gt;Reports are available in English with executive summaries in French, Spanish, and Arabic.&lt;/p&gt;
+&lt;p&gt;Methodology section is available on the website and is based on feedback of &amp;ldquo;more than 2,000 respondents&amp;rdquo; which includes local experts on family, labor, and criminal law, including lawyers, judges, academics, and civil society. It is unclear whether the questionnaires sent out to experts are in English, Russian, or Kazakh languages.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

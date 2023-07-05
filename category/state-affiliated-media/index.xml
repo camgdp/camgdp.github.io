@@ -1,0 +1,60 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – State-affiliated media</title>
+    <link>/category/state-affiliated-media/</link>
+    <description>Recent content in State-affiliated media on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/category/state-affiliated-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: Informburo</title>
+      <link>/sources/sources/informburo/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/informburo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2015 and affiliated with 31st Channel television station, &lt;a href=&#34;https://informburo.kz/&#34;&gt;Informburo&lt;/a&gt; offers news coverage, informational and analytical materials.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: TengriNews</title>
+      <link>/sources/sources/tengrinews/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/tengrinews/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2016, &lt;a href=&#34;https://tengrinews.kz/&#34;&gt;TengriNews&lt;/a&gt; offers news coverage of current events in Kazakhstan and the world and a database of legislative documents.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Zakon.kz</title>
+      <link>/sources/sources/zakon_kz/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/zakon_kz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 1999, &lt;a href=&#34;https://www.zakon.kz/&#34;&gt;Zakon.kz&lt;/a&gt; offers news coverage of current events in Kazakhstan, Central Asia, Russia, and the US, as well as analytical materials and interviews.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

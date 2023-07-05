@@ -1,0 +1,63 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – migration</title>
+    <link>/tags/migration/</link>
+    <description>Recent content in migration on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: International Organization for Migration</title>
+      <link>/sources/sources/iom/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/iom/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;a href=&#34;https://kazakhstan.iom.int/&#34;&gt;International Organization for Migration&lt;/a&gt; publishes &lt;a href=&#34;https://kazakhstan.iom.int/data-and-resources&#34;&gt;reports&lt;/a&gt; on migration issues in Kazakhstan.&lt;/p&gt;
+&lt;p&gt;Data is usually presented in gendered format splitting respondents between male and female. Methodological note and information on data collection are not available. Reports are available in English, Kazakh, and Russian.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: </title>
+      <link>/sources/sources/public_opinion_research_institute/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/public_opinion_research_institute/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://opinions.kz/&#34;&gt;Public Opinion Research Institute&lt;/a&gt; is a Kazakhstani sociological institute specializes in public opinion, marketing, and sociological studies of Kazakhstan and other countries. The institute publishes research reports on various topics, including COVID-19, migration, social values, etc. Most publications are available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: UN Women Data Hub</title>
+      <link>/sources/sources/un_women_data_hub/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/un_women_data_hub/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Publications on the &lt;a href=&#34;https://data.unwomen.org/publications&#34;&gt;UN Women Data Hub&lt;/a&gt; have an option to filter by region.
+Eurasia and Central Asia region primarily focuses on Eastern European and Balkan countries with occasional inclusion of Central Asia.&lt;/p&gt;
+&lt;p&gt;Themes of publications include data use, disabilities, economic empowerment, ending violence against women, environment, gender and COVID-19, HIV and AIDS, migration, sustainable development, and peace and security.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

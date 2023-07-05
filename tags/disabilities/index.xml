@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – disabilities</title>
+    <link>/tags/disabilities/</link>
+    <description>Recent content in disabilities on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/disabilities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: UN Women Data Hub</title>
+      <link>/sources/sources/un_women_data_hub/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/un_women_data_hub/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Publications on the &lt;a href=&#34;https://data.unwomen.org/publications&#34;&gt;UN Women Data Hub&lt;/a&gt; have an option to filter by region.
+Eurasia and Central Asia region primarily focuses on Eastern European and Balkan countries with occasional inclusion of Central Asia.&lt;/p&gt;
+&lt;p&gt;Themes of publications include data use, disabilities, economic empowerment, ending violence against women, environment, gender and COVID-19, HIV and AIDS, migration, sustainable development, and peace and security.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

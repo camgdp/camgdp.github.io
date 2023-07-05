@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – archives</title>
+    <link>/data_type/archives/</link>
+    <description>Recent content in archives on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/data_type/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: Fading.TSE</title>
+      <link>/sources/sources/fading_tse/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/fading_tse/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/fading.tse/&#34;&gt;Fading.TSE&lt;/a&gt; is a grassroots project documenting urban history of Kazakhstan and its capital. Primary focused on photography, oral histories, and cultural heritage. Available in Kazakh and Russian on Instagram, Facebook, TikTok, and Telegram.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Women of Kazakhstan</title>
+      <link>/sources/sources/women_of_kz/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/women_of_kz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/womenofkz/&#34;&gt;Women of Kazakhstan&lt;/a&gt; is a first online museum of documenting the past and present of Kazakhstani women with a focus on historical research. Available in English, Kazakh, and Russian on Instagram, Twitter, and Telegram.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

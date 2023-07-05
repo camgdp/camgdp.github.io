@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – testimonies</title>
+    <link>/data_type/testimonies/</link>
+    <description>Recent content in testimonies on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/data_type/testimonies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: NeMolchikz</title>
+      <link>/sources/sources/nemolchikz/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/nemolchikz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2017, &lt;a href=&#34;https://nemolchi.kz/&#34;&gt;#NeMolchikz&lt;/a&gt; is a grassroots public fund dedicated to protection of victims of gender-based violence. The fund defines its activities along the three components, including legal protection, promotion of awareness, and legislative.   &lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Schitaetsya</title>
+      <link>/sources/sources/schitaetsya/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/schitaetsya/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2021, &lt;a href=&#34;https://schitaetsya.kz/&#34;&gt;Schitaetsya&lt;/a&gt; is a collaborative project by the Kaz Fem feminist organization and other experts and organization to collect accurate information about domestic violence in Kazakhstan and provide informational resources for victims of domestic abuse.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

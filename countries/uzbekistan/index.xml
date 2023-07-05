@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – Uzbekistan</title>
+    <link>/countries/uzbekistan/</link>
+    <description>Recent content in Uzbekistan on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/countries/uzbekistan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Guides: Uzbekistan</title>
+      <link>/guides/uzbekistan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guides/uzbekistan/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Under development in summer 2023&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;countrywide&#34;&gt;Countrywide&lt;/h2&gt;
+&lt;p&gt;These resources talk about the entire nation.&lt;/p&gt;
+&lt;h2 id=&#34;tashkent&#34;&gt;Tashkent&lt;/h2&gt;
+&lt;p&gt;These resources are specific to the capital.&lt;/p&gt;
+&lt;h2 id=&#34;samarkand&#34;&gt;Samarkand&lt;/h2&gt;
+&lt;p&gt;These resources relate to Samarkand.&lt;/p&gt;
+&lt;h2 id=&#34;bukhara&#34;&gt;Bukhara&lt;/h2&gt;
+&lt;p&gt;These resources relate to Samarkand.&lt;/p&gt;
+&lt;h2 id=&#34;khiva&#34;&gt;Khiva&lt;/h2&gt;
+&lt;p&gt;These resources relate to Samarkand.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/guides/lgbtq&#34;&gt;LGBTQ&lt;/a&gt;: guide to LGBTQ material&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/guides/media&#34;&gt;Media&lt;/a&gt;: guide to news and media&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/guides/kazakhstan&#34;&gt;Kazakhstan&lt;/a&gt;: guide to resources on Kazakhstan&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

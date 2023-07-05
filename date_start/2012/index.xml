@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – 2012</title>
+    <link>/date_start/2012/</link>
+    <description>Recent content in 2012 on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/date_start/2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: HolaNews</title>
+      <link>/sources/sources/holanews/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/holanews/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://www.instagram.com/holanewskz/&#34;&gt;HolaNews&lt;/a&gt; offers coverage of current events in Kazakhstan on Instagram, Facebook, and Telegram.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Vlast</title>
+      <link>/sources/sources/vlast/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/vlast/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

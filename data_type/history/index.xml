@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – history</title>
+    <link>/data_type/history/</link>
+    <description>Recent content in history on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/data_type/history/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: Women of Kazakhstan</title>
+      <link>/sources/sources/women_of_kz/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/women_of_kz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/womenofkz/&#34;&gt;Women of Kazakhstan&lt;/a&gt; is a first online museum of documenting the past and present of Kazakhstani women with a focus on historical research. Available in English, Kazakh, and Russian on Instagram, Twitter, and Telegram.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

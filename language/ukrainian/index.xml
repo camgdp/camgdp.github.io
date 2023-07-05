@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – Ukrainian</title>
+    <link>/language/ukrainian/</link>
+    <description>Recent content in Ukrainian on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/language/ukrainian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: PONARS Eurasia</title>
+      <link>/sources/sources/ponars/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/ponars/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in the late 1990s and currently based at the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), the &lt;a href=&#34;https://www.ponarseurasia.org/&#34;&gt;Program on New Approaches to Research and Security in Eurasia (PONARS Eurasia)&lt;/a&gt; offers policy analysis and dialogue. The program aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – analytics</title>
+    <link>/tags/analytics/</link>
+    <description>Recent content in analytics on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: Policy Solutions Center</title>
+      <link>/sources/sources/policy_solutions_center/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/policy_solutions_center/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://policysolutions.kz/&#34;&gt;Policy Solutions Center&lt;/a&gt; is a grassroots organizations of Kazakhstani researchers involved in the study of socio-political and socio-economic problems in Kazakhstan, as well as the development of policy and management recommendations. The Center publishes analytical pieces and develops projects on political, economic, and social issues.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

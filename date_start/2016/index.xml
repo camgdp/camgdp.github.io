@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – 2016</title>
+    <link>/date_start/2016/</link>
+    <description>Recent content in 2016 on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/date_start/2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: CABAR</title>
+      <link>/sources/sources/cabar/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/cabar/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2016 and based under the Institute’s for War and Peace Reporting (IWPR) Central Asian Office, &lt;a href=&#34;https://cabar.asia/&#34;&gt;Central Asian Bureau for Analytical Reporting (CABAR)&lt;/a&gt; offers regional analytical, informational, and educational material on Central Asia.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: TengriNews</title>
+      <link>/sources/sources/tengrinews/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/tengrinews/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2016, &lt;a href=&#34;https://tengrinews.kz/&#34;&gt;TengriNews&lt;/a&gt; offers news coverage of current events in Kazakhstan and the world and a database of legislative documents.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

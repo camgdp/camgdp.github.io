@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – employment</title>
+    <link>/tags/employment/</link>
+    <description>Recent content in employment on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/employment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: Bureau of National Statistics / Gender</title>
+      <link>/sources/sources/bureau_of_national_statistics_gender/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/bureau_of_national_statistics_gender/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://gender.stat.gov.kz/en&#34;&gt;Bureau of National Statistics / Gender&lt;/a&gt; is the official government resource representing a collection of gendered data on population, family, healthcare, education and communication, employment, human rights, and politics. The Bureau has received criticism of its data from a feminist organization &lt;a href=&#34;https://www.instagram.com/p/CUmGoyNsJPu/&#34;&gt;Kaz Fem&lt;/a&gt;. Kaz Fem created &lt;a href=&#34;https://schitaetsya.kz/&#34;&gt;its own alternative platform&lt;/a&gt; about the domestic violence situation in Kazakhstan.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

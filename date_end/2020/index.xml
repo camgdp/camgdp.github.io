@@ -1,0 +1,51 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – 2020</title>
+    <link>/date_end/2020/</link>
+    <description>Recent content in 2020 on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/date_end/2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: UN Women Country Data Sheet</title>
+      <link>/sources/sources/un_women_country_data_sheet/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/un_women_country_data_sheet/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;a href=&#34;https://data.unwomen.org/country/kazakhstan&#34;&gt;UN Women Country Data Sheet&lt;/a&gt; offers country specific gender-related data across four main components: economic, social, political, and environmental. Some of the economic data is missing, while environmental data does not include a gender-based breakdown. Gender-specific indicators have at least 50% of data missing across the 17 indicators listed.&lt;/p&gt;
+&lt;p&gt;Methodological note and information on data collection is &lt;a href=&#34;https://data.unwomen.org/modules/custom/country_fact_sheet/pdf/MethodologicalNote.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: World Value Survey</title>
+      <link>/sources/sources/world_value_survey/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/world_value_survey/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Value Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;
+&lt;p&gt;Kazakhstan is included in waves 6 (2010-2014) and 7 (2017-2020).&lt;/p&gt;
+&lt;p&gt;Some relevant questions include questions about women’s leadership skills, women’s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;
+&lt;p&gt;The sample size is 1,500 and 1,276 in waves 6 and 7 respectively. A lot of questions are missing data.&lt;/p&gt;
+&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
