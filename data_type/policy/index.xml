@@ -4,7 +4,7 @@
     <link>/data_type/policy/</link>
     <description>Recent content in policy on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/data_type/policy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,20 @@
         
       
     
+    
+    <item>
+      <title>Sources: Foreign Policy Research Institute</title>
+      <link>/sources/sources/foreign_policy_research_institute/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/foreign_policy_research_institute/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2002, based in Philadelphia, Pennsylvania. &lt;a href=&#34;https://www.fpri.org/central-asia-initiative/&#34;&gt;Foreign Policy Research Institute&lt;/a&gt; is dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US. Its Central Asia Initiative produces analyses of trends in the region concerning the US national security.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Adilet.Zan</title>
@@ -80,20 +94,6 @@
         
         
         &lt;p&gt;&lt;a href=&#34;https://ortcom.kz/en/&#34;&gt;Central Communication Service under the President of the Republic of Kazakhstan&lt;/a&gt; is the official communication service for presidential and state affairs aimed at fostering communication between the government bodies and media. Contains latest news (including regional news), press releases, infographics, video announcements, and expert discussions.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Foreign Policy Research Institute</title>
-      <link>/sources/sources/foreign_policy_research_institute/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/foreign_policy_research_institute/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2002, based in Philadelphia, Pennsylvania. &lt;a href=&#34;https://www.fpri.org/central-asia-initiative/&#34;&gt;Foreign Policy Research Institute&lt;/a&gt; is dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US. Its Central Asia Initiative produces analyses of trends in the region concerning the US national security.&lt;/p&gt;
 
       </description>
     </item>

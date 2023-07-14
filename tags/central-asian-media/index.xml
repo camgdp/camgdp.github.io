@@ -4,7 +4,7 @@
     <link>/tags/central-asian-media/</link>
     <description>Recent content in Central Asian media on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/tags/central-asian-media/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
     <item>
       <title>Sources: Adamdar/CA</title>
       <link>/sources/sources/adamdar_ca/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/sources/sources/adamdar_ca/</guid>
       <description>
@@ -31,7 +31,7 @@
     <item>
       <title>Sources: CABAR</title>
       <link>/sources/sources/cabar/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/sources/sources/cabar/</guid>
       <description>
@@ -45,7 +45,7 @@
     <item>
       <title>Sources: Central Asian Analytical Network</title>
       <link>/sources/sources/central_asian_analytical_network/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/sources/sources/central_asian_analytical_network/</guid>
       <description>
@@ -59,7 +59,7 @@
     <item>
       <title>Sources: Current Time Asia</title>
       <link>/sources/sources/current_time_asia/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/sources/sources/current_time_asia/</guid>
       <description>
@@ -73,7 +73,7 @@
     <item>
       <title>Sources: Mediazona Central Asia</title>
       <link>/sources/sources/mediazona/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/sources/sources/mediazona/</guid>
       <description>
@@ -87,13 +87,27 @@
     <item>
       <title>Sources: Novastan</title>
       <link>/sources/sources/novastan/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/sources/sources/novastan/</guid>
       <description>
         
         
         &lt;p&gt;Founded in 2011 in Bishkek, Kyrgyzstan and based in Paris and Berlin, &lt;a href=&#34;https://novastan.org/&#34;&gt;Novastan&lt;/a&gt; offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and the Uyghur region.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Voices on Central Asia</title>
+      <link>/sources/sources/voices_on_central_asia/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/voices_on_central_asia/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in collaboration with the Central Asia Program and the Central Asian Analytical Network on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://voicesoncentralasia.org/&#34;&gt;Voices on Central Asia&lt;/a&gt; offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia.&lt;/p&gt;
 
       </description>
     </item>
@@ -122,20 +136,6 @@
         
         
         &lt;p&gt;Founded first in 2008 in Kazakhstan, &lt;a href=&#34;https://kaztag.kz/ru/&#34;&gt;TAG news agency&lt;/a&gt; offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Iran, and the Silk Road region. Available in English, Kazakh, and Russian in Kazakhstan; Kyrgyz and Russian in Kyrgyzstan; Uzbek and Russian in Uzbekistan; and Tajik and Russian in Tajikistan.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Voices on Central Asia</title>
-      <link>/sources/sources/voices_on_central_asia/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/voices_on_central_asia/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in collaboration with the Central Asia Program and the Central Asian Analytical Network on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://voicesoncentralasia.org/&#34;&gt;Voices on Central Asia&lt;/a&gt; offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia.&lt;/p&gt;
 
       </description>
     </item>

@@ -4,7 +4,7 @@
     <link>/tags/local-media/</link>
     <description>Recent content in local media on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/tags/local-media/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,20 @@
         
       
     
+    
+    <item>
+      <title>Sources: Vlast</title>
+      <link>/sources/sources/vlast/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/vlast/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Azattyq</title>
@@ -164,20 +178,6 @@
         
         
         &lt;p&gt;&lt;a href=&#34;https://www.the-village-kz.com/&#34;&gt;The Village Kazakhstan&lt;/a&gt; offers coverage of cultural and social life, events, and businesses.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Vlast</title>
-      <link>/sources/sources/vlast/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/vlast/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;
 
       </description>
     </item>

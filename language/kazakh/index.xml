@@ -4,7 +4,7 @@
     <link>/language/kazakh/</link>
     <description>Recent content in Kazakh on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/language/kazakh/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,13 +17,56 @@
     <item>
       <title>Sources: Adamdar/CA</title>
       <link>/sources/sources/adamdar_ca/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/sources/sources/adamdar_ca/</guid>
       <description>
         
         
         &lt;p&gt;&lt;a href=&#34;https://adamdar.ca/&#34;&gt;Adamdar/CA&lt;/a&gt; offers news coverage and storytelling narratives from Kazakhstan, Kyrgyzstan, Uzbekistan, and Tajikistan.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: FemAgora</title>
+      <link>/sources/sources/femagora/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/femagora/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2018 in Kazakhstan, &lt;a href=&#34;https://femagora.org/&#34;&gt;FemAgora&lt;/a&gt; is dedicated to fostering transnational feminist solidarity in Central Asia. The organization is involved in organization of Kazakhstan’s annual women rights march and the issue of employment of transgender people. FemAgora hosts annual FemAgora Central Asian festival for those involved in feminist, gender-sensitive, and/or women-led work.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: The Oxus Society for Central Asian Affairs</title>
+      <link>/sources/sources/oxus_society/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/oxus_society/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;
+&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Vlast</title>
+      <link>/sources/sources/vlast/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/vlast/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;
 
       </description>
     </item>
@@ -206,20 +249,6 @@
         
         
         &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/fading.tse/&#34;&gt;Fading.TSE&lt;/a&gt; is a grassroots project documenting urban history of Kazakhstan and its capital. Primary focused on photography, oral histories, and cultural heritage. Available in Kazakh and Russian on Instagram, Facebook, TikTok, and Telegram.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: FemAgora</title>
-      <link>/sources/sources/femagora/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/femagora/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2018 in Kazakhstan, &lt;a href=&#34;https://femagora.org/&#34;&gt;FemAgora&lt;/a&gt; is dedicated to fostering transnational feminist solidarity in Central Asia. The organization is involved in organization of Kazakhstan’s annual women rights march and the issue of employment of transgender people. FemAgora hosts annual FemAgora Central Asian festival for those involved in feminist, gender-sensitive, and/or women-led work.&lt;/p&gt;
 
       </description>
     </item>
@@ -525,21 +554,6 @@
     </item>
     
     <item>
-      <title>Sources: The Oxus Society for Central Asian Affairs</title>
-      <link>/sources/sources/oxus_society/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/oxus_society/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;
-&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Sources: Til Kespek Joq</title>
       <link>/sources/sources/til_kespek_joq/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
@@ -638,20 +652,6 @@
         
         
         &lt;p&gt;&lt;a href=&#34;https://www.the-village-kz.com/&#34;&gt;The Village Kazakhstan&lt;/a&gt; offers coverage of cultural and social life, events, and businesses.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Vlast</title>
-      <link>/sources/sources/vlast/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/vlast/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;
 
       </description>
     </item>

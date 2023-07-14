@@ -4,7 +4,7 @@
     <link>/tags/population/</link>
     <description>Recent content in population on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/tags/population/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,23 @@
         
       
     
+    
+    <item>
+      <title>Sources: World Value Survey</title>
+      <link>/sources/sources/world_value_survey_uz/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/world_value_survey_uz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Value Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;
+&lt;p&gt;Some relevant questions include questions about women&amp;rsquo;s leadership skills, women&amp;rsquo;s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;
+&lt;p&gt;Uzbekistan is included in wave 6 (2010-2014). Sample size for Uzbekistan is 1487.&lt;/p&gt;
+&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Organization for Economic Co-operation and Development (OECD)</title>

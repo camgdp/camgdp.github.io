@@ -4,7 +4,7 @@
     <link>/language/french/</link>
     <description>Recent content in French on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/language/french/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,13 +17,58 @@
     <item>
       <title>Sources: Novastan</title>
       <link>/sources/sources/novastan/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/sources/sources/novastan/</guid>
       <description>
         
         
         &lt;p&gt;Founded in 2011 in Bishkek, Kyrgyzstan and based in Paris and Berlin, &lt;a href=&#34;https://novastan.org/&#34;&gt;Novastan&lt;/a&gt; offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and the Uyghur region.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: OECD</title>
+      <link>/sources/sources/oecd_uz/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/oecd_uz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Uzbekistan is not a member of &lt;a href=&#34;https://www.oecd.org/countries/uzbekistan/&#34;&gt;OECD&lt;/a&gt;. It has recently joined the OECD/G20 Inclusive Framework on BEPS.&lt;/p&gt;
+&lt;p&gt;No gender-sensitive data appears to be available.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: PONARS Eurasia</title>
+      <link>/sources/sources/ponars/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/ponars/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in the late 1990s and currently based at the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), the &lt;a href=&#34;https://www.ponarseurasia.org/&#34;&gt;Program on New Approaches to Research and Security in Eurasia (PONARS Eurasia)&lt;/a&gt; offers policy analysis and dialogue. The program aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Spotlight Initiative Regional Programme for Central Asia and Afghanistan</title>
+      <link>/sources/sources/spotlight_initiative/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/spotlight_initiative/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;a href=&#34;https://www.spotlightinitiative.org/central-asia&#34;&gt;Spotlight Initiative Regional Programme for Central Asia and Afghanistan&lt;/a&gt; is a research and advocacy campaign dedicated to eliminating sexual and gender-based violence and harmful practices in Central Asia. The program involves UN Women, UNDP, and UNFPA with funding from the European Union.&lt;/p&gt;
+&lt;p&gt;The Spotlight Initiative Regional Programme for Central Asia and Afghanistan 2020 report is &lt;a href=&#34;https://www.spotlightinitiative.org/publications/spotlight-initiative-central-asia-and-afghanistan-programme-report-2020&#34;&gt;available here&lt;/a&gt; in English. Methodological note and information on data collection are not available.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.undp.org/kazakhstan/projects/spotlight-initiative-regional-programme-central-asia-and-afghanistan&#34;&gt;UNDP project page for the Spotlight Initiative Regional Programme for Central Asia and Afghanistan.&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
@@ -40,36 +85,6 @@
         &lt;p&gt;Kazakhstan is not a member of the OECD and acts as its &lt;a href=&#34;https://www.oecd.org/countries/kazakhstan/&#34;&gt;partner for the Eurasian region&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Out of available data on Kazakhstan found on the OECD portal, the &lt;a href=&#34;https://www.oecd.org/countries/kazakhstan/gender-policy-delivery-in-kazakhstan-9789264280359-en.htm&#34;&gt;2017 Gender Policy Delivery in Kazakhstan review&lt;/a&gt; is so far the only gender-related publication on Kazakhstan.&lt;/p&gt;
 &lt;p&gt;The review contains policy assessment and recommendation. Methodological note and information on data collection are not available.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: PONARS Eurasia</title>
-      <link>/sources/sources/ponars/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/ponars/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in the late 1990s and currently based at the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), the &lt;a href=&#34;https://www.ponarseurasia.org/&#34;&gt;Program on New Approaches to Research and Security in Eurasia (PONARS Eurasia)&lt;/a&gt; offers policy analysis and dialogue. The program aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Spotlight Initiative Regional Programme for Central Asia and Afghanistan</title>
-      <link>/sources/sources/spotlight_initiative/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/spotlight_initiative/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://www.spotlightinitiative.org/central-asia&#34;&gt;Spotlight Initiative Regional Programme for Central Asia and Afghanistan&lt;/a&gt; is a research and advocacy campaign dedicated to eliminating sexual and gender-based violence and harmful practices in Central Asia. The program involves UN Women, UNDP, and UNFPA with funding from the European Union.&lt;/p&gt;
-&lt;p&gt;The Spotlight Initiative Regional Programme for Central Asia and Afghanistan 2020 report is &lt;a href=&#34;https://www.spotlightinitiative.org/publications/spotlight-initiative-central-asia-and-afghanistan-programme-report-2020&#34;&gt;available here&lt;/a&gt; in English. Methodological note and information on data collection are not available.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://www.undp.org/kazakhstan/projects/spotlight-initiative-regional-programme-central-asia-and-afghanistan&#34;&gt;UNDP project page for the Spotlight Initiative Regional Programme for Central Asia and Afghanistan.&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>

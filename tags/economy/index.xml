@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – economy</title>
+    <link>/tags/economy/</link>
+    <description>Recent content in economy on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/economy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: </title>
+      <link>/sources/sources/oecd_uz/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/oecd_uz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Uzbekistan is not a member of &lt;a href=&#34;https://www.oecd.org/countries/uzbekistan/&#34;&gt;OECD&lt;/a&gt;. It has recently joined the OECD/G20 Inclusive Framework on BEPS.&lt;/p&gt;
+&lt;p&gt;No gender-sensitive data appears to be available.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
