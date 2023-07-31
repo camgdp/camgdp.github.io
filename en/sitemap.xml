@@ -20,6 +20,9 @@
     <loc>/sources/sources/</loc>
     <lastmod>2023-01-09T01:55:19-05:00</lastmod>
   </url><url>
+    <loc>/sources/sources/nemolchikz/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/date_start/1999/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
@@ -299,6 +302,9 @@
                 href="/language/"
                 />
   </url><url>
+    <loc>/tags/law/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/legislation/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
@@ -424,6 +430,9 @@
   </url><url>
     <loc>/countries/tajikistan/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
+  </url><url>
+    <loc>/data_type/testimonies/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/sources/sources/trans_coalition/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
@@ -593,9 +602,6 @@
     <loc>/tags/labor/</loc>
     <lastmod>2023-07-13T23:03:28-04:00</lastmod>
   </url><url>
-    <loc>/tags/law/</loc>
-    <lastmod>2023-07-13T22:21:02-04:00</lastmod>
-  </url><url>
     <loc>/tags/leadership/</loc>
     <lastmod>2023-07-13T22:21:02-04:00</lastmod>
   </url><url>
@@ -695,9 +701,6 @@
     <loc>/sources/sources/world_value_survey_uz/</loc>
     <lastmod>2023-07-13T22:21:02-04:00</lastmod>
   </url><url>
-    <loc>/sources/sources/nemolchikz/</loc>
-    <lastmod>2023-06-26T13:32:58-04:00</lastmod>
-  </url><url>
     <loc>/date_start/1960/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
@@ -731,8 +734,11 @@
     <loc>/sources/sources/adilet_zan/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
-    <loc>/sources/sources/aiman_umratova_rights_school/</loc>
-    <lastmod>2023-06-26T13:32:58-04:00</lastmod>
+    <loc>/sources/sources/aiman_umratova_school_of_rights/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/aiman_umarova_school_of_rights/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/sources/sources/ak_orda/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
@@ -843,7 +849,7 @@
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
     <loc>/data_type/laws/</loc>
-    <lastmod>2023-06-26T13:32:58-04:00</lastmod>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/sources/sources/manshuq/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
@@ -852,6 +858,9 @@
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/misk/</loc>
+    <lastmod>2023-06-26T13:32:58-04:00</lastmod>
+  </url><url>
+    <loc>/countries/mongolia/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/national_commission_for_women_affairs_and_familial_demographic_policies/</loc>
@@ -930,9 +939,6 @@
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/tengrinews/</loc>
-    <lastmod>2023-06-26T13:32:58-04:00</lastmod>
-  </url><url>
-    <loc>/data_type/testimonies/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
     <loc>/tags/tiktok/</loc>
