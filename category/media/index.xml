@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – Media</title>
+    <link>/category/media/</link>
+    <description>Recent content in Media on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/category/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: Center for the Development of Contemporary Journalism in the Republic of Uzbekistan</title>
+      <link>/sources/sources/mjdc/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/mjdc/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://mjdc.uz/&#34;&gt;Center for the Development of Contemporary Journalism in the Republic of Uzbekistan&lt;/a&gt; is an nongovernmental and noncommercial media institution aimed at improving the quality of journalism in Uzbekistan through &amp;ldquo;identifying problem areas, education, creating quality content that meets the highest standards of truthfulness and objectivity.&amp;rdquo; The center offers trainings for journalists, bloggers, and mass communication professionals, as well as workshops for a wider audience on media literacy.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Kun.Uz</title>
+      <link>/sources/sources/kun_uz/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/kun_uz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Launched in 2012, Kun.Uz is an online publication platform with a wide presence across social media platforms. It offers coverage of news events in Uzbekistan and across the world. The publication works in cooperation with the state and public organizations operating on the territory of Uzbekistan.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
