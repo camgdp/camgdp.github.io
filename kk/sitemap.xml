@@ -144,24 +144,6 @@
   </url><url>
     <loc>/kk/%D0%B4%D0%B5%D1%80%D0%B5%D0%BA%D0%BA%D3%A9%D0%B7%D0%B4%D0%B5%D1%80/</loc>
   </url><url>
-    <loc>/kk/</loc>
-    <lastmod>2023-06-26T13:32:58-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kk"
-                href="/kk/"
-                />
-  </url><url>
     <loc>/kk/search/</loc>
     <lastmod>2023-05-03T18:58:39-04:00</lastmod>
     <xhtml:link
@@ -178,6 +160,24 @@
                 rel="alternate"
                 hreflang="kk"
                 href="/kk/search/"
+                />
+  </url><url>
+    <loc>/kk/</loc>
+    <lastmod>2023-06-26T13:32:58-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kk"
+                href="/kk/"
                 />
   </url>
 </urlset>

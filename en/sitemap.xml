@@ -20,8 +20,20 @@
     <loc>/sources/sources/</loc>
     <lastmod>2023-01-09T01:55:19-05:00</lastmod>
   </url><url>
+    <loc>/date_start/1976/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/date_start/1992/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
     <loc>/date_start/1998/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+  </url><url>
+    <loc>/date_start/1999/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/date_start/2002/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/date_start/2005/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -29,8 +41,17 @@
     <loc>/date_start/2008/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
+    <loc>/date_start/2009/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
     <loc>/date_start/2015/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/date_start/2016/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/date_start/2017/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/date_start/2018/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -39,22 +60,22 @@
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/date_start/2020/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/date_start/2021/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/date_start/2022/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/date_end/2022/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/date_start/2023/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/date_end/2023/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/activism/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -63,34 +84,46 @@
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/tags/advocacy/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/advocacy/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/against_frotterizm/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/contributor/aizada-arystanbek/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/amerika_ovozi/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/tags/analytics/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/archive/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
+    <loc>/sources/sources/ariadna/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
     <loc>/tags/art/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/art/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/bashtan_bashta/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/bulbul/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/business/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/category/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -114,7 +147,7 @@
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/contributor/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -132,7 +165,7 @@
                 />
   </url><url>
     <loc>/countries/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -149,11 +182,17 @@
                 href="/countries/"
                 />
   </url><url>
+    <loc>/sources/sources/crossroads/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
     <loc>/tags/culture/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/daryo/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -171,7 +210,7 @@
                 />
   </url><url>
     <loc>/date_end/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -189,7 +228,7 @@
                 />
   </url><url>
     <loc>/date_start/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -210,28 +249,31 @@
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/data_type/discourse/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/dope_soz/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/tags/economy/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/edu_community/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/language/english/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/eswra/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/femagora/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/tags/feminism/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/feminist/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/tags/feminist-ngo/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -251,6 +293,12 @@
     <loc>/tags/gender-based-violence/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
+    <loc>/tags/government/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/category/government/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
     <loc>/tags/history/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
@@ -267,28 +315,34 @@
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/category/ingo/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/instagram/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+  </url><url>
+    <loc>/tags/international-media/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/category/international-media/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/interviews/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/invisible_rainbow/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/tags/journalism/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/kazfem/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/language/kazakh/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/countries/kazakhstan/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/kibhr/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -297,16 +351,16 @@
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/language/kyrgyz/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/countries/kyrgyzstan/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/labor/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/language/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -332,44 +386,56 @@
     <loc>/tags/legislature/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
+    <loc>/data_type/legislature/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
     <loc>/tags/lgbtqia&#43;/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/tags/local-media/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/category/local-media/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/category/local-ngo/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/loyiha/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/tags/media/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/data_type/narratives/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/news/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/news/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/category/ngo/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/president_website/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/oral-histories/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/category/podcast/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/policy/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/tags/politics/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/qalampir/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/qara_magan/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -378,43 +444,67 @@
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/data_type/qualitative/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/quantitative/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/queernyi-squirt/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/category/regional-media/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/tags/regional-ngo/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/report/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/reports/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/repost/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/right-now/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/language/russian/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/ruyo/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/sex-education/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/tags/sex-work/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/tags/sexual-harassment/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/tags/social-media/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/category/social-media/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/sof/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/spot/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/tags/state-media/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/category/state-media/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/statistics_agency/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/stop-harass/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -423,7 +513,7 @@
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -441,7 +531,7 @@
                 />
   </url><url>
     <loc>/countries/tajikistan/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/tedxabaystwomen/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -449,38 +539,53 @@
     <loc>/sources/sources/fish/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
+    <loc>/sources/sources/uz_gov_portal/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
     <loc>/sources/sources/tolk/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/countries/turkmenistan/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/unit/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
   </url><url>
     <loc>/tags/urban-planning/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/language/uzbek/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/uzbek_review/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/countries/uzbekistan/</loc>
-    <lastmod>2023-08-06T20:55:56-04:00</lastmod>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/uzdaily/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/uza/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/uzreport/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/visual/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/womxn_of_ca/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-06T21:47:16-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/xabar/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/nemolchikz/</loc>
     <lastmod>2023-07-31T01:47:00-04:00</lastmod>
   </url><url>
     <loc>/date_start/1960/</loc>
     <lastmod>2023-07-31T01:47:00-04:00</lastmod>
-  </url><url>
-    <loc>/date_start/1999/</loc>
-    <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
     <loc>/date_start/2012/</loc>
     <lastmod>2023-07-31T01:47:00-04:00</lastmod>
@@ -491,14 +596,8 @@
     <loc>/date_start/2014/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
-    <loc>/date_start/2017/</loc>
-    <lastmod>2023-07-31T01:47:00-04:00</lastmod>
-  </url><url>
     <loc>/date_end/2020/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
-  </url><url>
-    <loc>/tags/analytics/</loc>
-    <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/anhor/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
@@ -563,12 +662,6 @@
     <loc>/tags/gender/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
-    <loc>/tags/government/</loc>
-    <lastmod>2023-07-30T22:19:24-04:00</lastmod>
-  </url><url>
-    <loc>/category/government/</loc>
-    <lastmod>2023-07-30T22:19:24-04:00</lastmod>
-  </url><url>
     <loc>/tags/health/</loc>
     <lastmod>2023-07-31T01:47:00-04:00</lastmod>
   </url><url>
@@ -608,9 +701,6 @@
     <loc>/sources/sources/nemolchi_uz/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
-    <loc>/category/ngo/</loc>
-    <lastmod>2023-07-30T22:19:24-04:00</lastmod>
-  </url><url>
     <loc>/sources/sources/orda/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
   </url><url>
@@ -630,9 +720,6 @@
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
     <loc>/tags/regional-media/</loc>
-    <lastmod>2023-07-30T22:19:24-04:00</lastmod>
-  </url><url>
-    <loc>/tags/regional-ngo/</loc>
     <lastmod>2023-07-30T22:19:24-04:00</lastmod>
   </url><url>
     <loc>/category/regional-ngo/</loc>
@@ -680,9 +767,6 @@
     <loc>/date_start/1997/</loc>
     <lastmod>2023-07-13T22:21:02-04:00</lastmod>
   </url><url>
-    <loc>/date_start/2002/</loc>
-    <lastmod>2023-07-13T23:03:28-04:00</lastmod>
-  </url><url>
     <loc>/date_start/2003/</loc>
     <lastmod>2023-07-13T22:21:02-04:00</lastmod>
   </url><url>
@@ -697,9 +781,6 @@
   </url><url>
     <loc>/date_end/2014/</loc>
     <lastmod>2023-07-13T22:21:02-04:00</lastmod>
-  </url><url>
-    <loc>/date_start/2016/</loc>
-    <lastmod>2023-07-13T23:03:28-04:00</lastmod>
   </url><url>
     <loc>/date_end/2021/</loc>
     <lastmod>2023-07-13T23:03:28-04:00</lastmod>
@@ -1087,6 +1168,12 @@
   </url><url>
     <loc>/release/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/acted/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/adolat/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/about/</loc>
     <lastmod>2023-05-12T15:16:49-04:00</lastmod>
