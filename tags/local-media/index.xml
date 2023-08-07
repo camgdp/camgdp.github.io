@@ -4,7 +4,7 @@
     <link>/tags/local-media/</link>
     <description>Recent content in local media on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/tags/local-media/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,20 @@
         
       
     
+    
+    <item>
+      <title>Sources: Kok.team</title>
+      <link>/sources/sources/kok.team/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/kok.team/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2017 and dissolved in 2022, &lt;a href=&#34;https://www.kok.team/&#34;&gt;Kok.team&lt;/a&gt; was a grassroots LGBT organization dedicated to providing information on the LGBT issues in Kazakh. Digital archive contains articles, podcasts and videos of Kazakhstani LGBT  community. Available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Anhor</title>
@@ -262,20 +276,6 @@
         
         
         &lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/humanrightskz/&#34;&gt;Human Rights KZ&lt;/a&gt; is dedicated to sharing domestic and international human rights information and news in Kazakh. Available on Instagram.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Kok.team</title>
-      <link>/sources/sources/kok.team/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/kok.team/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2017 and dissolved in 2022, &lt;a href=&#34;https://www.kok.team/&#34;&gt;Kok.team&lt;/a&gt; was a grassroots LGBT organization dedicated to providing information on the LGBT issues in Kazakh. Digital archive contains articles, podcasts and videos of Kazakhstani LGBT  community. Available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;
 
       </description>
     </item>

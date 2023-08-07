@@ -4,7 +4,7 @@
     <link>/tags/central-asian-media/</link>
     <description>Recent content in Central Asian media on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/tags/central-asian-media/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,20 @@
         
       
     
+    
+    <item>
+      <title>Sources: Orda</title>
+      <link>/sources/sources/orda/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/orda/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2020, &lt;a href=&#34;https://orda.kz/&#34;&gt;Orda&lt;/a&gt; offers coverage of current events in Kazakhstan and Uzbekistan, as well as journalistic investigations.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Adamdar/CA</title>
@@ -108,20 +122,6 @@
         
         
         &lt;p&gt;Founded in collaboration with the Central Asia Program and the Central Asian Analytical Network on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://voicesoncentralasia.org/&#34;&gt;Voices on Central Asia&lt;/a&gt; offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Orda</title>
-      <link>/sources/sources/orda/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/orda/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2020, &lt;a href=&#34;https://orda.kz/&#34;&gt;Orda&lt;/a&gt; offers coverage of current events in Kazakhstan and Uzbekistan, as well as journalistic investigations.&lt;/p&gt;
 
       </description>
     </item>

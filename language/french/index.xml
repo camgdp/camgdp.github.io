@@ -4,7 +4,7 @@
     <link>/language/french/</link>
     <description>Recent content in French on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/language/french/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,25 @@
         
       
     
+    
+    <item>
+      <title>Sources: World Bank</title>
+      <link>/sources/sources/world_bank/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/world_bank/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;a href=&#34;https://genderdata.worldbank.org/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt; covers &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/kyrgyz-republic/&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/mongolia/&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/tajikistan/&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/Turkmenistan/&#34;&gt;Turkmenistan&lt;/a&gt;, and &lt;a href=&#34;https://genderdata.worldbank.org/countries/uzbekistan/&#34;&gt;Uzbekistan&lt;/a&gt;, and offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;
+&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;
+&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wbl.worldbank.org/en/reports&#34;&gt;Women, Business, and the Law Reports&lt;/a&gt; Annual report measuring the laws and regulations that affect women’s economic opportunity in 190 economies, including Kazakhstan.&lt;/p&gt;
+&lt;p&gt;Reports are available in English with executive summaries in French, Spanish, and Arabic.&lt;/p&gt;
+&lt;p&gt;Methodology section is available on the website and is based on feedback of &amp;ldquo;more than 2,000 respondents&amp;rdquo; which includes local experts on family, labor, and criminal law, including lawyers, judges, academics, and civil society. It is unclear whether the questionnaires sent out to experts are in English, Russian, or Kazakh languages.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Novastan</title>
@@ -102,25 +121,6 @@
 &lt;p&gt;Their &lt;a href=&#34;https://www.unfpa.org/data/world-population/KZ&#34;&gt;Data Portal for Kazakhstan&lt;/a&gt; gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.   Their semi-regularly published &lt;a href=&#34;https://kazakhstan.unfpa.org/en/publications&#34;&gt;reports and surveys&lt;/a&gt; address these topics. Survey publcations contain a methodology section.&lt;/p&gt;
 &lt;p&gt;There is also a &lt;a href=&#34;https://www.unfpa.org/data/transparency-portal/unfpa-kazakhstan&#34;&gt;Transparency portal&lt;/a&gt; that details expenses and program activities of the Population Fund in Kazakhstan.&lt;/p&gt;
 &lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: World Bank</title>
-      <link>/sources/sources/world_bank/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/world_bank/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://genderdata.worldbank.org/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt;, covers &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/kyrgyzstan/&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/mongolia/&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/tajikistan/&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/Turkmenistan/&#34;&gt;Turmenistan&lt;/a&gt;, and &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Uzbekistan&lt;/a&gt;offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;
-&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;
-&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wbl.worldbank.org/en/reports&#34;&gt;Women, Business, and the Law Reports&lt;/a&gt; Annual report measuring the laws and regulations that affect women’s economic opportunity in 190 economies, including Kazakhstan.&lt;/p&gt;
-&lt;p&gt;Reports are available in English with executive summaries in French, Spanish, and Arabic.&lt;/p&gt;
-&lt;p&gt;Methodology section is available on the website and is based on feedback of &amp;ldquo;more than 2,000 respondents&amp;rdquo; which includes local experts on family, labor, and criminal law, including lawyers, judges, academics, and civil society. It is unclear whether the questionnaires sent out to experts are in English, Russian, or Kazakh languages.&lt;/p&gt;
 
       </description>
     </item>
