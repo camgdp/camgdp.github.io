@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAMGDP – business</title>
+    <link>/tags/business/</link>
+    <description>Recent content in business on CAMGDP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sources: Loyiha</title>
+      <link>/sources/sources/loyiha/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/loyiha/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2022, &lt;a href=&#34;https://www.youtube.com/@loyiha_project/&#34;&gt;Loyiha&lt;/a&gt; is a video podcast platform designed to &amp;ldquo;inspire and motivate women.&amp;rdquo; It platforms several women-centered podcast series that provide educational content on various career fields, from marketing to education, as well as information on such topics as misogyny, infertility, ecology, and others.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@
     <link>/data_type/news/</link>
     <description>Recent content in news on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/data_type/news/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,34 @@
         
       
     
+    
+    <item>
+      <title>Sources: Bashtan Bashta</title>
+      <link>/sources/sources/bashtan_bashta/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/bashtan_bashta/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2020, &lt;a href=&#34;https://www.youtube.com/@bashtanbashta/&#34;&gt;Bashtan Bashta&lt;/a&gt; is a podcast series and &lt;a href=&#34;https://www.instagram.com/bashtan_bashta/&#34;&gt;a social media project&lt;/a&gt; dedicated to raising civil consciousness in Kyrgyzstan. It also covers news and politics of other Central Asian countries.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Unit </title>
+      <link>/sources/sources/unit/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/unit/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2021 by n-ost, a Berlin-based media NGO, &lt;a href=&#34;https://unit.n-ost.org&#34;&gt;Unit&lt;/a&gt; is a crossborder community of journalists and activists from Central Asia, Eastern Europe, and South Caucasus who work on the LGBTQIA+ issues.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: NeMolchiKZ</title>
@@ -682,34 +710,6 @@
         
         
         &lt;p&gt;Founded in 2020, &lt;a href=&#34;https://www.instagram.com/tilkespekjoq/&#34;&gt;Til Kespek Joq&lt;/a&gt; offers coverage of current events in Kazakhstan. Available in Kazakh on Instagram, Telegram, Twitter, Facebook, TikTok, and YouTube.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Uyat Emes</title>
-      <link>/sources/sources/uyat_emes/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/uyat_emes/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2018, &lt;a href=&#34;https://uyatemes.kz/&#34;&gt;Uyat Emes&lt;/a&gt; is an educational site about sex and relationships for Kazakhstani teenagers and their parents. The mission of the initiative is to help young people become more literate about reproductive health and sexuality.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Village Kazakhstan</title>
-      <link>/sources/sources/village_kazakhstan/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/village_kazakhstan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.the-village-kz.com/&#34;&gt;The Village Kazakhstan&lt;/a&gt; offers coverage of cultural and social life, events, and businesses.&lt;/p&gt;
 
       </description>
     </item>

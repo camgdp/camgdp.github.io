@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – local media</title>
+    <title>CAMGDP – Local media</title>
     <link>/category/local-media/</link>
-    <description>Recent content in local media on CAMGDP</description>
+    <description>Recent content in Local media on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
     
@@ -13,6 +13,20 @@
         
       
     
+    
+    <item>
+      <title>Sources: Against Frotterizm</title>
+      <link>/sources/sources/against_frotterizm/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/against_frotterizm/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/frotterizm.uz/&#34;&gt;Against Frotterizm&lt;/a&gt; is a social campaign project based on voluntary involved. It is combating frotteurism and harassment of women in Uzbekistan&amp;rsquo;s public transport. The project aims to increase public awareness of the issue, develop mechanisms to detect cases of harassment in public transport, and develop instructions on what to do and how to protect victims if they are harassed on public transport.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: QAZAQUEER</title>
@@ -38,6 +52,20 @@
         
         
         &lt;p&gt;First held in 2019, &lt;a href=&#34;https://www.instagram.com/tedxabaystwomen/&#34;&gt;TEDxAbayStWomen&lt;/a&gt; is a noncommercial conference on gender equality usually held in Almaty, Kazakhstan. Next conference is expected to be held in 2024.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: Womxn of Central Asia</title>
+      <link>/sources/sources/womxn_of_ca/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/womxn_of_ca/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/womxnofcentralasia/&#34;&gt;Womxn of Central Asia&lt;/a&gt; is a social media project sharing stories and success of Central Asian women in various professional fields. It also has a Spotify-based podcast.&lt;/p&gt;
 
       </description>
     </item>
