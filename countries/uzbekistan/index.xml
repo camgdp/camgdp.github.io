@@ -4,7 +4,7 @@
     <link>/countries/uzbekistan/</link>
     <description>Recent content in Uzbekistan on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/countries/uzbekistan/index.xml" rel="self" type="application/rss+xml" />
     
@@ -50,6 +50,20 @@
     </item>
     
     <item>
+      <title>Sources: Museum of Contemporary Women&#39;s and Queer Art of Central Asia (MoFA&#43;)</title>
+      <link>/sources/sources/mofa/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/mofa/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;http://femmuseum.org/&#34;&gt;Central Asian Museum of Feminist and Queer Art (MoFA+)&lt;/a&gt; is a museum spotlighting feminist and queer artists from Central Asia and advocating for the rights and freedoms of women and LGBTQIA+ community. MoFA+ hosts solo and group exhibits, workshops, and events. The museum also grants art fellowships and is involved in documentary filmmaking.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Sources: Against Frotterizm</title>
       <link>/sources/sources/against_frotterizm/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
@@ -87,21 +101,6 @@
         
         
         &lt;p&gt;Launched in 2020, &lt;a href=&#34;https://ariadna.media&#34;&gt;Ariadna&lt;/a&gt; is a Central Asia media dedicated to covering the art scene of the region using accessible language. It provides reviews, editorials, and audioguides.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Central Asian Museum of Feminist and Queer Art (MoFA&#43;)</title>
-      <link>/sources/sources/mofa/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/mofa/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/femmuseum/&#34;&gt;Central Asian Museum of Feminist and Queer Art (MoFA+)&lt;/a&gt;&lt;/p&gt;
-&lt;!---is a grassroots media spotlighting feminist and queer artists from Central Asia. MoFA+ also shares art exhibits, events, and publications on feminist and queer art in Central Asia. It appears to be primarily based at the Kyrgyz National Museum of Fine Arts named after Gapar Aitiev and located in Bishkek.---&gt;
 
       </description>
     </item>

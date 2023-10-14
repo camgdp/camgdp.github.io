@@ -4,7 +4,7 @@
     <link>/language/english/</link>
     <description>Recent content in English on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/language/english/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,20 @@
         
       
     
+    
+    <item>
+      <title>Sources: Museum of Contemporary Women&#39;s and Queer Art of Central Asia (MoFA&#43;)</title>
+      <link>/sources/sources/mofa/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/mofa/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;http://femmuseum.org/&#34;&gt;Central Asian Museum of Feminist and Queer Art (MoFA+)&lt;/a&gt; is a museum spotlighting feminist and queer artists from Central Asia and advocating for the rights and freedoms of women and LGBTQIA+ community. MoFA+ hosts solo and group exhibits, workshops, and events. The museum also grants art fellowships and is involved in documentary filmmaking.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Ariadna</title>
@@ -717,20 +731,6 @@ Eurasia and Central Asia region primarily focuses on Eastern European and Balkan
         
         
         &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Voices on Central Asia</title>
-      <link>/sources/sources/voices_on_central_asia/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/voices_on_central_asia/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in collaboration with the Central Asia Program and the Central Asian Analytical Network on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://voicesoncentralasia.org/&#34;&gt;Voices on Central Asia&lt;/a&gt; offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia.&lt;/p&gt;
 
       </description>
     </item>
