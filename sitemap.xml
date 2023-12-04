@@ -2,13 +2,6 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>/en/sitemap.xml</loc>
-    
-      <lastmod>2023-11-02T21:15:32-04:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
     <loc>/kk/sitemap.xml</loc>
     
   </sitemap>
@@ -16,7 +9,14 @@
   <sitemap>
     <loc>/ru/sitemap.xml</loc>
     
-      <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+      <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>/en/sitemap.xml</loc>
+    
+      <lastmod>2023-11-02T21:15:32-04:00</lastmod>
     
   </sitemap>
   
