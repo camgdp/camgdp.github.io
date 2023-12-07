@@ -6,7 +6,7 @@
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
   </url><url>
     <loc>/guides/kazakhstan/kazakhstan_getting_started_guide/</loc>
-    <lastmod>2023-11-02T21:15:32-04:00</lastmod>
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
   </url><url>
     <loc>/guides/uzbekistan/uzbekistan_gender_research_guide/</loc>
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
@@ -27,7 +27,7 @@
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
   </url><url>
     <loc>/guides/</loc>
-    <lastmod>2023-01-09T01:55:19-05:00</lastmod>
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
   </url><url>
     <loc>/sources/sources/</loc>
     <lastmod>2023-01-09T01:55:19-05:00</lastmod>
@@ -52,6 +52,11 @@
   </url><url>
     <loc>/contributor/aizada-arystanbek/</loc>
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kk"
+                href="/kk/contributor/aizada-arystanbek/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -91,16 +96,16 @@
                 />
   </url><url>
     <loc>/contributor/</loc>
-    <lastmod>2023-11-02T21:15:32-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/contributor/"
-                />
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
                 href="/kk/contributor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/contributor/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -109,16 +114,16 @@
                 />
   </url><url>
     <loc>/countries/</loc>
-    <lastmod>2023-11-02T21:15:32-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/countries/"
-                />
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
                 href="/kk/countries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/countries/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -199,7 +204,12 @@
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
   </url><url>
     <loc>/tags/guides/</loc>
-    <lastmod>2023-11-02T21:15:32-04:00</lastmod>
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kk"
+                href="/kk/tags/guides/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -221,7 +231,12 @@
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
   </url><url>
     <loc>/countries/kazakhstan/</loc>
-    <lastmod>2023-11-02T21:15:32-04:00</lastmod>
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kk"
+                href="/kk/countries/kazakhstan/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -273,19 +288,19 @@
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
   </url><url>
     <loc>/contributor/ryan-womack/</loc>
-    <lastmod>2023-11-02T21:15:32-04:00</lastmod>
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2023-11-02T21:15:32-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/tags/"
-                />
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
                 href="/kk/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1255,7 +1270,7 @@
     <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/about/</loc>
-    <lastmod>2023-09-21T14:07:42-04:00</lastmod>
+    <lastmod>2023-12-04T00:58:26-05:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
