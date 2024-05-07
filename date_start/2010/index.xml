@@ -4,7 +4,7 @@
     <link>/date_start/2010/</link>
     <description>Recent content in 2010 on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/date_start/2010/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,15 +15,33 @@
     
     
     <item>
-      <title>Sources: World Value Survey</title>
-      <link>/sources/sources/world_value_survey_uz/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <title>Sources: World Values Survey (KZ)</title>
+      <link>/sources/sources/world_values_survey_kz/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/sources/sources/world_value_survey_uz/</guid>
+      <guid>/sources/sources/world_values_survey_kz/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Value Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Values Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;
+&lt;p&gt;Kazakhstan is included in waves 6 (2010-2014) and 7 (2017-2020).&lt;/p&gt;
+&lt;p&gt;Some relevant questions include questions about women’s leadership skills, women’s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;
+&lt;p&gt;The sample size is 1,500 and 1,276 in waves 6 and 7 respectively. A lot of questions are missing data.&lt;/p&gt;
+&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: World Values Survey (UZ)</title>
+      <link>/sources/sources/world_values_survey_uz/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/world_values_survey_uz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Values Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;
 &lt;p&gt;Some relevant questions include questions about women&amp;rsquo;s leadership skills, women&amp;rsquo;s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;
 &lt;p&gt;Uzbekistan is included in wave 6 (2010-2014). Sample size for Uzbekistan is 1487.&lt;/p&gt;
 &lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
@@ -43,24 +61,6 @@
         &lt;p&gt;The &lt;a href=&#34;https://www.unfpa.org&#34;&gt;UN Population Fund&lt;/a&gt; produces country-specific landing pages. The work of the Fund includes data on sexual and reproductive health, gender equality, young people, and population matters.&lt;/p&gt;
 &lt;p&gt;Their &lt;a href=&#34;https://www.unfpa.org/data/world-population/KZ&#34;&gt;Data Portal for Kazakhstan&lt;/a&gt; gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.   Their semi-regularly published &lt;a href=&#34;https://kazakhstan.unfpa.org/en/publications&#34;&gt;reports and surveys&lt;/a&gt; address these topics. Survey publcations contain a methodology section.&lt;/p&gt;
 &lt;p&gt;There is also a &lt;a href=&#34;https://www.unfpa.org/data/transparency-portal/unfpa-kazakhstan&#34;&gt;Transparency portal&lt;/a&gt; that details expenses and program activities of the Population Fund in Kazakhstan.&lt;/p&gt;
-&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: World Value Survey</title>
-      <link>/sources/sources/world_value_survey/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/world_value_survey/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Value Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;
-&lt;p&gt;Kazakhstan is included in waves 6 (2010-2014) and 7 (2017-2020).&lt;/p&gt;
-&lt;p&gt;Some relevant questions include questions about women’s leadership skills, women’s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;
-&lt;p&gt;The sample size is 1,500 and 1,276 in waves 6 and 7 respectively. A lot of questions are missing data.&lt;/p&gt;
 &lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
 
       </description>

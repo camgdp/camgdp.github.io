@@ -4,7 +4,7 @@
     <link>/countries/kazakhstan/</link>
     <description>Recent content in Kazakhstan on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/countries/kazakhstan/index.xml" rel="self" type="application/rss+xml" />
     
@@ -154,7 +154,7 @@
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
-&lt;p&gt;While &lt;a href=&#34;/category/state-affiliated-media/&#34;&gt;state-affiliated media&lt;/a&gt; and &lt;a href=&#34;/category/state-media/&#34;&gt;state-media&lt;/a&gt; offer mainstream perspectives, while &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; can provide a closer focus on smaller groups. &lt;a href=&#34;/category/independent-media/&#34;&gt;Independent media&lt;/a&gt; can deliver alternative viewpoints, and &lt;a href=&#34;/category/social-media/&#34;&gt;social media&lt;/a&gt; can tap directly into current opinion and provide insight into topics omitted in other sources,&lt;/p&gt;
+&lt;p&gt;While &lt;a href=&#34;/category/state-affiliated-media/&#34;&gt;state-affiliated media&lt;/a&gt; and &lt;a href=&#34;/category/state-media/&#34;&gt;state-media&lt;/a&gt; offer mainstream perspectives, while &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; can provide a closer focus on smaller groups. &lt;a href=&#34;/category/independent-media/&#34;&gt;Independent media&lt;/a&gt; can deliver alternative viewpoints, and &lt;a href=&#34;/category/social-media/&#34;&gt;social media&lt;/a&gt; can tap directly into current opinion and provide insight into topics omitted in other sources.&lt;/p&gt;
 &lt;p&gt;For example:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
@@ -179,6 +179,24 @@
         
         
         
+      </description>
+    </item>
+    
+    <item>
+      <title>Sources: World Values Survey (KZ)</title>
+      <link>/sources/sources/world_values_survey_kz/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/world_values_survey_kz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Values Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;
+&lt;p&gt;Kazakhstan is included in waves 6 (2010-2014) and 7 (2017-2020).&lt;/p&gt;
+&lt;p&gt;Some relevant questions include questions about women’s leadership skills, women’s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;
+&lt;p&gt;The sample size is 1,500 and 1,276 in waves 6 and 7 respectively. A lot of questions are missing data.&lt;/p&gt;
+&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
+
       </description>
     </item>
     
@@ -817,20 +835,6 @@
         
         
         &lt;p&gt;Founded on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://www.caa-network.org/&#34;&gt;Central Asian Analytical Network&lt;/a&gt; offers editorial and opinion pieces, interviews, book and publication reviews, and expert projects on politics, society, and economics of Central Asia.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Current Time Asia</title>
-      <link>/sources/sources/current_time_asia/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/current_time_asia/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Based in Prague, Czech Republic, &lt;a href=&#34;https://www.currenttime.tv/asia/&#34;&gt;Current Time Asia&lt;/a&gt; was created by the Radio Free Europe/Radio Liberty, a US Congress-funded broadcasting organization, with participation of Voice of America. Offers news, reports, investigations, and interviews covering Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan.&lt;/p&gt;
 
       </description>
     </item>
