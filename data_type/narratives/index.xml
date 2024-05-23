@@ -4,7 +4,7 @@
     <link>/data_type/narratives/</link>
     <description>Recent content in narratives on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/data_type/narratives/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,20 @@
         
       
     
+    
+    <item>
+      <title>Sources: Loyiha</title>
+      <link>/sources/sources/loyiha/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/loyiha/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Founded in 2022, &lt;a href=&#34;https://www.youtube.com/@loyiha_project/&#34;&gt;Loyiha&lt;/a&gt; is a video podcast platform designed to &amp;ldquo;inspire and motivate women.&amp;rdquo; It platforms several women-centered podcast series that provide educational content on various career fields, from marketing to education, as well as information on such topics as misogyny, infertility, ecology, and others.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Museum of Contemporary Women&#39;s and Queer Art of Central Asia (MoFA&#43;)</title>
@@ -178,20 +192,6 @@
         
         
         &lt;p&gt;Founded in 2017 and dissolved in 2022, &lt;a href=&#34;https://www.kok.team/&#34;&gt;Kok.team&lt;/a&gt; was a grassroots LGBT organization dedicated to providing information on the LGBT issues in Kazakh. Digital archive contains articles, podcasts and videos of Kazakhstani LGBT  community. Available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Loyiha</title>
-      <link>/sources/sources/loyiha/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/loyiha/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2022, &lt;a href=&#34;https://www.youtube.com/@loyiha_project/&#34;&gt;Loyiha&lt;/a&gt; is a video podcast platform designed to &amp;ldquo;inspire and motivate women.&amp;rdquo; It platforms several women-centered podcast series that provide educational content on various career fields, from marketing to education, as well as information on such topics as misogyny, infertility, ecology, and others.&lt;/p&gt;
 
       </description>
     </item>

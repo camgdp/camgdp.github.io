@@ -261,29 +261,6 @@
   </url><url>
     <loc>/kk/%D0%B4%D0%B5%D1%80%D0%B5%D0%BA%D0%BA%D3%A9%D0%B7%D0%B4%D0%B5%D1%80/</loc>
   </url><url>
-    <loc>/kk/search/</loc>
-    <lastmod>2024-04-29T01:12:54-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uz"
-                href="/uz/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kk"
-                href="/kk/search/"
-                />
-  </url><url>
     <loc>/kk/</loc>
     <lastmod>2024-05-06T20:30:43-04:00</lastmod>
     <xhtml:link
@@ -305,6 +282,29 @@
                 rel="alternate"
                 hreflang="kk"
                 href="/kk/"
+                />
+  </url><url>
+    <loc>/kk/search/</loc>
+    <lastmod>2024-04-29T01:12:54-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uz"
+                href="/uz/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kk"
+                href="/kk/search/"
                 />
   </url>
 </urlset>
