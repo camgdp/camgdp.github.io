@@ -4,7 +4,7 @@
     <link>/contributor/ryan-womack/</link>
     <description>Recent content in Ryan Womack on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/contributor/ryan-womack/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,55 @@
         
       
     
+    
+    <item>
+      <title>Guides: Uzbekistan Getting Started Guide</title>
+      <link>/guides/uzbekistan/uzbekistan_getting_started_guide/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/guides/uzbekistan/uzbekistan_getting_started_guide/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;
+&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://camgdp.org/sources/sources/world_values_survey_uz/&#34;&gt;World Values Survey (Uzbekistan)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/wef_global_gender_gap_report/&#34;&gt;World Economic Forum&amp;rsquo;s Global Gender Gap Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/un_uz/&#34;&gt;UN Development Program in Uzbekistan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;local-non-governmental-organizations-local-ngos&#34;&gt;Local non-governmental organizations (Local NGOs)&lt;/h2&gt;
+&lt;p&gt;For information on issues that often go unrecognized in official state media and governmental sources, such as feminist activism and LGBTQ topics, &lt;a href=&#34;/category/local-ngo&#34;&gt;local NGOs&lt;/a&gt; can fill in the gaps.  These sources are often activist and organized around specific issues and groups.&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/nemolchi_uz/&#34;&gt;NeMolchi.UZ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/femagora/&#34;&gt;FemAgora&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;government&#34;&gt;Government&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;/category/government&#34;&gt;Government&lt;/a&gt; resources provide many official data series and sources of official government laws and pronouncements, often in great detail, but may lack in coverage of underrepresented groups or controversial issues.  Typically the government is the only organization that has the resources and authority to compel widespread participation in data and information collection for efforts such as a National Census and other large-scale initiatives.  At the same time, the government&amp;rsquo;s official role may discourage data collection and respondent participation about a wide range of topics such as views and behavior relating to politics, religion, sexual and gender expression, ethnic identity, and more.&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/statistics_agency/&#34;&gt;Statistics Agency under the President of the Republic of Uzbekistan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/family_and_womens_committee/&#34;&gt;Family and Women&amp;rsquo;s Committee of Uzbekistan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
+&lt;p&gt;While &lt;a href=&#34;/category/state-affiliated-media/&#34;&gt;state-affiliated media&lt;/a&gt; and &lt;a href=&#34;/category/state-media/&#34;&gt;state-media&lt;/a&gt; offer mainstream perspectives, while &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; can provide a closer focus on smaller groups. &lt;a href=&#34;/category/independent-media/&#34;&gt;Independent media&lt;/a&gt; can deliver alternative viewpoints, and &lt;a href=&#34;/category/social-media/&#34;&gt;social media&lt;/a&gt; can tap directly into current opinion and provide insight into topics omitted in other sources.&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/uza/&#34;&gt;Uzbekistan National News Agency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/loyiha/&#34;&gt;Loyiha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;local-information&#34;&gt;Local information&lt;/h2&gt;
+&lt;p&gt;For major cities and provinces, local government and &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; (also mentioned above) may provide additional detail and nuance beyond national sources.&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/against_frotterizm/&#34;&gt;Against Frotterizm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/sources/sources/ayol_buyum_emas/&#34;&gt;Ayol buyum emas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Guides: Kazakhstan Getting Started Guide</title>
@@ -61,49 +110,6 @@
 &lt;li&gt;&lt;a href=&#34;/sources/sources/akimat_of_the_city_of_almaty/&#34;&gt;Akimat of the city of Almaty&lt;/a&gt; for information on &lt;strong&gt;Almaty&lt;/strong&gt;, the largest city in Kazakhstan.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Created 2023-10-17, updated 2023-12-03&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Guides: Uzbekistan Getting Started Guide</title>
-      <link>/guides/uzbekistan/uzbekistan_getting_started_guide/</link>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/guides/uzbekistan/uzbekistan_getting_started_guide/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;
-&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;local-non-governmental-organizations-local-ngos&#34;&gt;Local non-governmental organizations (Local NGOs)&lt;/h2&gt;
-&lt;p&gt;For information on issues that often go unrecognized in official state media and governmental sources, such as feminist activism and LGBTQ topics, &lt;a href=&#34;/category/local-ngo&#34;&gt;local NGOs&lt;/a&gt; can fill in the gaps.  These sources are often activist and organized around specific issues and groups.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;government&#34;&gt;Government&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;/category/government&#34;&gt;Government&lt;/a&gt; resources provide many official data series and sources of official government laws and pronouncements, often in great detail, but may lack in coverage of underrepresented groups or controversial issues.  Typically the government is the only organization that has the resources and authority to compel widespread participation in data and information collection for efforts such as a National Census and other large-scale initiatives.  At the same time, the government&amp;rsquo;s official role may discourage data collection and respondent participation about a wide range of topics such as views and behavior relating to politics, religion, sexual and gender expression, ethnic identity, and more.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
-&lt;p&gt;While &lt;a href=&#34;/category/state-affiliated-media/&#34;&gt;state-affiliated media&lt;/a&gt; and &lt;a href=&#34;/category/state-media/&#34;&gt;state-media&lt;/a&gt; offer mainstream perspectives, while &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; can provide a closer focus on smaller groups. &lt;a href=&#34;/category/independent-media/&#34;&gt;Independent media&lt;/a&gt; can deliver alternative viewpoints, and &lt;a href=&#34;/category/social-media/&#34;&gt;social media&lt;/a&gt; can tap directly into current opinion and provide insight into topics omitted in other sources.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;local-information&#34;&gt;Local information&lt;/h2&gt;
-&lt;p&gt;For major cities and provinces, local government and &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; (also mentioned above) may provide additional detail and nuance beyond national sources.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
       </description>
     </item>

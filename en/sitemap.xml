@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/guides/uzbekistan/uzbekistan_getting_started_guide/</loc>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
+  </url><url>
     <loc>/guides/kazakhstan/kazakhstan_gender_research_guide/</loc>
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
   </url><url>
@@ -10,9 +13,6 @@
   </url><url>
     <loc>/guides/uzbekistan/uzbekistan_gender_research_guide/</loc>
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
-  </url><url>
-    <loc>/guides/uzbekistan/uzbekistan_getting_started_guide/</loc>
-    <lastmod>2024-04-29T02:36:12-04:00</lastmod>
   </url><url>
     <loc>/guides/kazakhstan/</loc>
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
@@ -32,40 +32,8 @@
     <loc>/sources/sources/</loc>
     <lastmod>2023-01-09T01:55:19-05:00</lastmod>
   </url><url>
-    <loc>/date_start/2020/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-  </url><url>
-    <loc>/date_end/2020/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-  </url><url>
-    <loc>/sources/sources/caspiana/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-  </url><url>
-    <loc>/category/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kk"
-                href="/kk/category/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/category/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="uz"
-                href="/uz/category/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/category/"
-                />
-  </url><url>
     <loc>/contributor/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uz"
@@ -88,7 +56,7 @@
                 />
   </url><url>
     <loc>/countries/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uz"
@@ -110,8 +78,117 @@
                 href="/countries/"
                 />
   </url><url>
-    <loc>/data_type/</loc>
+    <loc>/tags/guides/</loc>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uz"
+                href="/uz/tags/guides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kk"
+                href="/kk/tags/guides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/tags/guides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/guides/"
+                />
+  </url><url>
+    <loc>/contributor/ryan-womack/</loc>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uz"
+                href="/uz/contributor/ryan-womack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contributor/ryan-womack/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uz"
+                href="/uz/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kk"
+                href="/kk/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/countries/uzbekistan/</loc>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uz"
+                href="/uz/countries/uzbekistan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/countries/uzbekistan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/countries/uzbekistan/"
+                />
+  </url><url>
+    <loc>/date_start/2020/</loc>
     <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+  </url><url>
+    <loc>/date_end/2020/</loc>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
+  </url><url>
+    <loc>/sources/sources/caspiana/</loc>
+    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+  </url><url>
+    <loc>/category/</loc>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kk"
+                href="/kk/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uz"
+                href="/uz/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/category/"
+                />
+  </url><url>
+    <loc>/data_type/</loc>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -134,7 +211,7 @@
                 />
   </url><url>
     <loc>/date_end/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -157,7 +234,7 @@
                 />
   </url><url>
     <loc>/date_start/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -180,16 +257,16 @@
                 />
   </url><url>
     <loc>/language/english/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/tags/government/</loc>
     <lastmod>2024-05-25T23:30:15-04:00</lastmod>
   </url><url>
     <loc>/category/ingo/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/countries/kazakhstan/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -210,7 +287,7 @@
     <lastmod>2024-05-25T23:30:15-04:00</lastmod>
   </url><url>
     <loc>/language/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kk"
@@ -236,60 +313,16 @@
     <lastmod>2024-05-25T23:30:15-04:00</lastmod>
   </url><url>
     <loc>/data_type/quantitative/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-  </url><url>
-    <loc>/contributor/ryan-womack/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/tags/statistics/</loc>
     <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uz"
-                href="/uz/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kk"
-                href="/kk/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
   </url><url>
     <loc>/countries/tajikistan/</loc>
     <lastmod>2024-05-25T23:30:15-04:00</lastmod>
   </url><url>
     <loc>/countries/turkmenistan/</loc>
     <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-  </url><url>
-    <loc>/countries/uzbekistan/</loc>
-    <lastmod>2024-05-25T23:30:15-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uz"
-                href="/uz/countries/uzbekistan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/countries/uzbekistan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/countries/uzbekistan/"
-                />
   </url><url>
     <loc>/date_start/1993/</loc>
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
@@ -316,7 +349,7 @@
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
   </url><url>
     <loc>/contributor/aizada-arystanbek/</loc>
-    <lastmod>2024-05-22T22:24:27-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uz"
@@ -363,7 +396,7 @@
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
   </url><url>
     <loc>/tags/health/</loc>
-    <lastmod>2024-05-22T22:24:27-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/tags/housing/</loc>
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
@@ -402,28 +435,28 @@
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
   </url><url>
     <loc>/data_type/survey/</loc>
-    <lastmod>2024-05-22T22:24:27-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/language/uzbek/</loc>
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
   </url><url>
     <loc>/date_start/2010/</loc>
-    <lastmod>2024-04-29T02:36:12-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/date_end/2014/</loc>
-    <lastmod>2024-04-29T02:36:12-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/tags/law/</loc>
-    <lastmod>2024-04-29T02:36:12-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/tags/population/</loc>
-    <lastmod>2024-04-29T02:36:12-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/world_values_survey_kz/</loc>
-    <lastmod>2024-04-29T02:36:12-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/world_values_survey_uz/</loc>
-    <lastmod>2024-04-29T02:36:12-04:00</lastmod>
+    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/date_start/1934/</loc>
     <lastmod>2023-11-02T00:13:59-04:00</lastmod>
@@ -457,29 +490,6 @@
   </url><url>
     <loc>/category/government/</loc>
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
-  </url><url>
-    <loc>/tags/guides/</loc>
-    <lastmod>2024-05-22T22:24:27-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uz"
-                href="/uz/tags/guides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kk"
-                href="/kk/tags/guides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/tags/guides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/guides/"
-                />
   </url><url>
     <loc>/tags/history/</loc>
     <lastmod>2023-11-02T00:13:59-04:00</lastmod>
