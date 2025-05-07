@@ -4,7 +4,7 @@
     <link>/language/english/</link>
     <description>Recent content in English on CAMGDP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/language/english/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +13,25 @@
         
       
     
+    
+    <item>
+      <title>Sources: National Statistical Committee of the Kyrgyz Republic</title>
+      <link>/sources/sources/stat_gov_kg/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/sources/sources/stat_gov_kg/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;a href=&#34;https://stat.gov.kg&#34;&gt;National Statistical Committee of the Kyrgyz Republic&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Kyrgyzstan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;
+&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://stat.gov.kg/en/gendernaya-statistika/&#34;&gt;Gender Statistics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Publications include the &lt;a href=&#34;https://stat.gov.kg/en/publications/statisticheskij-ezhegodnik-kyrgyzskoj-respubliki/&#34;&gt;Statistical Yearbook of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/&#34;&gt;Social Trends of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/&#34;&gt;Women and Men in the Kyrgyz Republic&lt;/a&gt;, and many other regular and special publications available for download.&lt;/p&gt;
+&lt;p&gt;A special &lt;a href=&#34;https://stat.gov.kg/en/opendata/&#34;&gt;Open Data&lt;/a&gt; section provides downloadable data in additional formats (XML, JSON, and Excel).&lt;/p&gt;
+&lt;p&gt;Extensive information about definitions, methodologies, and updates is generally available for the data collected. An &lt;a href=&#34;https://www.stat.gov.kg/ru/rmc/institut/&#34;&gt;online learning&lt;/a&gt; section provides another avenue for learning about the data.&lt;/p&gt;
+&lt;p&gt;The site is navigable in Kyrgyz, Russian, and English. Most downloads of publications and tables are in Russian.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Sources: Caspiana</title>
@@ -773,20 +792,6 @@ and promotes the culture of Uzbekistan on the international arena. Its mission i
         
         
         &lt;p&gt;Founded in 1999 and based at Columbia University’s Harriman Institute, &lt;a href=&#34;https://eurasianet.org/&#34;&gt;Eurasianet.org&lt;/a&gt; offers coverage of current events in Central Asia and South Caucasus.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sources: Foreign Policy Research Institute</title>
-      <link>/sources/sources/foreign_policy_research_institute/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/foreign_policy_research_institute/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2002, based in Philadelphia, Pennsylvania. &lt;a href=&#34;https://www.fpri.org/central-asia-initiative/&#34;&gt;Foreign Policy Research Institute&lt;/a&gt; is dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US. Its Central Asia Initiative produces analyses of trends in the region concerning the US national security.&lt;/p&gt;
 
       </description>
     </item>
