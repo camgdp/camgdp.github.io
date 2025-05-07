@@ -33,7 +33,7 @@
     <lastmod>2023-01-09T01:55:19-05:00</lastmod>
   </url><url>
     <loc>/camgdp_roles/</loc>
-    <lastmod>2025-05-07T17:54:31-04:00</lastmod>
+    <lastmod>2025-05-07T18:39:57-04:00</lastmod>
   </url><url>
     <loc>/category/</loc>
     <lastmod>2025-05-07T17:54:31-04:00</lastmod>
@@ -127,7 +127,7 @@
                 href="/data_type/"
                 />
   </url><url>
-    <loc>/tags/demographics/</loc>
+    <loc>/tags/economics/</loc>
     <lastmod>2025-05-07T17:54:31-04:00</lastmod>
   </url><url>
     <loc>/language/english/</loc>
@@ -168,7 +168,10 @@
                 href="/language/"
                 />
   </url><url>
-    <loc>/data_type/report/</loc>
+    <loc>/tags/migration/</loc>
+    <lastmod>2025-05-07T17:54:31-04:00</lastmod>
+  </url><url>
+    <loc>/tags/population/</loc>
     <lastmod>2025-05-07T17:54:31-04:00</lastmod>
   </url><url>
     <loc>/language/russian/</loc>
@@ -191,6 +194,9 @@
     <lastmod>2025-05-07T17:54:31-04:00</lastmod>
   </url><url>
     <loc>/tags/statistics/</loc>
+    <lastmod>2025-05-07T17:54:31-04:00</lastmod>
+  </url><url>
+    <loc>/data_type/statistics/</loc>
     <lastmod>2025-05-07T17:54:31-04:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
@@ -398,9 +404,6 @@
     <loc>/release/</loc>
     <lastmod>2024-05-22T22:59:07-04:00</lastmod>
   </url><url>
-    <loc>/tags/economics/</loc>
-    <lastmod>2024-05-22T22:24:27-04:00</lastmod>
-  </url><url>
     <loc>/tags/education/</loc>
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
   </url><url>
@@ -434,9 +437,6 @@
     <loc>/sources/sources/loyiha/</loc>
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
   </url><url>
-    <loc>/tags/migration/</loc>
-    <lastmod>2024-05-22T22:24:27-04:00</lastmod>
-  </url><url>
     <loc>/data_type/narratives/</loc>
     <lastmod>2024-05-22T22:24:27-04:00</lastmod>
   </url><url>
@@ -468,9 +468,6 @@
     <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/tags/law/</loc>
-    <lastmod>2024-06-02T01:35:05-04:00</lastmod>
-  </url><url>
-    <loc>/tags/population/</loc>
     <lastmod>2024-06-02T01:35:05-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/world_values_survey_kz/</loc>
@@ -760,6 +757,9 @@
   </url><url>
     <loc>/tags/regional-ngo/</loc>
     <lastmod>2023-11-02T21:15:32-04:00</lastmod>
+  </url><url>
+    <loc>/data_type/report/</loc>
+    <lastmod>2023-08-06T23:08:14-04:00</lastmod>
   </url><url>
     <loc>/data_type/reports/</loc>
     <lastmod>2023-08-06T20:55:56-04:00</lastmod>
@@ -1305,9 +1305,6 @@
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
     <loc>/category/state-affiliated-media/</loc>
-    <lastmod>2023-06-26T13:32:58-04:00</lastmod>
-  </url><url>
-    <loc>/data_type/statistics/</loc>
     <lastmod>2023-06-26T13:32:58-04:00</lastmod>
   </url><url>
     <loc>/sources/sources/svet/</loc>
