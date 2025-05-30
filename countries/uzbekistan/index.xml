@@ -1,812 +1,628 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Uzbekistan</title>
+    <title>Uzbekistan on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/countries/uzbekistan/</link>
-    <description>Recent content in Uzbekistan on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/countries/uzbekistan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Uzbekistan on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
+    <atom:link href="/countries/uzbekistan/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guides: Uzbekistan Getting Started Guide</title>
+      <title>Uzbekistan Getting Started Guide</title>
       <link>/guides/uzbekistan/uzbekistan_getting_started_guide/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/guides/uzbekistan/uzbekistan_getting_started_guide/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;
-&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://camgdp.org/sources/sources/world_values_survey_uz/&#34;&gt;World Values Survey (Uzbekistan)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/wef_global_gender_gap_report/&#34;&gt;World Economic Forum&amp;rsquo;s Global Gender Gap Report&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/un_uz/&#34;&gt;UN Development Program in Uzbekistan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;local-non-governmental-organizations-local-ngos&#34;&gt;Local non-governmental organizations (Local NGOs)&lt;/h2&gt;
-&lt;p&gt;For information on issues that often go unrecognized in official state media and governmental sources, such as feminist activism and LGBTQ topics, &lt;a href=&#34;/category/local-ngo&#34;&gt;local NGOs&lt;/a&gt; can fill in the gaps.  These sources are often activist and organized around specific issues and groups.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/nemolchi_uz/&#34;&gt;NeMolchi.UZ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/femagora/&#34;&gt;FemAgora&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;government&#34;&gt;Government&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;/category/government&#34;&gt;Government&lt;/a&gt; resources provide many official data series and sources of official government laws and pronouncements, often in great detail, but may lack in coverage of underrepresented groups or controversial issues.  Typically the government is the only organization that has the resources and authority to compel widespread participation in data and information collection for efforts such as a National Census and other large-scale initiatives.  At the same time, the government&amp;rsquo;s official role may discourage data collection and respondent participation about a wide range of topics such as views and behavior relating to politics, religion, sexual and gender expression, ethnic identity, and more.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/statistics_agency/&#34;&gt;Statistics Agency under the President of the Republic of Uzbekistan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/family_and_womens_committee/&#34;&gt;Family and Women&amp;rsquo;s Committee of Uzbekistan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
-&lt;p&gt;While &lt;a href=&#34;/category/state-affiliated-media/&#34;&gt;state-affiliated media&lt;/a&gt; and &lt;a href=&#34;/category/state-media/&#34;&gt;state-media&lt;/a&gt; offer mainstream perspectives, while &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; can provide a closer focus on smaller groups. &lt;a href=&#34;/category/independent-media/&#34;&gt;Independent media&lt;/a&gt; can deliver alternative viewpoints, and &lt;a href=&#34;/category/social-media/&#34;&gt;social media&lt;/a&gt; can tap directly into current opinion and provide insight into topics omitted in other sources.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/uza/&#34;&gt;Uzbekistan National News Agency&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/loyiha/&#34;&gt;Loyiha&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;local-information&#34;&gt;Local information&lt;/h2&gt;
-&lt;p&gt;For major cities and provinces, local government and &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; (also mentioned above) may provide additional detail and nuance beyond national sources.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/against_frotterizm/&#34;&gt;Against Frotterizm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/ayol_buyum_emas/&#34;&gt;Ayol buyum emas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
+      <description>&lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;&#xA;&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo/&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Guides: Uzbekistan Gender Research Guide</title>
+      <title>Uzbekistan Gender Research Guide</title>
       <link>/guides/uzbekistan/uzbekistan_gender_research_guide/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>/guides/uzbekistan/uzbekistan_gender_research_guide/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Welcome to  Uzbekistan’s Gender Data Research Guide, a resource designed to illuminate the multifaceted dimensions of this crucial topic within the unique cultural and historical context of Uzbekistan. As a nation embedded in the heart of Central Asia, Uzbekistan has a rich tapestry of traditions, customs, and sociopolitical influences that have shaped the experiences of its people in relation to gender and sexuality.&lt;/p&gt;
-&lt;p&gt;This guide has been carefully curated to serve as a valuable tool for scholars, students, researchers, activists, and anyone keen to explore the intricate dynamics of gender and sexuality within Uzbekistan. We hope to enable users of this guide to develop a deeper and more nuanced understanding of how these constructs are created, perceived, and navigated in this diverse and rapidly evolving society.&lt;/p&gt;
-&lt;p&gt;Our guide not only provides access to a wide array of academic sources, official databases, articles, books, and multimedia materials, but it also contextualizes the historical, social, and contemporary forces that have shaped the discourse around gender and sexuality in Uzbekistan. We invite you to explore topics such as the historical roles of women in Uzbek society, the evolving legal landscape concerning gender rights and sexual orientation, the challenges faced by LGBTQ+ individuals, and the intersectionality of gender with other identity markers.&lt;/p&gt;
-&lt;p&gt;Through this guide, we aim to facilitate critical inquiry, promote cross-cultural awareness, and foster informed dialogue on these vital issues. Whether you are embarking on an academic research project, seeking to expand your knowledge, or simply curious about the diverse experiences of Uzbekistan&amp;rsquo;s people, this resource will empower you to begin the process of navigating the complex terrain of gender and sexuality in Uzbekistan.&lt;/p&gt;
-&lt;h2 id=&#34;historical-background&#34;&gt;Historical background&lt;/h2&gt;
-&lt;p&gt;Uzbekistan’s central location, surrounded by landlocked countries and serving as a crossroads, boasts a rich and complex history that has been shaped by a diverse array of empires, cultures, and influences over the centuries. Throughout its history, the position and rights of women in Uzbekistan have been influenced by its societal norms, religious traditions, and the ruling powers of different eras.&lt;/p&gt;
-&lt;p&gt;The region that is now Uzbekistan has been inhabited for thousands of years, with evidence of ancient civilizations dating back to the Bronze Age. One of the most notable ancient cultures in the region was the Sogdian civilization, known for its trade along the Silk Road. While the roles of women in these ancient societies varied, women often played important roles in trade, agriculture, and even religious practices.&lt;/p&gt;
-&lt;p&gt;In the 8th century, the region came under Arab control and was subsequently influenced by Islamic culture and religion. Islamic teachings granted women certain rights, such as the right to inherit property and engage in economic activities. However, the interpretation and application of these rights varied across different regions and communities within Uzbekistan. In the 13th century, the Mongol Empire, under the leadership of Genghis Khan and his successors, swept through Central Asia, including Uzbekistan, bringing it under Mongol rule. This period saw a blending of cultures and the development of trade along the Silk Road. Uzbekistan&amp;rsquo;s strategic location on the Silk Road made it a vibrant hub for trade and cultural exchange for centuries, with caravanserais and cities like Samarkand, Bukhara, and Khiva prospering.  The ancient trade cities of Samarkand and Bukhara have a large Tajik minority reflecting the Persian dominance of trade, while the Ozbek khans who rose to political power in the early 1500s and give their name to country are of nomadic Turkic origin.  The Karakalpaks, living in the Western region, remain a distinct ethnic group, speaking a language closer to Kazakh than standard Uzbek.&lt;/p&gt;
-&lt;p&gt;Russian imperialism made its significant incursions into Central Asia in the late 19th century, gradually expanding its control over the region. Although the khanates and emirates in what is now Uzbekistan were among the last to cede control (Bukhara 1866, Kokhand 1868, Khiva 1873), Russian domination was soon complete.. The conquest was marked by a combination of military force, political maneuvering, and economic exploitation.  The city of Tashkent, as the terminus of the only rail connection from Russia into the region until the completion of the Turkestan-Siberia (Turksib) railway in 1930, and as the provincial capital, grew rapidly to outpace other cities.  Its growth reinforced by deportations and the transfer of Soviet industry to the city far from front lines during World War II, it remains the largest city in Central Asia to this day.&lt;/p&gt;
-&lt;p&gt;Russian colonial rule in Uzbekistan ushered in a period of profound change and upheaval. The indigenous social, economic, and political structures were disrupted, and the local population faced widespread discrimination and subjugation under Russian rule. The imposition of colonial governance, coupled with the extraction of resources, such as the emphasis on cotton production to replace American imports interrupted by the US Civil War, disrupted traditional ways of life and led to economic exploitation.&lt;/p&gt;
-&lt;p&gt;The situation evolved with the establishment of the Soviet Union in 1922. Uzbekistan, like other Central Asian republics, became part of the Soviet sphere of influence. While the Soviet regime introduced modernization and industrialization, it did so under a coercive and centralized system, including the forced unveiling of women. This often meant that the interests of the indigenous population were secondary to Moscow&amp;rsquo;s priorities.&lt;/p&gt;
-&lt;p&gt;Soviet colonialism in Uzbekistan can be characterized by several key aspects. First, it entailed the forced collectivization of agriculture, which disrupted traditional farming practices and caused severe social and economic dislocation. In particular the emphasis on the water-intensive and labor-intensive crop of cotton ultimately led to both the drying up of the Aral Sea and environmental pollution in Karakalpakstan and the ongoing use of periodic forced labor (corvée) to pick cotton, particularly impacting women and children. Second, the Soviet authorities implemented a policy of Russification, which aimed to undermine local cultures and languages in favor of Russian dominance. The traditional Arabic script used to write the Uzbek language since around 1000 AD was transitioned to the Cyrillic alphabet by 1940. Furthermore, Uzbekistan, like other Soviet republics, experienced repression, censorship, and human rights abuses under the Soviet regime. Dissent was met with harsh penalties, and the local population had limited autonomy over their political and economic affairs.  The interaction of the Soviet economic system and distorted political regime with the coercive economic sector based on cotton led to notable corruption and scandal that by the 1980s revealed major problems with the Soviet state more generally.&lt;/p&gt;
-&lt;p&gt;During the period of Soviet colonization, Uzbekistan experienced significant changes in women&amp;rsquo;s rights as a result of the policies and ideologies of the Soviet government. Positive developments included increased access to education for women, enabling them to pursue careers in fields such as medicine and engineering. Legal reforms theoretically granted women equal rights with men, including the right to vote and work in various professions, while also aiming to eliminate discriminatory practices. Additionally, economic opportunities for women expanded, contributing to their financial independence.&lt;/p&gt;
-&lt;p&gt;However, there were negative aspects to these changes. Traditional societal norms often resisted the shift toward gender equality, with many families continuing to expect women to fulfill traditional roles as homemakers and mothers. This divergence between legal rights and societal expectations created a complex dynamic. Moreover, the so-called &amp;ldquo;double burden&amp;rdquo; emerged as women were required to balance professional careers with domestic responsibilities. Despite legal equality, women&amp;rsquo;s representation in higher political positions remained limited, reflecting the predominantly male-dominated political landscape. The promotion of Soviet values sometimes clashed with Uzbek cultural traditions, leading to perceptions of cultural disruption and the potential erosion of traditional gender roles.&lt;/p&gt;
-&lt;p&gt;Uzbekistan gained independence from the Soviet Union in 1991 following its dissolution.Islam Karimov, who had been the First Secretary of the Communist Party, became the country&amp;rsquo;s first president and ruled until his death in 2016.   While remaining a centralized authoritarian state with major crises (for example, the Andijan massacre where hundreds of protesters were killed), Uzbekistan has evolved culturally.  The Cyrillic script has been transitioned to Latin, and a cultural identity is being built around the Uzbek language and the grand historical relics of the Timurid era (Amir Timur, who was Turkic, but not strictly speaking an Uzbek ruler).  Uzbekistan is the most populous of the countries covered here, with more of a farming and agricultural population than most, and remains relatively low income.  Its size and central position mean that it will continue to have a complex relationship with other countries in the region, politically and culturally.&lt;/p&gt;
-&lt;h2 id=&#34;womens-rights-in-uzbekistan&#34;&gt;Women’s rights in Uzbekistan&lt;/h2&gt;
-&lt;p&gt;Uzbek women have made notable advancements in education and workforce participation over recent years. Many women are actively involved in various professions, including healthcare, education, and government. However, traditional gender roles continue to exert significant influence over many aspects of Uzbek society. These roles often translate into disparities in political representation and access to high-ranking decision-making positions. While women have made significant inroads in some sectors, they remain underrepresented in key leadership roles.&lt;/p&gt;
-&lt;p&gt;Domestic violence remains a critical issue in Uzbekistan. Cultural norms, coupled with limited awareness and resources, create hurdles in effectively combating this problem. While the Uzbek government has taken steps to promote gender equality and address violence against women through legislative measures, the consistent enforcement and implementation of these laws remain a challenge.&lt;/p&gt;
-&lt;p&gt;Despite these challenges, there are active women&amp;rsquo;s rights activists and organizations in Uzbekistan working diligently to raise awareness about gender issues, empower women, and advocate for meaningful change. Their efforts are crucial in promoting gender equality and challenging deeply ingrained societal norms.&lt;/p&gt;
-&lt;h2 id=&#34;lgbtqia-rights-in-uzbekistan&#34;&gt;LGBTQIA+ rights in Uzbekistan&lt;/h2&gt;
-&lt;p&gt;Uzbekistan maintains a conservative stance on LGBTQIA+ rights, making the situation for LGBTQIA+ individuals particularly challenging. Homosexuality is illegal in Uzbekistan and is punishable by imprisonment. Thus, the country lacks legal recognition or protection for same-sex relationships, leaving LGBTQIA+ individuals vulnerable to discrimination and harassment. They face societal stigmatization and often keep their sexual orientation concealed to avoid discrimination.&lt;/p&gt;
-&lt;p&gt;The LGBTQIA+ community in Uzbekistan operates in a climate where open advocacy or activism for LGBTQIA+ rights is risky due to societal and legal constraints. Authorities have at times taken repressive measures against LGBTQIA+ individuals and organizations, and there is limited room for public discourse on LGBTQIA+ rights. While there may be pockets of support and underground LGBTQIA+ networks, the overall environment for LGBTQIA+ individuals in Uzbekistan remains challenging, emphasizing the need for greater recognition, protection, and understanding of their rights and experiences.&lt;/p&gt;
-&lt;h2 id=&#34;methodology-note&#34;&gt;Methodology note&lt;/h2&gt;
-&lt;p&gt;The data gathering methodology employed a comprehensive and multifaceted approach, utilizing a diverse array of sources to compile gendered data pertaining to Uzbekistan. The process involved a systematic exploration of open-source information, encompassing data from state institutions, social media platforms, international and regional non-governmental organizations (INGOs), local NGOs, and a spectrum of media outlets, ranging from independent sources to those affiliated with the state. Each source underwent careful evaluation to ensure its relevance and reliability in terms of containing data related to gender and sexuality. This inclusive approach enabled a holistic view of Uzbekistan&amp;rsquo;s gender landscape, encompassing a broad range of perspectives and transcending official narratives. This methodological strategy facilitates a comprehensive understanding of gender dynamics within the country, leveraging the diversity of sources to enhance the collected data and contribute to a well-rounded analytical framework.&lt;/p&gt;
-&lt;h2 id=&#34;statement-on-social-media-and-digital-ethnographies&#34;&gt;Statement on social media and digital ethnographies&lt;/h2&gt;
-&lt;p&gt;In the realm of Central Asian studies, the emergence of social media has brought forth a dynamic and invaluable resource for researchers seeking to comprehend the region&amp;rsquo;s cultural, social, and political landscape. Social media platforms offer an unfiltered window into the lives, opinions, and interactions of individuals across Central Asia, transcending geographical boundaries and providing a real-time connection to the region&amp;rsquo;s contemporary realities. Through platforms like Twitter, Facebook, Instagram, Telegram, and YouTube, researchers can gain access to a diverse array of voices, including local activists, artists, scholars, and ordinary citizens, who share their perspectives on everything from cultural traditions to current events. This digital ethnography enriches our understanding of regional identities, societal shifts, and emerging grassroots movements. By harnessing the power of social media as a research tool, researchers are empowered to capture the nuances and complexities of Central Asian societies in ways that traditional academic sources may struggle to capture, thus fostering a more comprehensive and authentic portrayal of the region.&lt;/p&gt;
-&lt;h2 id=&#34;statement-on-lgbtqia-issues-in-uzbekistan&#34;&gt;Statement on LGBTQIA+ issues in Uzbekistan&lt;/h2&gt;
-&lt;p&gt;The process of gathering data on LGBTQIA+ communities in Uzbekistan is inherently complex and challenging. Uzbekistan, like many countries in the region, maintains conservative social norms and legal restrictions on LGBTQIA+ rights, which create a climate of fear and secrecy for this community. Consequently, the compiled data may not fully reflect the true extent of LGBTQIA+ issues and experiences in the country.&lt;/p&gt;
-&lt;p&gt;The primary factors contributing to this complexity include the vulnerability and low visibility of LGBTQIA+ individuals in Uzbekistan. Many LGBTQIA+ individuals fear discrimination, violence, and legal repercussions, which forces them to conceal their sexual orientation and gender identity. This fear of exposure often deters individuals from participating in surveys, interviews, or any form of data collection that could potentially reveal their LGBTQIA+ identity.&lt;/p&gt;
-&lt;p&gt;Moreover, societal stigma and discrimination further contribute to the invisibility of LGBTQIA+ communities, as they are often excluded from mainstream discourse, health services, and legal protections. This isolation makes it difficult for researchers and organizations to reach out to LGBTQIA+ individuals and gather accurate information about their needs, experiences, and challenges.&lt;/p&gt;
-&lt;h2 id=&#34;archives&#34;&gt;Archives&lt;/h2&gt;
-&lt;p&gt;Please note that the availability and accessibility of archival materials may vary, and it&amp;rsquo;s advisable to contact these institutions directly or check their websites for the most up-to-date information.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;/sources/sources/national_library_uz/&#34;&gt;National Library of Uzbekistan&lt;/a&gt;: The National Library of Uzbekistan, located in Tashkent, may hold historical documents and manuscripts related to women&amp;rsquo;s history in Uzbekistan. They have a substantial collection of books, manuscripts, and archival materials.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;/sources/sources/institute_of_oriental_studies/&#34;&gt;Institute of Oriental Studies of the Academy of Sciences of Uzbekistan&lt;/a&gt;: This research institute may have historical research and publications related to the role of women in Uzbekistan&amp;rsquo;s history, culture, and society.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;/sources/sources/family_and_womens_committee/&#34;&gt;Family and Women&amp;rsquo;s Committee of Uzbekistan&lt;/a&gt;: The Women&amp;rsquo;s Committee of Uzbekistan may have archives or resources related to women&amp;rsquo;s issues, achievements, and contributions in Uzbekistan.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://library.nuu.uz/&#34;&gt;University Libraries&lt;/a&gt;: Universities in Uzbekistan, such as the National University of Uzbekistan, may have specialized collections and archives related to women&amp;rsquo;s history and gender studies.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;academic-journals&#34;&gt;Academic journals&lt;/h2&gt;
-&lt;p&gt;Here are some notable journals that have published research on gender and sexuality in Central Asia.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tandfonline.com/journals/ccas20&#34;&gt;Central Asian Survey&lt;/a&gt;: This journal covers a wide range of topics related to Central Asia, including gender and social issues. It often features articles that explore gender dynamics, women&amp;rsquo;s roles, and cultural aspects of the region.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://brill.com/view/journals/caa/caa-overview.xml&#34;&gt;Central Asian Affairs&lt;/a&gt;: This journal covers political, economic, and social issues in Central Asia, including articles that touch on gender and social dynamics in the region.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://brill.com/view/journals/inas/inas-overview.xml&#34;&gt;Inner Asia&lt;/a&gt;: While broader in scope, this journal occasionally publishes articles that delve into gender and sexuality issues in Inner Asia, which includes parts of Central Asia.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tandfonline.com/journals/cgpc&#34;&gt;Gender, Place &amp;amp; Culture: A Journal of Feminist Geography&lt;/a&gt;: Although not exclusive to Central Asia, this journal publishes research on gender, place, and culture from a feminist perspective, and some articles may address gender issues in the region.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tandfonline.com/journals/cdeb20&#34;&gt;Journal of Contemporary Central and Eastern Europe&lt;/a&gt;: This journal covers a range of topics related to the region, including gender and sexuality. It might feature articles that discuss gender dynamics and societal changes in Central Asia.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Created 2023-10-15, updated 2023-11-02&lt;/p&gt;
-
-      </description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to  Uzbekistan’s Gender Data Research Guide, a resource designed to illuminate the multifaceted dimensions of this crucial topic within the unique cultural and historical context of Uzbekistan. As a nation embedded in the heart of Central Asia, Uzbekistan has a rich tapestry of traditions, customs, and sociopolitical influences that have shaped the experiences of its people in relation to gender and sexuality.&lt;/p&gt;&#xA;&lt;p&gt;This guide has been carefully curated to serve as a valuable tool for scholars, students, researchers, activists, and anyone keen to explore the intricate dynamics of gender and sexuality within Uzbekistan. We hope to enable users of this guide to develop a deeper and more nuanced understanding of how these constructs are created, perceived, and navigated in this diverse and rapidly evolving society.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Guides: Uzbekistan</title>
+      <title>Uzbekistan</title>
       <link>/guides/uzbekistan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/guides/uzbekistan/</guid>
-      <description>
-        
-        
-        
-      </description>
+      <description></description>
     </item>
-    
     <item>
-      <title>Sources: Caspiana</title>
+      <title>National Statistics Committee of the Republic of Uzbekistan</title>
+      <link>/sources/sources/stat_gov_uz/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/stat_gov_uz/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Uzbekistan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; (&lt;a href=&#34;https://camgdp.org/sources/sources/gender_stat_uz/&#34;&gt;also described on CAMGDP&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stat.uz/en/publications&#34;&gt;Publications&lt;/a&gt; include &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt;.  The &lt;a href=&#34;https://stat.uz/en/publications/3627-statistical-yearbook-of-the-republic-of-uzbekistan&#34;&gt;Statistical Yearbook of the Republic of Uzbekistan&lt;/a&gt; and other publications are available for purchase, with only their tables of contents freely viewable. Quarterly reports and other frequently updated releases are typically freely downloadable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Data Portal of the Republic of Uzbekistan</title>
+      <link>/sources/sources/data_egov_uz/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/data_egov_uz/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://data.egov.uz&#34;&gt;Open Data Portal of the Republic of Uzbekistan&lt;/a&gt; provides over 10,000 freely downloadable datasets from more than 150 organizations on various aspects of life in Uzbekistan, including education, health, economy, population, culture, justice, and more.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are typically available in CSV, Excel, XML, JSON, and RDF formats. Before downloading, a brief pop-up will ask the user to identify the intended use of the data (research, personal, application development, media, or other), but no registration is required.  In addition to keyword search, data can be browsed by topic or organization, and the most recent and most highly rated datasets are highlighted.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SIAT Integrated Information System (Uzbekistan)</title>
+      <link>/sources/sources/siat_stat_uz/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/siat_stat_uz/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://siat.stat.uz&#34;&gt;SIAT Integrated Information System&lt;/a&gt; provides detailed statistical tables for economic and social indicators for the Republic of Uzbekistan.&lt;/p&gt;&#xA;&lt;p&gt;After selecting the desired indicator, data may be downloaded in Excel, CSV, PDF, JSON, or XML formats, and may also be graphed online, with downloadable images.  Either time series line charts or cartograms can be selected. Detailed metadata describes the provenance of the data and contacts for further information.&lt;/p&gt;&#xA;&lt;p&gt;The site is navigable in Uzbek, Russian, and English. Most downloads of publications and tables are in Russian.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>State Gender Statistics of the Republic of Uzbekistan</title>
+      <link>/sources/sources/gender_stat_uz/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/gender_stat_uz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; of the &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides highlighted gender indicators on education, fertility, health, labor and employment, and more. These are downloadable in multiple formats (Excel,CSV, PDF, JSON, XML), with dates of coverage typically from the 2000s to the present. The publication &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt; is also available here.&lt;/p&gt;&#xA;&lt;p&gt;In the words of the site, &amp;ldquo;Gender statistics are statistics that adequately reflect the real situation of women and men in all strategic areas in order to identify gender differences and study them systematically.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Caspiana</title>
       <link>/sources/sources/caspiana/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/caspiana/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/&#34;&gt;Caspiana&lt;/a&gt;: A Digital Toolbox for Students and Scholars of Central Asia and the South Caucasus is a website created to facilitate research on the fascinating regions spreading east and west of the Caspian Sea.&lt;/p&gt;
-&lt;p&gt;Notably the site contains sections on &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/governance&#34;&gt;Governance&lt;/a&gt;, &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/media&#34;&gt;Media&lt;/a&gt;, and &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/statistics&#34;&gt;Statistics&lt;/a&gt; that link to major government offices and information providers. Additional material includes academic resources such as conferences and language learning links.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/&#34;&gt;Caspiana&lt;/a&gt;: A Digital Toolbox for Students and Scholars of Central Asia and the South Caucasus is a website created to facilitate research on the fascinating regions spreading east and west of the Caspian Sea.&lt;/p&gt;&#xA;&lt;p&gt;Notably the site contains sections on &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/governance&#34;&gt;Governance&lt;/a&gt;, &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/media&#34;&gt;Media&lt;/a&gt;, and &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/statistics&#34;&gt;Statistics&lt;/a&gt; that link to major government offices and information providers. Additional material includes academic resources such as conferences and language learning links.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Loyiha</title>
+      <title>Loyiha</title>
       <link>/sources/sources/loyiha/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/loyiha/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2022, &lt;a href=&#34;https://www.youtube.com/@loyiha_project/&#34;&gt;Loyiha&lt;/a&gt; is a video podcast platform designed to &amp;ldquo;inspire and motivate women.&amp;rdquo; It platforms several women-centered podcast series that provide educational content on various career fields, from marketing to education, as well as information on such topics as misogyny, infertility, ecology, and others.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2022, &lt;a href=&#34;https://www.youtube.com/@loyiha_project/&#34;&gt;Loyiha&lt;/a&gt; is a video podcast platform designed to &amp;ldquo;inspire and motivate women.&amp;rdquo; It platforms several women-centered podcast series that provide educational content on various career fields, from marketing to education, as well as information on such topics as misogyny, infertility, ecology, and others.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: World Values Survey (Uzbekistan)</title>
+      <title>World Values Survey (Uzbekistan)</title>
       <link>/sources/sources/world_values_survey_uz/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/world_values_survey_uz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Values Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;
-&lt;p&gt;Some relevant questions include questions about women&amp;rsquo;s leadership skills, women&amp;rsquo;s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;
-&lt;p&gt;Uzbekistan is included in wave 6 (2010-2014). Sample size for Uzbekistan is 1487.&lt;/p&gt;
-&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Values Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;&#xA;&lt;p&gt;Some relevant questions include questions about women&amp;rsquo;s leadership skills, women&amp;rsquo;s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;&#xA;&lt;p&gt;Uzbekistan is included in wave 6 (2010-2014). Sample size for Uzbekistan is 1487.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Family and Women&#39;s Committee of Uzbekistan</title>
+      <title>Family and Women&#39;s Committee of Uzbekistan</title>
       <link>/sources/sources/family_and_womens_committee/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/family_and_womens_committee/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2022, &lt;a href=&#34;https://wcu.uz/ru/&#34;&gt;Family and Women&amp;rsquo;s Committee of Uzbekistan&lt;/a&gt; is a state institution aimed at protecting women&amp;rsquo;s civil, labor, and human rights. It publishes reports and shares other updates on issues of women and family in the country.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2022, &lt;a href=&#34;https://wcu.uz/ru/&#34;&gt;Family and Women&amp;rsquo;s Committee of Uzbekistan&lt;/a&gt; is a state institution aimed at protecting women&amp;rsquo;s civil, labor, and human rights. It publishes reports and shares other updates on issues of women and family in the country.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Institute of Oriental Studies of the Academy of Sciences</title>
+      <title>Institute of Oriental Studies of the Academy of Sciences</title>
       <link>/sources/sources/institute_of_oriental_studies/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/institute_of_oriental_studies/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 1943, the &lt;a href=&#34;https://beruni.uz/ru/glavnaya/struktura-instituta/item/329-o/&#39;92zr-fa.html&#34;&gt;Institute of Oriental Studies of the Academy of Sciences&lt;/a&gt; is a Tashkent-based research institution that specializes on collection of manuscripts. At the present time, its manuscript collection contains about 26,000 volumes and includes works written in Uzbek, Arabic, Persian, Tajik, Urdu, Azeri, Ottoman Turkish, Tatar, Turkmen, Uighur and other languages.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 1943, the &lt;a href=&#34;https://beruni.uz/ru/glavnaya/struktura-instituta/item/329-o/%2792zr-fa.html&#34;&gt;Institute of Oriental Studies of the Academy of Sciences&lt;/a&gt; is a Tashkent-based research institution that specializes on collection of manuscripts. At the present time, its manuscript collection contains about 26,000 volumes and includes works written in Uzbek, Arabic, Persian, Tajik, Urdu, Azeri, Ottoman Turkish, Tatar, Turkmen, Uighur and other languages.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: National Library of Uzbekistan named after Alisher Navoi</title>
+      <title>National Library of Uzbekistan named after Alisher Navoi</title>
       <link>/sources/sources/national_library_uz/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/national_library_uz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Originally founded in 1870, the &lt;a href=&#34;https://www.natlib.uz/&#34;&gt;National Library of Uzbekistan&lt;/a&gt; received its current name in 2002. It is the main state book depository for national and foreign press, information and research institution, and a methodological center for all libraries of the country. The National Library is located in Tashkent.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Originally founded in 1870, the &lt;a href=&#34;https://www.natlib.uz/&#34;&gt;National Library of Uzbekistan&lt;/a&gt; received its current name in 2002. It is the main state book depository for national and foreign press, information and research institution, and a methodological center for all libraries of the country. The National Library is located in Tashkent.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Museum of Contemporary Women&#39;s and Queer Art of Central Asia (MoFA&#43;)</title>
+      <title>Museum of Contemporary Women&#39;s and Queer Art of Central Asia (MoFA&#43;)</title>
       <link>/sources/sources/mofa/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/mofa/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;http://femmuseum.org/&#34;&gt;Central Asian Museum of Feminist and Queer Art (MoFA+)&lt;/a&gt; is a museum spotlighting feminist and queer artists from Central Asia and advocating for the rights and freedoms of women and LGBTQIA+ community. MoFA+ hosts solo and group exhibits, workshops, and events. The museum also grants art fellowships and is involved in documentary filmmaking.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://femmuseum.org/&#34;&gt;Central Asian Museum of Feminist and Queer Art (MoFA+)&lt;/a&gt; is a museum spotlighting feminist and queer artists from Central Asia and advocating for the rights and freedoms of women and LGBTQIA+ community. MoFA+ hosts solo and group exhibits, workshops, and events. The museum also grants art fellowships and is involved in documentary filmmaking.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Against Frotterizm</title>
+      <title>Against Frotterizm</title>
       <link>/sources/sources/against_frotterizm/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/against_frotterizm/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/frotterizm.uz/&#34;&gt;Against Frotterizm&lt;/a&gt; is a social campaign project based on voluntary involved. It is combating frotteurism and harassment of women in Uzbekistan&amp;rsquo;s public transport. The project aims to increase public awareness of the issue, develop mechanisms to detect cases of harassment in public transport, and develop instructions on what to do and how to protect victims if they are harassed on public transport.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/frotterizm.uz/&#34;&gt;Against Frotterizm&lt;/a&gt; is a social campaign project based on voluntary involved. It is combating frotteurism and harassment of women in Uzbekistan&amp;rsquo;s public transport. The project aims to increase public awareness of the issue, develop mechanisms to detect cases of harassment in public transport, and develop instructions on what to do and how to protect victims if they are harassed on public transport.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Amerika Ovozi</title>
+      <title>Amerika Ovozi</title>
       <link>/sources/sources/amerika_ovozi/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/amerika_ovozi/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.amerikaovozi.com/&#34;&gt;Amerika Ovozi (Voice of America)&lt;/a&gt; is an international multimedia agency launched in 1942 and funded by the US Congress. Its charter was founded in 1976. Since 2016, Amerika Ovozi legally established itself as an independent media with a neutral coverage.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.amerikaovozi.com/&#34;&gt;Amerika Ovozi (Voice of America)&lt;/a&gt; is an international multimedia agency launched in 1942 and funded by the US Congress. Its charter was founded in 1976. Since 2016, Amerika Ovozi legally established itself as an independent media with a neutral coverage.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ariadna</title>
+      <title>Ariadna</title>
       <link>/sources/sources/ariadna/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ariadna/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2020, &lt;a href=&#34;https://ariadna.media&#34;&gt;Ariadna&lt;/a&gt; is a Central Asia media dedicated to covering the art scene of the region using accessible language. It provides reviews, editorials, and audioguides.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2020, &lt;a href=&#34;https://ariadna.media&#34;&gt;Ariadna&lt;/a&gt; is a Central Asia media dedicated to covering the art scene of the region using accessible language. It provides reviews, editorials, and audioguides.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Crossroads Central Asia</title>
+      <title>Crossroads Central Asia</title>
       <link>/sources/sources/crossroads/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/crossroads/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://crossroads-ca.org/&#34;&gt;Crossroads Central Asia&lt;/a&gt; is a Bishkek-based non-profit research institute with an aim to &amp;ldquo;promote better understanding of political, economic and security affairs of Central Asia and its wider Eurasian neighborhood.&amp;rdquo; It publishes analytical commentary and research reports.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://crossroads-ca.org/&#34;&gt;Crossroads Central Asia&lt;/a&gt; is a Bishkek-based non-profit research institute with an aim to &amp;ldquo;promote better understanding of political, economic and security affairs of Central Asia and its wider Eurasian neighborhood.&amp;rdquo; It publishes analytical commentary and research reports.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Daryo</title>
+      <title>Daryo</title>
       <link>/sources/sources/daryo/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/daryo/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2015, &lt;a href=&#34;https://daryo.uz&#34;&gt;Daryo&lt;/a&gt; is a digital news media offering coverage of politics, economics, sport, and culture in Uzbekistan and around the world.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2015, &lt;a href=&#34;https://daryo.uz&#34;&gt;Daryo&lt;/a&gt; is a digital news media offering coverage of politics, economics, sport, and culture in Uzbekistan and around the world.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: European Sex Workers Rights Alliance</title>
+      <title>European Sex Workers Rights Alliance</title>
       <link>/sources/sources/eswra/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/eswra/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2002 under the name of International Committee for Sex Workers in Europe (ICRSE), &lt;a href=&#34;https://www.eswalliance.org/&#34;&gt;European Sex Workers Rights Alliance&lt;/a&gt; is a sex worker-led network representing more than 100 organizations in 30 countries across Europe and Central Asia. One of its recent publication is &amp;ldquo;Sex work &amp;amp; racism: the impact of structural racism on racialized sex workers in Europe and Central Asia&amp;rdquo; report.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2002 under the name of International Committee for Sex Workers in Europe (ICRSE), &lt;a href=&#34;https://www.eswalliance.org/&#34;&gt;European Sex Workers Rights Alliance&lt;/a&gt; is a sex worker-led network representing more than 100 organizations in 30 countries across Europe and Central Asia. One of its recent publication is &amp;ldquo;Sex work &amp;amp; racism: the impact of structural racism on racialized sex workers in Europe and Central Asia&amp;rdquo; report.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: FemAgora</title>
+      <title>FemAgora</title>
       <link>/sources/sources/femagora/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/femagora/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2018 in Kazakhstan, &lt;a href=&#34;https://femagora.org/&#34;&gt;FemAgora&lt;/a&gt; is dedicated to fostering transnational feminist solidarity in Central Asia. The organization is involved in organization of Kazakhstan’s annual women rights march and the issue of employment of transgender people. FemAgora hosts annual FemAgora Central Asian festival for those involved in feminist, gender-sensitive, and/or women-led work.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2018 in Kazakhstan, &lt;a href=&#34;https://femagora.org/&#34;&gt;FemAgora&lt;/a&gt; is dedicated to fostering transnational feminist solidarity in Central Asia. The organization is involved in organization of Kazakhstan’s annual women rights march and the issue of employment of transgender people. FemAgora hosts annual FemAgora Central Asian festival for those involved in feminist, gender-sensitive, and/or women-led work.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Feminist Translocalities</title>
+      <title>Feminist Translocalities</title>
       <link>/sources/sources/feminist_translocalities/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/feminist_translocalities/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://feminisms.co/&#34;&gt;Feminist Translocalities&lt;/a&gt; is grassroots transnational feminist organization aiming to bring together and support feminist and LGBTQ+ activists from Ukraine, Belarus, and Russia. The organization publishes magazine articles and zines, hosts events, and engages in other various projects. Although the website describes the organization as primarily focused on Ukraine, Belarus, and Russia, it frequently publishes works by Central Asian authors.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://feminisms.co/&#34;&gt;Feminist Translocalities&lt;/a&gt; is grassroots transnational feminist organization aiming to bring together and support feminist and LGBTQ+ activists from Ukraine, Belarus, and Russia. The organization publishes magazine articles and zines, hosts events, and engages in other various projects. Although the website describes the organization as primarily focused on Ukraine, Belarus, and Russia, it frequently publishes works by Central Asian authors.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: ILGA-Europe</title>
+      <title>ILGA-Europe</title>
       <link>/sources/sources/ilga/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ilga/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.ilga-europe.org/&#34;&gt;ILGA-Europe&lt;/a&gt; is an International NGO advocating for the protection of LGBTI people and uniting over 600 organizations from 54 countries across Europe and Central Asia. ILGA conducts its work through resourcing and connecting communities, driving political change, and amplifying voices. Its mission is to provide a solid foundation for activists and organizations. ILGA publishes reports on the protection of rights of LGBTI people in Central Asia, specifically related to violence and organizing.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ilga-europe.org/&#34;&gt;ILGA-Europe&lt;/a&gt; is an International NGO advocating for the protection of LGBTI people and uniting over 600 organizations from 54 countries across Europe and Central Asia. ILGA conducts its work through resourcing and connecting communities, driving political change, and amplifying voices. Its mission is to provide a solid foundation for activists and organizations. ILGA publishes reports on the protection of rights of LGBTI people in Central Asia, specifically related to violence and organizing.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Invisible Rainbow Union</title>
+      <title>Invisible Rainbow Union</title>
       <link>/sources/sources/invisible_rainbow/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/invisible_rainbow/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2023, &lt;a href=&#34;https://www.instagram.com/invisible_rainbow_union/&#34;&gt;Invisible Rainbow Union&lt;/a&gt; is a social media community of queer ethnic minorities from Central Asia and Russia. The media focuses on preserving oral histories of the LGBTQIA+ community.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2023, &lt;a href=&#34;https://www.instagram.com/invisible_rainbow_union/&#34;&gt;Invisible Rainbow Union&lt;/a&gt; is a social media community of queer ethnic minorities from Central Asia and Russia. The media focuses on preserving oral histories of the LGBTQIA+ community.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Official Website of the President of the Republic of Uzbekistan</title>
+      <title>Official Website of the President of the Republic of Uzbekistan</title>
       <link>/sources/sources/president_website/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/president_website/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://president.uz/&#34;&gt;Official Website of the President of the Republic of Uzbekistan&lt;/a&gt; publishes updates, media, infographics, and legislative documents.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://president.uz/&#34;&gt;Official Website of the President of the Republic of Uzbekistan&lt;/a&gt; publishes updates, media, infographics, and legislative documents.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Qalampir</title>
+      <title>Qalampir</title>
       <link>/sources/sources/qalampir/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/qalampir/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2015, &lt;a href=&#34;https://qalampir.uz/&#34;&gt;Qalampir&lt;/a&gt; is a digital news and analytics publication with an aim to achieve transparent and quality informational space in the media sector of Uzbekistan.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2015, &lt;a href=&#34;https://qalampir.uz/&#34;&gt;Qalampir&lt;/a&gt; is a digital news and analytics publication with an aim to achieve transparent and quality informational space in the media sector of Uzbekistan.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Repost</title>
+      <title>Repost</title>
       <link>/sources/sources/repost/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/repost/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2017, &lt;a href=&#34;https://repost.uz/&#34;&gt;Repost&lt;/a&gt; is a Russian-language news media in Uzbekistan. It covers local and world affairs, as well as lifestyle and cultural events.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2017, &lt;a href=&#34;https://repost.uz/&#34;&gt;Repost&lt;/a&gt; is a Russian-language news media in Uzbekistan. It covers local and world affairs, as well as lifestyle and cultural events.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ruyo Journal</title>
+      <title>Ruyo Journal</title>
       <link>/sources/sources/ruyo/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ruyo/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2023, &lt;a href=&#34;https://ruyojournal.com&#34;&gt;Ruyo Journal&lt;/a&gt; is an artist-led digital media focused on critical discourse on art, film, and theory in Central Asia. Its goal is to &amp;ldquo;support the development of a flourishing cultural scene in Central Asia by providing a platform for thoughtful and engaging discussions.&amp;rdquo;&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2023, &lt;a href=&#34;https://ruyojournal.com&#34;&gt;Ruyo Journal&lt;/a&gt; is an artist-led digital media focused on critical discourse on art, film, and theory in Central Asia. Its goal is to &amp;ldquo;support the development of a flourishing cultural scene in Central Asia by providing a platform for thoughtful and engaging discussions.&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Sof.uz</title>
+      <title>Sof.uz</title>
       <link>/sources/sources/sof/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/sof/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2016, &lt;a href=&#34;https://sof.uz/&#34;&gt;Sof.uz&lt;/a&gt; is a digital news publication designed to deliver news to a wider audience using accessible language.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2016, &lt;a href=&#34;https://sof.uz/&#34;&gt;Sof.uz&lt;/a&gt; is a digital news publication designed to deliver news to a wider audience using accessible language.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Spot</title>
+      <title>Spot</title>
       <link>/sources/sources/spot/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/spot/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2017 as a part of the Afisha Media company, &lt;a href=&#34;https://www.spot.uz/&#34;&gt;Spot&lt;/a&gt; is a news media primarily covering business and economic news in Uzbekistan. It also offers editorial pieces on the same topics.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2017 as a part of the Afisha Media company, &lt;a href=&#34;https://www.spot.uz/&#34;&gt;Spot&lt;/a&gt; is a news media primarily covering business and economic news in Uzbekistan. It also offers editorial pieces on the same topics.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Statistics Agency under the President of the Republic of Uzbekistan</title>
+      <title>Statistics Agency under the President of the Republic of Uzbekistan</title>
       <link>/sources/sources/statistics_agency/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/statistics_agency/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://stat.uz/&#34;&gt;Statistics Agency under the President of the Republic of Uzbekistan&lt;/a&gt; publishes official statistical reports and the state&amp;rsquo;s analysis of social and economic processes.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://stat.uz/&#34;&gt;Statistics Agency under the President of the Republic of Uzbekistan&lt;/a&gt; publishes official statistical reports and the state&amp;rsquo;s analysis of social and economic processes.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: The Government Portal of the Republic of Uzbekistan</title>
+      <title>The Government Portal of the Republic of Uzbekistan</title>
       <link>/sources/sources/uz_gov_portal/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uz_gov_portal/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://gov.uz/&#34;&gt;The Government Portal of the Republic of Uzbekistan&lt;/a&gt; is an official website of all thing related to the government of Uzbekistan. It includes information on &lt;a href=&#34;https://gender.stat.uz/ru/&#34;&gt;gender statistics&lt;/a&gt;, &lt;a href=&#34;https://gov.uz/en/pages/government_sites&#34;&gt;a list of government bodies&amp;rsquo; websites&lt;/a&gt;, and &lt;a href=&#34;https://gov.uz/en/organizations/kind/local&#34;&gt;a list of local authorities&amp;rsquo; websites&lt;/a&gt;&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gov.uz/&#34;&gt;The Government Portal of the Republic of Uzbekistan&lt;/a&gt; is an official website of all thing related to the government of Uzbekistan. It includes information on &lt;a href=&#34;https://gender.stat.uz/ru/&#34;&gt;gender statistics&lt;/a&gt;, &lt;a href=&#34;https://gov.uz/en/pages/government_sites&#34;&gt;a list of government bodies&amp;rsquo; websites&lt;/a&gt;, and &lt;a href=&#34;https://gov.uz/en/organizations/kind/local&#34;&gt;a list of local authorities&amp;rsquo; websites&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Unit </title>
+      <title>Unit </title>
       <link>/sources/sources/unit/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/unit/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2021 by n-ost, a Berlin-based media NGO, &lt;a href=&#34;https://unit.n-ost.org&#34;&gt;Unit&lt;/a&gt; is a crossborder community of journalists and activists from Central Asia, Eastern Europe, and South Caucasus who work on the LGBTQIA+ issues.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2021 by n-ost, a Berlin-based media NGO, &lt;a href=&#34;https://unit.n-ost.org&#34;&gt;Unit&lt;/a&gt; is a crossborder community of journalists and activists from Central Asia, Eastern Europe, and South Caucasus who work on the LGBTQIA+ issues.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Uzbek Review</title>
+      <title>Uzbek Review</title>
       <link>/sources/sources/uzbek_review/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uzbek_review/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.uzbek.review&#34;&gt;Uzbek Review&lt;/a&gt; is a news agency founded by Europe-Uzbekistan Association for Economic Cooperation (EUROUZ). It regularly publishes market reports and occasional analytical pieces.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.uzbek.review&#34;&gt;Uzbek Review&lt;/a&gt; is a news agency founded by Europe-Uzbekistan Association for Economic Cooperation (EUROUZ). It regularly publishes market reports and occasional analytical pieces.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Uzbekistan Daily</title>
+      <title>Uzbekistan Daily</title>
       <link>/sources/sources/uzdaily/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uzdaily/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2009, &lt;a href=&#34;http://uzdaily.uz/&#34;&gt;Uzbekistan Daily (UzDaily)&lt;/a&gt; is a digital news media with a focus on business and occasional coverage of other Central Asian countries.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2009, &lt;a href=&#34;http://uzdaily.uz/&#34;&gt;Uzbekistan Daily (UzDaily)&lt;/a&gt; is a digital news media with a focus on business and occasional coverage of other Central Asian countries.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Uzbekistan National News Agency</title>
+      <title>Uzbekistan National News Agency</title>
       <link>/sources/sources/uza/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uza/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 1992, &lt;a href=&#34;https://uza.uz/&#34;&gt;Uzbekistan National News Agency (UzA)&lt;/a&gt; is a state-affiliated news media and one of &amp;ldquo;the leading information agency of the country. UzA covers activities of the government agencies in the country, as well as socio-political events.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 1992, &lt;a href=&#34;https://uza.uz/&#34;&gt;Uzbekistan National News Agency (UzA)&lt;/a&gt; is a state-affiliated news media and one of &amp;ldquo;the leading information agency of the country. UzA covers activities of the government agencies in the country, as well as socio-political events.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: UzReport</title>
+      <title>UzReport</title>
       <link>/sources/sources/uzreport/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uzreport/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 1999, &lt;a href=&#34;https://uzreport.news/&#34;&gt;UzReport&lt;/a&gt; is one of the largest news portals in Uzbekistan. It offers coverage of politics, economics, culture, and sports, as well as analytical and interview pieces.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 1999, &lt;a href=&#34;https://uzreport.news/&#34;&gt;UzReport&lt;/a&gt; is one of the largest news portals in Uzbekistan. It offers coverage of politics, economics, culture, and sports, as well as analytical and interview pieces.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Womxn of Central Asia</title>
+      <title>Womxn of Central Asia</title>
       <link>/sources/sources/womxn_of_ca/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/womxn_of_ca/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/womxnofcentralasia/&#34;&gt;Womxn of Central Asia&lt;/a&gt; is a social media project sharing stories and success of Central Asian women in various professional fields. It also has a Spotify-based podcast.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/womxnofcentralasia/&#34;&gt;Womxn of Central Asia&lt;/a&gt; is a social media project sharing stories and success of Central Asian women in various professional fields. It also has a Spotify-based podcast.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Xabar</title>
+      <title>Xabar</title>
       <link>/sources/sources/xabar/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/xabar/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 1992 by what is currently Ministry of Digital Technologies of the Republic of Uzbekistan, &lt;a href=&#34;https://xabar.uz/&#34;&gt;Xabar&lt;/a&gt; is a state-affiliated news media covering local and world affairs, technology, and sports.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 1992 by what is currently Ministry of Digital Technologies of the Republic of Uzbekistan, &lt;a href=&#34;https://xabar.uz/&#34;&gt;Xabar&lt;/a&gt; is a state-affiliated news media covering local and world affairs, technology, and sports.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Anhor</title>
+      <title>Anhor</title>
       <link>/sources/sources/anhor/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/anhor/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://anhor.uz/&#34;&gt;Anhor&lt;/a&gt; is an independent media that positions itself as a platform for &amp;ldquo;analytics, investigations, and news.&amp;rdquo; The publication&amp;rsquo;s mission is to contribute to effective governing.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://anhor.uz/&#34;&gt;Anhor&lt;/a&gt; is an independent media that positions itself as a platform for &amp;ldquo;analytics, investigations, and news.&amp;rdquo; The publication&amp;rsquo;s mission is to contribute to effective governing.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Art - Review</title>
+      <title>Art - Review</title>
       <link>/sources/sources/art_review/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/art_review/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artreviewuz/&#34;&gt;Art - Review&lt;/a&gt; is local media about art and culture in Uzbekistan. It has presence on Instagram, &lt;a href=&#34;https://t.me/artreviewuz&#34;&gt;Telegram&lt;/a&gt;, and &lt;a href=&#34;https://web.facebook.com/artreview.uz&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artreviewuz/&#34;&gt;Art - Review&lt;/a&gt; is local media about art and culture in Uzbekistan. It has presence on Instagram, &lt;a href=&#34;https://t.me/artreviewuz&#34;&gt;Telegram&lt;/a&gt;, and &lt;a href=&#34;https://web.facebook.com/artreview.uz&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Artif</title>
+      <title>Artif</title>
       <link>/sources/sources/artif/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/artif/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artif.ication/&#34;&gt;Artif&lt;/a&gt; is a social media platform connecting artists, human rights defenders, and activists from Eastern Europe and Central Asia. The platform&amp;rsquo;s mission is to voice social problems using art accessible to everyone.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artif.ication/&#34;&gt;Artif&lt;/a&gt; is a social media platform connecting artists, human rights defenders, and activists from Eastern Europe and Central Asia. The platform&amp;rsquo;s mission is to voice social problems using art accessible to everyone.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ayol buyum emas</title>
+      <title>Ayol buyum emas</title>
       <link>/sources/sources/ayol_buyum_emas/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ayol_buyum_emas/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayolbuyumemas/&#34;&gt;Ayol buyum emas&lt;/a&gt; is a nascent social project aimed at supporting Uzbek women and combating violence against them. It also has presence in &lt;a href=&#34;https://t.me/ayolbuyumemas&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayolbuyumemas/&#34;&gt;Ayol buyum emas&lt;/a&gt; is a nascent social project aimed at supporting Uzbek women and combating violence against them. It also has presence in &lt;a href=&#34;https://t.me/ayolbuyumemas&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ayt Community</title>
+      <title>Ayt Community</title>
       <link>/sources/sources/ayt_community/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ayt_community/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayt_community/&#34;&gt;Ayt Community&lt;/a&gt; is a local media with a focus on feminism, legislature, and ethics. Ayt Community also organizes various events and advocates for an inclusive future for women.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayt_community/&#34;&gt;Ayt Community&lt;/a&gt; is a local media with a focus on feminism, legislature, and ethics. Ayt Community also organizes various events and advocates for an inclusive future for women.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Bahor/Vesna</title>
+      <title>Bahor/Vesna</title>
       <link>/sources/sources/bahor/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/bahor/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;facebook.com/people/Bahor-%D0%92%D0%B5%D1%81%D0%BD%D0%B0/&#34;&gt;Bahor/Vesna&lt;/a&gt; is a self-organized group of cultural immigrant-workers from Russia, Belarus, and Ukraine who have migrated to Uzbekistan following the escalation of Russia&amp;rsquo;s invasion of Ukraine. The initiative covers educational and cultural events in Uzbekistan. Bahor/Vesna is described as a project born out of necessity to &amp;ldquo;find connections during the tragic events affecting millions of residents in Ukraine, Russia, and other countries.&amp;rdquo; The initiative mostly focuses on music and contemporary art, as well as cinematography, literature, and research. It has presence on &lt;a href=&#34;https://www.instagram.com/bahorvesnaa/&#34;&gt;Instagram&lt;/a&gt;, &lt;a href=&#34;https://t.me/bahorvesna&#34;&gt;Telegram&lt;/a&gt;, and &lt;a href=&#34;https://www.youtube.com/channel/UC8YmBSTfITo0VZ9zZkG6ShQ&#34;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;facebook.com/people/Bahor-%D0%92%D0%B5%D1%81%D0%BD%D0%B0/&#34;&gt;Bahor/Vesna&lt;/a&gt; is a self-organized group of cultural immigrant-workers from Russia, Belarus, and Ukraine who have migrated to Uzbekistan following the escalation of Russia&amp;rsquo;s invasion of Ukraine. The initiative covers educational and cultural events in Uzbekistan. Bahor/Vesna is described as a project born out of necessity to &amp;ldquo;find connections during the tragic events affecting millions of residents in Ukraine, Russia, and other countries.&amp;rdquo; The initiative mostly focuses on music and contemporary art, as well as cinematography, literature, and research. It has presence on &lt;a href=&#34;https://www.instagram.com/bahorvesnaa/&#34;&gt;Instagram&lt;/a&gt;, &lt;a href=&#34;https://t.me/bahorvesna&#34;&gt;Telegram&lt;/a&gt;, and &lt;a href=&#34;https://www.youtube.com/channel/UC8YmBSTfITo0VZ9zZkG6ShQ&#34;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Center for the Development of Contemporary Journalism in the Republic of Uzbekistan</title>
+      <title>Center for the Development of Contemporary Journalism in the Republic of Uzbekistan</title>
       <link>/sources/sources/mjdc/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/mjdc/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://mjdc.uz/&#34;&gt;Center for the Development of Contemporary Journalism in the Republic of Uzbekistan&lt;/a&gt; is an nongovernmental and noncommercial media institution aimed at improving the quality of journalism in Uzbekistan through &amp;ldquo;identifying problem areas, education, creating quality content that meets the highest standards of truthfulness and objectivity.&amp;rdquo; The center offers trainings for journalists, bloggers, and mass communication professionals, as well as workshops for a wider audience on media literacy.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mjdc.uz/&#34;&gt;Center for the Development of Contemporary Journalism in the Republic of Uzbekistan&lt;/a&gt; is an nongovernmental and noncommercial media institution aimed at improving the quality of journalism in Uzbekistan through &amp;ldquo;identifying problem areas, education, creating quality content that meets the highest standards of truthfulness and objectivity.&amp;rdquo; The center offers trainings for journalists, bloggers, and mass communication professionals, as well as workshops for a wider audience on media literacy.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: ECOM</title>
+      <title>ECOM</title>
       <link>/sources/sources/ecom/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ecom/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://ecom.ngo/&#34;&gt;ECOM (Eurasian Coalition for Health, Rights, Gender and Sexual Diversity)&lt;/a&gt; is a regional NGO working the sphere of health of LGBTI communities in Eastern Europe and Central Asia. It is a membership association open to non-profit organizations and activists working in the field. ECOM publishes regular reports on violation of rights of the LGBTI people in various Central Asian countries, including Uzbekistan and Tajikistan.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ecom.ngo/&#34;&gt;ECOM (Eurasian Coalition for Health, Rights, Gender and Sexual Diversity)&lt;/a&gt; is a regional NGO working the sphere of health of LGBTI communities in Eastern Europe and Central Asia. It is a membership association open to non-profit organizations and activists working in the field. ECOM publishes regular reports on violation of rights of the LGBTI people in various Central Asian countries, including Uzbekistan and Tajikistan.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Exponaut</title>
+      <title>Exponaut</title>
       <link>/sources/sources/exponaut/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/exponaut/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/exponautz/&#34;&gt;Exponaut&lt;/a&gt; is an independent media geared toward a younger audience. It covers art and culture, as well as creating projects meant to spotlight women and LGBTQIA+ community of Uzbekistan. Exponaut also has presence on &lt;a href=&#34;https://t.me/exponautz/729&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/exponautz/&#34;&gt;Exponaut&lt;/a&gt; is an independent media geared toward a younger audience. It covers art and culture, as well as creating projects meant to spotlight women and LGBTQIA+ community of Uzbekistan. Exponaut also has presence on &lt;a href=&#34;https://t.me/exponautz/729&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Kun.Uz</title>
+      <title>Kun.Uz</title>
       <link>/sources/sources/kun_uz/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/kun_uz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2012, Kun.Uz is an online publication platform with a wide presence across social media platforms. It offers coverage of news events in Uzbekistan and across the world. The publication works in cooperation with the state and public organizations operating on the territory of Uzbekistan.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2012, Kun.Uz is an online publication platform with a wide presence across social media platforms. It offers coverage of news events in Uzbekistan and across the world. The publication works in cooperation with the state and public organizations operating on the territory of Uzbekistan.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Manarifat</title>
+      <title>Manarifat</title>
       <link>/sources/sources/manarifat/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/manarifat/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/manarifat/&#34;&gt;Manarifat&lt;/a&gt; is a social media initiative dedicated to matters of sexual and reproductive health of women. It offers educational content on often stigmatized topics related to sexuality.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/manarifat/&#34;&gt;Manarifat&lt;/a&gt; is a social media initiative dedicated to matters of sexual and reproductive health of women. It offers educational content on often stigmatized topics related to sexuality.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ministry of Employment and Poverty Reduction of the Republic of Uzbekistan</title>
+      <title>Ministry of Employment and Poverty Reduction of the Republic of Uzbekistan</title>
       <link>/sources/sources/ministry_of_employment/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ministry_of_employment/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://mehnat.uz/&#34;&gt;Ministry of Employment and Poverty Reduction of the Republic of Uzbekistan&amp;rsquo;s&lt;/a&gt; main activity areas include labor and renumeration, employment, labor protection and migration, and anti-corruption legislature. The ministry has &lt;a href=&#34;https://mehnat.uz/ru/pages/gendernoe-ravenstvo&#34;&gt;a page dedicated to gender equality&lt;/a&gt; that details the status of women in the constitution of the Republic of Uzbekistan, as well as details of latest state events related to gender equality.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mehnat.uz/&#34;&gt;Ministry of Employment and Poverty Reduction of the Republic of Uzbekistan&amp;rsquo;s&lt;/a&gt; main activity areas include labor and renumeration, employment, labor protection and migration, and anti-corruption legislature. The ministry has &lt;a href=&#34;https://mehnat.uz/ru/pages/gendernoe-ravenstvo&#34;&gt;a page dedicated to gender equality&lt;/a&gt; that details the status of women in the constitution of the Republic of Uzbekistan, as well as details of latest state events related to gender equality.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Moc Creative Org</title>
+      <title>Moc Creative Org</title>
       <link>/sources/sources/moc/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/moc/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://web.facebook.com/org.moc&#34;&gt;Moc Creative Org&lt;/a&gt; is a collective of creators, producers, artists, designers, musicians, and photographers. The initiative is focused on organization of events in Uzbekistan, including music festivals, educational and professional trainings, and art exhibits. It is present on &lt;a href=&#34;https://www.instagram.com/moc__org/&#34;&gt;Instagram&lt;/a&gt; and &lt;a href=&#34;https://t.me/moc24&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://web.facebook.com/org.moc&#34;&gt;Moc Creative Org&lt;/a&gt; is a collective of creators, producers, artists, designers, musicians, and photographers. The initiative is focused on organization of events in Uzbekistan, including music festivals, educational and professional trainings, and art exhibits. It is present on &lt;a href=&#34;https://www.instagram.com/moc__org/&#34;&gt;Instagram&lt;/a&gt; and &lt;a href=&#34;https://t.me/moc24&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: NeMolchi.UZ</title>
+      <title>NeMolchi.UZ</title>
       <link>/sources/sources/nemolchi_uz/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/nemolchi_uz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2017, &lt;a href=&#34;https://nemolchi.uz&#34;&gt;NeMolchi.UZ&lt;/a&gt; is an independent information project against gender-based violence in Uzbekistan. Its mission is to draw attention to violence against women and challenge societal attitudes towards the issue.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2017, &lt;a href=&#34;https://nemolchi.uz&#34;&gt;NeMolchi.UZ&lt;/a&gt; is an independent information project against gender-based violence in Uzbekistan. Its mission is to draw attention to violence against women and challenge societal attitudes towards the issue.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Oydin Nur</title>
+      <title>Oydin Nur</title>
       <link>/sources/sources/oydin_nur/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/oydin_nur/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 1999, &lt;a href=&#34;https://www.facebook.com/oydinnur.uz/&#34;&gt;Regional Center for Social Protection of the Family &amp;ldquo;Oydin Nur&amp;rdquo;&lt;/a&gt; is a shelter in the the Bukhara Region of Uzbekistan that offers long term shelter to female victims of gender-based violence, as well as legal and medical services and resources for personal development. The center organizes seminars and trainings concerning issues of women in the country. State departments of internal affairs, education, and health are listed as partners of Oydin Nur.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 1999, &lt;a href=&#34;https://www.facebook.com/oydinnur.uz/&#34;&gt;Regional Center for Social Protection of the Family &amp;ldquo;Oydin Nur&amp;rdquo;&lt;/a&gt; is a shelter in the the Bukhara Region of Uzbekistan that offers long term shelter to female victims of gender-based violence, as well as legal and medical services and resources for personal development. The center organizes seminars and trainings concerning issues of women in the country. State departments of internal affairs, education, and health are listed as partners of Oydin Nur.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Qizlar</title>
+      <link>/sources/sources/qizlar/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/qizlar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/qizlarqizlarqizlar/&#34;&gt;Qizlar&lt;/a&gt; is an independent collective of women-creators from Uzbekistan. The collective&amp;rsquo;s mission is described as spotlighting projects and products created by women and non-binary people, as well as fostering safe and friendly space for minorities. Qizlar also works on projects with a decolonial agenda aimed at &amp;ldquo;understanding and working out identities as a product of complex post-colonial processes.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qizlar Ovozi</title>
+      <link>/sources/sources/qizlar_ovozi/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/qizlar_ovozi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://qizlarovozi.uz/&#34;&gt;Qizlar Ovozi&lt;/a&gt; is a school aimed at motivating and helping girls and young women aged 14 to 30 years in their professional development. The school also intends to increase and strengthen women&amp;rsquo;s role in public life. Qizlar Ovozi was founded by Nilufar Kiyamova.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sarpa</title>
+      <link>/sources/sources/sarpa/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/sarpa/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sarpa.media&#34;&gt;Sarpa&lt;/a&gt; is independent Uzbek media with a focus on human rights, democracy, and gender equality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sening mening haqqimiz</title>
+      <link>/sources/sources/sening_mening_haqqimiz/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/sening_mening_haqqimiz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/sening_mening_haqqimiz/&#34;&gt;Sening mening haqqimiz&lt;/a&gt; is a social media account advocating for women&amp;rsquo;s rights, education, and development in Uzbekistan. On its Instagram page, sening mening haqqimiz shares relevant resources and news. The initiative is particularly focused on issues of violence against women.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trans*Coalition</title>
+      <link>/sources/sources/trans_coalition/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/trans_coalition/</guid>
+      <description>&lt;p&gt;Founded in 2013, &lt;a href=&#34;https://www.transcoalition.net/&#34;&gt;Trans*Coalition&lt;/a&gt; is a platform for trans- and non-binary activists from the countries of the Caucasus, Central Asia and Eastern Europe. It advocates for uniting, solidarizing, strengthening the voice of the trans-activist community in our region through the development of a sustainable, effective, authoritative, and resourceful organization. Key areas of Trans&lt;em&gt;Coalition&amp;rsquo;s work include response to the COVID-19 pandemic, migration, depathologizing, sex work, and legislation. In Central Asia, Trans&lt;/em&gt;Coalition offers a hot line, a map of resources and aid, and information for trans sex workers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UN Women Country Data Sheet</title>
+      <link>/sources/sources/un_women_country_data_sheet/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/un_women_country_data_sheet/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://data.unwomen.org/&#34;&gt;UN Women Country Data Sheet&lt;/a&gt; offers country specific gender-related data across four main components: economic, social, political, and environmental. Data sheets are available for &lt;a href=&#34;https://data.unwomen.org/country/kazakhstan&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://data.unwomen.org/country/kyrgyzstan&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://data.unwomen.org/country/mongolia&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://data.unwomen.org/country/tajikistan&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://data.unwomen.org/country/turkmenistan&#34;&gt;Turkmenistan&lt;/a&gt;, and &lt;a href=&#34;https://data.unwomen.org/country/uzbekistan&#34;&gt;Uzbekistan&lt;/a&gt;,. Some of the economic data is missing, while environmental data does not include a gender-based breakdown. Gender-specific indicators have at least 50% of data missing across the 17 indicators listed.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note and information on data collection is &lt;a href=&#34;https://data.unwomen.org/modules/custom/country_fact_sheet/pdf/MethodologicalNote.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uzbekistan Art and Culture Development Foundation</title>
+      <link>/sources/sources/acdf/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/acdf/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.acdf.uz/&#34;&gt;The Art and Culture Development Foundation of the Republic of Uzbekistan&lt;/a&gt; fosters international cooperation&#xA;and promotes the culture of Uzbekistan on the international arena. Its mission is to create an &amp;ldquo;inclusive and accessible environment in the country&amp;rsquo;s cultural institutions, contribute to renovation of museums, and to develop cultural patronage and professional training for the arts and culture sector.&amp;rdquo; It appears to be a state-affiliated organization.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uzbekistan with a Female Voice</title>
+      <link>/sources/sources/uzbekistan_with_a_female_voice/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/uzbekistan_with_a_female_voice/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/uzbekistanwithafemalevoice/&#34;&gt;Uzbekistan with a Female Voice&lt;/a&gt; is a social media initiative that advocates for gender equality and women empowerment in Uzbekistan by spotlighting stories of Uzbek women and sharing relevant events and news. It has presence on &lt;a href=&#34;https://www.facebook.com/Ozbekistonayollarkozibilan/&#34;&gt;Facebook&lt;/a&gt; and &lt;a href=&#34;http://t.me/uzbekayol&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>World Bank</title>
+      <link>/sources/sources/world_bank/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/world_bank/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://genderdata.worldbank.org/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt; covers &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/kyrgyz-republic/&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/mongolia/&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/tajikistan/&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/Turkmenistan/&#34;&gt;Turkmenistan&lt;/a&gt;, and &lt;a href=&#34;https://genderdata.worldbank.org/countries/uzbekistan/&#34;&gt;Uzbekistan&lt;/a&gt;, and offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;&#xA;&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hook Report</title>
+      <link>/sources/sources/hook_report/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/hook_report/</guid>
+      <description>&lt;p&gt;Founded in 2018, &lt;a href=&#34;https://hook.report/&#34;&gt;Hook Report&lt;/a&gt; is an independent Uzbek media offering coverage of political, economic, art, and cultural news in the country. According to its mission, Hook Report aims to bring quality news coverage using a less traditional and formal approach.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adamdar/CA</title>
+      <link>/sources/sources/adamdar_ca/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/adamdar_ca/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://adamdar.ca/&#34;&gt;Adamdar/CA&lt;/a&gt; offers news coverage and storytelling narratives from Kazakhstan, Kyrgyzstan, Uzbekistan, and Tajikistan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CABAR</title>
+      <link>/sources/sources/cabar/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/cabar/</guid>
+      <description>&lt;p&gt;Founded in 2016 and based under the Institute’s for War and Peace Reporting (IWPR) Central Asian Office, &lt;a href=&#34;https://cabar.asia/&#34;&gt;Central Asian Bureau for Analytical Reporting (CABAR)&lt;/a&gt; offers regional analytical, informational, and educational material on Central Asia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Calvert Journal (The)</title>
+      <link>/sources/sources/calvert_journal/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/calvert_journal/</guid>
+      <description>&lt;p&gt;Founded in 2013 and owned by a UK-based non-profit Calvert 22 Foundation, &lt;a href=&#34;https://www.calvertjournal.com/&#34;&gt;The Calvert Journal&lt;/a&gt; offers publications on culture, innovation, photography, and travel in Central Asia, Caucasus, Russia, the Balkans, and Eastern Europe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Central Asia Barometer</title>
+      <link>/sources/sources/central_asia_barometer/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/central_asia_barometer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ca-barometer.org/&#34;&gt;Central Asia Barometer (CAB)&lt;/a&gt; is a regional independent NGO for applied social research.&lt;/p&gt;&#xA;&lt;p&gt;The CAB Survey Project is a multinational empirical survey on human beliefs and values first conducted in 2017. Questionnaires identify gender of the respondents with two options included, male or female.&lt;/p&gt;&#xA;&lt;p&gt;CAB provides free access to databases of the CAB Survey Project available in SPSS, Excel, and Stata formats.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note &lt;a href=&#34;https://ca-barometer.org/en/what-we-do/methodology/research-methods&#34;&gt;is available&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Central Asian Analytical Network</title>
+      <link>/sources/sources/central_asian_analytical_network/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/central_asian_analytical_network/</guid>
+      <description>&lt;p&gt;Founded on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://www.caa-network.org/&#34;&gt;Central Asian Analytical Network&lt;/a&gt; offers editorial and opinion pieces, interviews, book and publication reviews, and expert projects on politics, society, and economics of Central Asia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Current Time Asia</title>
+      <link>/sources/sources/current_time_asia/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/current_time_asia/</guid>
+      <description>&lt;p&gt;Based in Prague, Czech Republic, &lt;a href=&#34;https://www.currenttime.tv/asia/&#34;&gt;Current Time Asia&lt;/a&gt; was created by the Radio Free Europe/Radio Liberty, a US Congress-funded broadcasting organization, with participation of Voice of America. Offers news, reports, investigations, and interviews covering Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diplomat (The)</title>
+      <link>/sources/sources/diplomat/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/diplomat/</guid>
+      <description>&lt;p&gt;Founded in 2002 and based in Arlington, Virginia, &lt;a href=&#34;https://thediplomat.com/&#34;&gt;The Diplomat&lt;/a&gt; offers coverage of current events in Central Asia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eurasia Foundation</title>
+      <link>/sources/sources/eurasia_foundation/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/eurasia_foundation/</guid>
+      <description>&lt;p&gt;Founded in 2004 and based in Washington, DC, &lt;a href=&#34;https://www.eurasia.org/where-we-work/asia/&#34;&gt;Eurasia Foundation&lt;/a&gt; works with international, national, and local partners for community action. The foundation has a variety of international and local donors. Areas of expertise include civil society, youth and leadership, media, governance, and [gender and marginalized communities] (&lt;a href=&#34;https://www.eurasia.org/what-we-do/gender-and-marginalized-groups/%29&#34;&gt;https://www.eurasia.org/what-we-do/gender-and-marginalized-groups/)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eurasianet</title>
+      <link>/sources/sources/eurasianet/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/eurasianet/</guid>
+      <description>&lt;p&gt;Founded in 1999 and based at Columbia University’s Harriman Institute, &lt;a href=&#34;https://eurasianet.org/&#34;&gt;Eurasianet.org&lt;/a&gt; offers coverage of current events in Central Asia and South Caucasus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foreign Policy Research Institute</title>
+      <link>/sources/sources/foreign_policy_research_institute/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/foreign_policy_research_institute/</guid>
+      <description>&lt;p&gt;Founded in 2002, based in Philadelphia, Pennsylvania. &lt;a href=&#34;https://www.fpri.org/central-asia-initiative/&#34;&gt;Foreign Policy Research Institute&lt;/a&gt; is dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US. Its Central Asia Initiative produces analyses of trends in the region concerning the US national security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Friedrich Ebert Stiftung</title>
+      <link>/sources/sources/fes_uz/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/fes_uz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/fesuzbekistan/&#34;&gt;FES Uzbekistan&lt;/a&gt; was founded in 1997. The foundation&amp;rsquo;s mission in the country is stated as promoting ideas of inclusive society and contributing to the development of just economic and social politics, as well as supporting civil society, labor unions, and gender equality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>International Organization for Migration</title>
+      <link>/sources/sources/iom_uz/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/iom_uz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.iom.int/countries/uzbekistan&#34;&gt;IOM&lt;/a&gt; presence in Uzbekistan began in 2003. In 2019, Uzbekistan officially became a member-state of the IOM. The organization was officially accredited in April 2021.&lt;/p&gt;&#xA;&lt;p&gt;There are currently no reports or country-specific research conducted by the IOM in Uzbekistan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mediazona Central Asia</title>
+      <link>/sources/sources/mediazona/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/mediazona/</guid>
+      <description>&lt;p&gt;Founded in 2014 in Russia, &lt;a href=&#34;https://mediazona.ca/&#34;&gt;Mediazona Central Asia&lt;/a&gt; covers current events in Kazakhstan, Kyrgyzstan, and Uzbekistan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novastan</title>
+      <link>/sources/sources/novastan/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/novastan/</guid>
+      <description>&lt;p&gt;Founded in 2011 in Bishkek, Kyrgyzstan and based in Paris and Berlin, &lt;a href=&#34;https://novastan.org/&#34;&gt;Novastan&lt;/a&gt; offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and the Uyghur region.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OCCRP</title>
+      <link>/sources/sources/occrp/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/occrp/</guid>
+      <description>&lt;p&gt;Founded in 2005 in Sarajevo, Bosnia and Herzegovina, the &lt;a href=&#34;https://www.occrp.org/&#34;&gt;Organized Crime and Corruption Reporting Project&lt;/a&gt; aims to develop and equip a global network of investigative journalists, as well as publish stories exposing crime and corruption. The project regularly covers post-Soviet and Central Asian countries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OECD</title>
+      <link>/sources/sources/oecd_uz/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/oecd_uz/</guid>
+      <description>&lt;p&gt;Uzbekistan is not a member of &lt;a href=&#34;https://www.oecd.org/countries/uzbekistan/&#34;&gt;OECD&lt;/a&gt;. It has recently joined the OECD/G20 Inclusive Framework on BEPS.&lt;/p&gt;&#xA;&lt;p&gt;No gender-sensitive data appears to be available.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PONARS Eurasia</title>
+      <link>/sources/sources/ponars/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/ponars/</guid>
+      <description>&lt;p&gt;Founded in the late 1990s and currently based at the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), the &lt;a href=&#34;https://www.ponarseurasia.org/&#34;&gt;Program on New Approaches to Research and Security in Eurasia (PONARS Eurasia)&lt;/a&gt; offers policy analysis and dialogue. The program aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prague Civil Society Centre</title>
+      <link>/sources/sources/prague_civil_society_centre/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/prague_civil_society_centre/</guid>
+      <description>&lt;p&gt;Founded in 2014 and based in Prague, the Czech Republic. &lt;a href=&#34;https://www.praguecivilsociety.org/&#34;&gt;Prague Civil Society Centre&lt;/a&gt; is dedicated to enabling civic groups and journalists to connect with their communities through grant making, capacity building, and learning. The Centre is funded by governments of Sweden, the Czech Republic, the UK, and the US, as well as the European Commission, the Oak Foundation, and the Wellspring Philanthropic Fund. Focuses on Eastern Europe and Central Asia. In addition to civil society programs, the Centre publishes media and publications on various topics related to the civic groups in Central Asia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spotlight Initiative Regional Programme for Central Asia and Afghanistan</title>
+      <link>/sources/sources/spotlight_initiative/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/spotlight_initiative/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.spotlightinitiative.org/central-asia&#34;&gt;Spotlight Initiative Regional Programme for Central Asia and Afghanistan&lt;/a&gt; is a research and advocacy campaign dedicated to eliminating sexual and gender-based violence and harmful practices in Central Asia. The program involves UN Women, UNDP, and UNFPA with funding from the European Union.&lt;/p&gt;&#xA;&lt;p&gt;The Spotlight Initiative Regional Programme for Central Asia and Afghanistan 2020 report is &lt;a href=&#34;https://www.spotlightinitiative.org/publications/spotlight-initiative-central-asia-and-afghanistan-programme-report-2020&#34;&gt;available here&lt;/a&gt; in English. Methodological note and information on data collection are not available.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://www.undp.org/kazakhstan/projects/spotlight-initiative-regional-programme-central-asia-and-afghanistan&#34;&gt;UNDP project page for the Spotlight Initiative Regional Programme for Central Asia and Afghanistan.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Oxus Society for Central Asian Affairs</title>
+      <link>/sources/sources/oxus_society/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/oxus_society/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;&#xA;&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UN Women Data Hub</title>
+      <link>/sources/sources/un_women_data_hub/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/un_women_data_hub/</guid>
+      <description>&lt;p&gt;Publications on the &lt;a href=&#34;https://data.unwomen.org/publications&#34;&gt;UN Women Data Hub&lt;/a&gt; have an option to filter by region.&#xA;Eurasia and Central Asia region primarily focuses on Eastern European and Balkan countries with occasional inclusion of Central Asia.&lt;/p&gt;&#xA;&lt;p&gt;Themes of publications include data use, disabilities, economic empowerment, ending violence against women, environment, gender and COVID-19, HIV and AIDS, migration, sustainable development, and peace and security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UNDP</title>
+      <link>/sources/sources/un_uz/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/un_uz/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.undp.org/uzbekistan&#34;&gt;UN Development Program&lt;/a&gt; became active in Uzbekistan in 1993 and works on projects related to the national government, business, civil society and academic affairs.&lt;/p&gt;&#xA;&lt;p&gt;The UNDP regularly published press releases on the topic of &lt;a href=&#34;https://www.undp.org/uzbekistan/gender-equality&#34;&gt;gender equality development&lt;/a&gt; in the country.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://evaw-global-database.unwomen.org/en/countries/asia/uzbekistan&#34;&gt;Global database on violence against women&lt;/a&gt; assembles UN data on different forms of violence against women, including all UN-issued reports and updates on Gender Equality Indexes.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://uzbekistan.unfpa.org&#34;&gt;UN Population Fund&lt;/a&gt; produces country-specific landing pages. The work of the Fund includes data on sexual and reproductive health, gender equality, young people, and population matters. Their &lt;a href=&#34;https://www.unfpa.org/data/UZ&#34;&gt;Data Portal for Kazakhstan&lt;/a&gt; gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vlast</title>
+      <link>/sources/sources/vlast/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/vlast/</guid>
+      <description>&lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Voices on Central Asia</title>
+      <link>/sources/sources/voices_on_central_asia/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/voices_on_central_asia/</guid>
+      <description>&lt;p&gt;Founded in collaboration with the Central Asia Program and the Central Asian Analytical Network on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://voicesoncentralasia.org/&#34;&gt;Voices on Central Asia&lt;/a&gt; offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

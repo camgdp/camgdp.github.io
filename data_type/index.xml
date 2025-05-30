@@ -1,18 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Data_type</title>
+    <title>Data_type on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/data_type/</link>
-    <description>Recent content in Data_type on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/data_type/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Data_type on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
+    <atom:link href="/data_type/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datasets</title>
+      <link>/data_type/datasets/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/data_type/datasets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantitative</title>
+      <link>/data_type/quantitative/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/data_type/quantitative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>/data_type/statistics/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/data_type/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Survey</title>
+      <link>/data_type/survey/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/data_type/survey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Narratives</title>
+      <link>/data_type/narratives/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/data_type/narratives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oral Histories</title>
+      <link>/data_type/oral-histories/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/data_type/oral-histories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qualitative</title>
+      <link>/data_type/qualitative/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/data_type/qualitative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>/data_type/archive/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/archive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>/data_type/news/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policy</title>
+      <link>/data_type/policy/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advocacy</title>
+      <link>/data_type/advocacy/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/advocacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Art</title>
+      <link>/data_type/art/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discourse</title>
+      <link>/data_type/discourse/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/discourse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interviews</title>
+      <link>/data_type/interviews/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/interviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legislature</title>
+      <link>/data_type/legislature/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/legislature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Report</title>
+      <link>/data_type/report/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/report/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reports</title>
+      <link>/data_type/reports/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/reports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual</title>
+      <link>/data_type/visual/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/visual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dataset</title>
+      <link>/data_type/dataset/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/dataset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview</title>
+      <link>/data_type/interview/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/interview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testimonies</title>
+      <link>/data_type/testimonies/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/testimonies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analytics</title>
+      <link>/data_type/analytics/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News Coverage</title>
+      <link>/data_type/news-coverage/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/news-coverage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opinion</title>
+      <link>/data_type/opinion/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/opinion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Overview</title>
+      <link>/data_type/overview/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/overview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visuals</title>
+      <link>/data_type/visuals/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/visuals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>/data_type/archives/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Descriptive</title>
+      <link>/data_type/descriptive/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/descriptive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>/data_type/history/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investigations</title>
+      <link>/data_type/investigations/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/investigations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laws</title>
+      <link>/data_type/laws/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/laws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Institute</title>
+      <link>/data_type/research-institute/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/data_type/research-institute/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

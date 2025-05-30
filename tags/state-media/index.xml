@@ -1,46 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – state media</title>
+    <title>State Media on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/tags/state-media/</link>
-    <description>Recent content in state media on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/tags/state-media/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in State Media on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 23:08:14 -0400</lastBuildDate>
+    <atom:link href="/tags/state-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Uzbekistan National News Agency</title>
+      <title>Uzbekistan National News Agency</title>
       <link>/sources/sources/uza/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uza/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 1992, &lt;a href=&#34;https://uza.uz/&#34;&gt;Uzbekistan National News Agency (UzA)&lt;/a&gt; is a state-affiliated news media and one of &amp;ldquo;the leading information agency of the country. UzA covers activities of the government agencies in the country, as well as socio-political events.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 1992, &lt;a href=&#34;https://uza.uz/&#34;&gt;Uzbekistan National News Agency (UzA)&lt;/a&gt; is a state-affiliated news media and one of &amp;ldquo;the leading information agency of the country. UzA covers activities of the government agencies in the country, as well as socio-political events.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Xabar</title>
+      <title>Xabar</title>
       <link>/sources/sources/xabar/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/xabar/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 1992 by what is currently Ministry of Digital Technologies of the Republic of Uzbekistan, &lt;a href=&#34;https://xabar.uz/&#34;&gt;Xabar&lt;/a&gt; is a state-affiliated news media covering local and world affairs, technology, and sports.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 1992 by what is currently Ministry of Digital Technologies of the Republic of Uzbekistan, &lt;a href=&#34;https://xabar.uz/&#34;&gt;Xabar&lt;/a&gt; is a state-affiliated news media covering local and world affairs, technology, and sports.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

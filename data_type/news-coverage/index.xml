@@ -1,33 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – news coverage</title>
+    <title>News Coverage on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/data_type/news-coverage/</link>
-    <description>Recent content in news coverage on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/data_type/news-coverage/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in News Coverage on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jul 2023 23:03:28 -0400</lastBuildDate>
+    <atom:link href="/data_type/news-coverage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: The Oxus Society for Central Asian Affairs</title>
+      <title>The Oxus Society for Central Asian Affairs</title>
       <link>/sources/sources/oxus_society/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/oxus_society/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;
-&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;&#xA;&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

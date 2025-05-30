@@ -1,18 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Countries</title>
+    <title>Countries on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/ru/countries/</link>
-    <description>Recent content in Countries on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Countries on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
     <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/ru/countries/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <atom:link href="/ru/countries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kazakhstan</title>
+      <link>/ru/countries/kazakhstan/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/ru/countries/kazakhstan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uzbekistan</title>
+      <link>/ru/countries/uzbekistan/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/ru/countries/uzbekistan/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

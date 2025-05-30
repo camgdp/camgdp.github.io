@@ -1,32 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 2009</title>
+    <title>2009 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/2009/</link>
-    <description>Recent content in 2009 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/2009/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 2009 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 23:08:14 -0400</lastBuildDate>
+    <atom:link href="/date_start/2009/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Uzbekistan Daily</title>
+      <title>Uzbekistan Daily</title>
       <link>/sources/sources/uzdaily/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uzdaily/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2009, &lt;a href=&#34;http://uzdaily.uz/&#34;&gt;Uzbekistan Daily (UzDaily)&lt;/a&gt; is a digital news media with a focus on business and occasional coverage of other Central Asian countries.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2009, &lt;a href=&#34;http://uzdaily.uz/&#34;&gt;Uzbekistan Daily (UzDaily)&lt;/a&gt; is a digital news media with a focus on business and occasional coverage of other Central Asian countries.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

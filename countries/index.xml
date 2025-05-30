@@ -1,18 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Countries</title>
+    <title>Countries on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/countries/</link>
-    <description>Recent content in Countries on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/countries/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Countries on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
+    <atom:link href="/countries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tajikistan</title>
+      <link>/countries/tajikistan/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/countries/tajikistan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uzbekistan</title>
+      <link>/countries/uzbekistan/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/countries/uzbekistan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kyrgyzstan</title>
+      <link>/countries/kyrgyzstan/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>/countries/kyrgyzstan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kazakhstan</title>
+      <link>/countries/kazakhstan/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>/countries/kazakhstan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turkmenistan</title>
+      <link>/countries/turkmenistan/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>/countries/turkmenistan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mongolia</title>
+      <link>/countries/mongolia/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/countries/mongolia/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

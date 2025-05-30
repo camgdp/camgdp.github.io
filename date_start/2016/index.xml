@@ -1,60 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 2016</title>
+    <title>2016 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/2016/</link>
-    <description>Recent content in 2016 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/2016/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 2016 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 23:08:14 -0400</lastBuildDate>
+    <atom:link href="/date_start/2016/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Sof.uz</title>
+      <title>Sof.uz</title>
       <link>/sources/sources/sof/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/sof/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2016, &lt;a href=&#34;https://sof.uz/&#34;&gt;Sof.uz&lt;/a&gt; is a digital news publication designed to deliver news to a wider audience using accessible language.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2016, &lt;a href=&#34;https://sof.uz/&#34;&gt;Sof.uz&lt;/a&gt; is a digital news publication designed to deliver news to a wider audience using accessible language.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: CABAR</title>
+      <title>CABAR</title>
       <link>/sources/sources/cabar/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/cabar/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2016 and based under the Institute’s for War and Peace Reporting (IWPR) Central Asian Office, &lt;a href=&#34;https://cabar.asia/&#34;&gt;Central Asian Bureau for Analytical Reporting (CABAR)&lt;/a&gt; offers regional analytical, informational, and educational material on Central Asia.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2016 and based under the Institute’s for War and Peace Reporting (IWPR) Central Asian Office, &lt;a href=&#34;https://cabar.asia/&#34;&gt;Central Asian Bureau for Analytical Reporting (CABAR)&lt;/a&gt; offers regional analytical, informational, and educational material on Central Asia.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: TengriNews</title>
+      <title>TengriNews</title>
       <link>/sources/sources/tengrinews/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/tengrinews/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2016, &lt;a href=&#34;https://tengrinews.kz/&#34;&gt;TengriNews&lt;/a&gt; offers news coverage of current events in Kazakhstan and the world and a database of legislative documents.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2016, &lt;a href=&#34;https://tengrinews.kz/&#34;&gt;TengriNews&lt;/a&gt; offers news coverage of current events in Kazakhstan and the world and a database of legislative documents.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,144 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – French</title>
+    <title>French on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/language/french/</link>
-    <description>Recent content in French on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/language/french/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in French on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Jul 2023 01:47:00 -0400</lastBuildDate>
+    <atom:link href="/language/french/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: World Bank</title>
+      <title>World Bank</title>
       <link>/sources/sources/world_bank/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/world_bank/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://genderdata.worldbank.org/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt; covers &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/kyrgyz-republic/&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/mongolia/&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/tajikistan/&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/Turkmenistan/&#34;&gt;Turkmenistan&lt;/a&gt;, and &lt;a href=&#34;https://genderdata.worldbank.org/countries/uzbekistan/&#34;&gt;Uzbekistan&lt;/a&gt;, and offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;
-&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;
-&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wbl.worldbank.org/en/reports&#34;&gt;Women, Business, and the Law Reports&lt;/a&gt; Annual report measuring the laws and regulations that affect women’s economic opportunity in 190 economies, including Kazakhstan.&lt;/p&gt;
-&lt;p&gt;Reports are available in English with executive summaries in French, Spanish, and Arabic.&lt;/p&gt;
-&lt;p&gt;Methodology section is available on the website and is based on feedback of &amp;ldquo;more than 2,000 respondents&amp;rdquo; which includes local experts on family, labor, and criminal law, including lawyers, judges, academics, and civil society. It is unclear whether the questionnaires sent out to experts are in English, Russian, or Kazakh languages.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://genderdata.worldbank.org/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt; covers &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/kyrgyz-republic/&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/mongolia/&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/tajikistan/&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/Turkmenistan/&#34;&gt;Turkmenistan&lt;/a&gt;, and &lt;a href=&#34;https://genderdata.worldbank.org/countries/uzbekistan/&#34;&gt;Uzbekistan&lt;/a&gt;, and offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;&#xA;&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Novastan</title>
+      <title>Novastan</title>
       <link>/sources/sources/novastan/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/novastan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2011 in Bishkek, Kyrgyzstan and based in Paris and Berlin, &lt;a href=&#34;https://novastan.org/&#34;&gt;Novastan&lt;/a&gt; offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and the Uyghur region.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2011 in Bishkek, Kyrgyzstan and based in Paris and Berlin, &lt;a href=&#34;https://novastan.org/&#34;&gt;Novastan&lt;/a&gt; offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and the Uyghur region.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: OECD</title>
+      <title>OECD</title>
       <link>/sources/sources/oecd_uz/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/oecd_uz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Uzbekistan is not a member of &lt;a href=&#34;https://www.oecd.org/countries/uzbekistan/&#34;&gt;OECD&lt;/a&gt;. It has recently joined the OECD/G20 Inclusive Framework on BEPS.&lt;/p&gt;
-&lt;p&gt;No gender-sensitive data appears to be available.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Uzbekistan is not a member of &lt;a href=&#34;https://www.oecd.org/countries/uzbekistan/&#34;&gt;OECD&lt;/a&gt;. It has recently joined the OECD/G20 Inclusive Framework on BEPS.&lt;/p&gt;&#xA;&lt;p&gt;No gender-sensitive data appears to be available.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: PONARS Eurasia</title>
+      <title>PONARS Eurasia</title>
       <link>/sources/sources/ponars/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ponars/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in the late 1990s and currently based at the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), the &lt;a href=&#34;https://www.ponarseurasia.org/&#34;&gt;Program on New Approaches to Research and Security in Eurasia (PONARS Eurasia)&lt;/a&gt; offers policy analysis and dialogue. The program aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in the late 1990s and currently based at the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), the &lt;a href=&#34;https://www.ponarseurasia.org/&#34;&gt;Program on New Approaches to Research and Security in Eurasia (PONARS Eurasia)&lt;/a&gt; offers policy analysis and dialogue. The program aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Spotlight Initiative Regional Programme for Central Asia and Afghanistan</title>
+      <title>Spotlight Initiative Regional Programme for Central Asia and Afghanistan</title>
       <link>/sources/sources/spotlight_initiative/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/spotlight_initiative/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://www.spotlightinitiative.org/central-asia&#34;&gt;Spotlight Initiative Regional Programme for Central Asia and Afghanistan&lt;/a&gt; is a research and advocacy campaign dedicated to eliminating sexual and gender-based violence and harmful practices in Central Asia. The program involves UN Women, UNDP, and UNFPA with funding from the European Union.&lt;/p&gt;
-&lt;p&gt;The Spotlight Initiative Regional Programme for Central Asia and Afghanistan 2020 report is &lt;a href=&#34;https://www.spotlightinitiative.org/publications/spotlight-initiative-central-asia-and-afghanistan-programme-report-2020&#34;&gt;available here&lt;/a&gt; in English. Methodological note and information on data collection are not available.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://www.undp.org/kazakhstan/projects/spotlight-initiative-regional-programme-central-asia-and-afghanistan&#34;&gt;UNDP project page for the Spotlight Initiative Regional Programme for Central Asia and Afghanistan.&lt;/a&gt;&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.spotlightinitiative.org/central-asia&#34;&gt;Spotlight Initiative Regional Programme for Central Asia and Afghanistan&lt;/a&gt; is a research and advocacy campaign dedicated to eliminating sexual and gender-based violence and harmful practices in Central Asia. The program involves UN Women, UNDP, and UNFPA with funding from the European Union.&lt;/p&gt;&#xA;&lt;p&gt;The Spotlight Initiative Regional Programme for Central Asia and Afghanistan 2020 report is &lt;a href=&#34;https://www.spotlightinitiative.org/publications/spotlight-initiative-central-asia-and-afghanistan-programme-report-2020&#34;&gt;available here&lt;/a&gt; in English. Methodological note and information on data collection are not available.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://www.undp.org/kazakhstan/projects/spotlight-initiative-regional-programme-central-asia-and-afghanistan&#34;&gt;UNDP project page for the Spotlight Initiative Regional Programme for Central Asia and Afghanistan.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Organization for Economic Co-operation and Development (OECD)</title>
+      <title>Organization for Economic Co-operation and Development (OECD)</title>
       <link>/sources/sources/oecd/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/oecd/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Kazakhstan is not a member of the OECD and acts as its &lt;a href=&#34;https://www.oecd.org/countries/kazakhstan/&#34;&gt;partner for the Eurasian region&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Out of available data on Kazakhstan found on the OECD portal, the &lt;a href=&#34;https://www.oecd.org/countries/kazakhstan/gender-policy-delivery-in-kazakhstan-9789264280359-en.htm&#34;&gt;2017 Gender Policy Delivery in Kazakhstan review&lt;/a&gt; is so far the only gender-related publication on Kazakhstan.&lt;/p&gt;
-&lt;p&gt;The review contains policy assessment and recommendation. Methodological note and information on data collection are not available.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Kazakhstan is not a member of the OECD and acts as its &lt;a href=&#34;https://www.oecd.org/countries/kazakhstan/&#34;&gt;partner for the Eurasian region&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Out of available data on Kazakhstan found on the OECD portal, the &lt;a href=&#34;https://www.oecd.org/countries/kazakhstan/gender-policy-delivery-in-kazakhstan-9789264280359-en.htm&#34;&gt;2017 Gender Policy Delivery in Kazakhstan review&lt;/a&gt; is so far the only gender-related publication on Kazakhstan.&lt;/p&gt;&#xA;&lt;p&gt;The review contains policy assessment and recommendation. Methodological note and information on data collection are not available.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: UN Population Fund in Kazakhstan</title>
+      <title>UN Population Fund in Kazakhstan</title>
       <link>/sources/sources/un_population_fund_kazakhstan/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/un_population_fund_kazakhstan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://www.unfpa.org&#34;&gt;UN Population Fund&lt;/a&gt; produces country-specific landing pages. The work of the Fund includes data on sexual and reproductive health, gender equality, young people, and population matters.&lt;/p&gt;
-&lt;p&gt;Their &lt;a href=&#34;https://www.unfpa.org/data/world-population/KZ&#34;&gt;Data Portal for Kazakhstan&lt;/a&gt; gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.   Their semi-regularly published &lt;a href=&#34;https://kazakhstan.unfpa.org/en/publications&#34;&gt;reports and surveys&lt;/a&gt; address these topics. Survey publcations contain a methodology section.&lt;/p&gt;
-&lt;p&gt;There is also a &lt;a href=&#34;https://www.unfpa.org/data/transparency-portal/unfpa-kazakhstan&#34;&gt;Transparency portal&lt;/a&gt; that details expenses and program activities of the Population Fund in Kazakhstan.&lt;/p&gt;
-&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.unfpa.org&#34;&gt;UN Population Fund&lt;/a&gt; produces country-specific landing pages. The work of the Fund includes data on sexual and reproductive health, gender equality, young people, and population matters.&lt;/p&gt;&#xA;&lt;p&gt;Their &lt;a href=&#34;https://www.unfpa.org/data/world-population/KZ&#34;&gt;Data Portal for Kazakhstan&lt;/a&gt; gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.   Their semi-regularly published &lt;a href=&#34;https://kazakhstan.unfpa.org/en/publications&#34;&gt;reports and surveys&lt;/a&gt; address these topics. Survey publcations contain a methodology section.&lt;/p&gt;&#xA;&lt;p&gt;There is also a &lt;a href=&#34;https://www.unfpa.org/data/transparency-portal/unfpa-kazakhstan&#34;&gt;Transparency portal&lt;/a&gt; that details expenses and program activities of the Population Fund in Kazakhstan.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: World Economic Forum’s Global Gender Gap Report</title>
+      <title>World Economic Forum’s Global Gender Gap Report</title>
       <link>/sources/sources/wef_global_gender_gap_report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/wef_global_gender_gap_report/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://www.weforum.org/reports/global-gender-gap-report-2022&#34;&gt;World Economic Forum’s Global Gender Gap Report&lt;/a&gt; includes countries’ score cards summarizing key gendered data findings broken down into 11 categories: economic participation and opportunity, educational attainment, health and survival, political empowerment, general indicators, work participation and leadership, access to finance, civil and political freedom, family and care, education and skills, and health.&lt;/p&gt;
-&lt;p&gt;Methodological note and information on data collection are not available. User’s guide how to read the economy profiles &lt;a href=&#34;https://www.weforum.org/reports/global-gender-gap-report-2022/in-full/user-s-guide-how-to-read-the-economy-profiles&#34;&gt;is provided&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.weforum.org/reports/global-gender-gap-report-2022&#34;&gt;World Economic Forum’s Global Gender Gap Report&lt;/a&gt; includes countries’ score cards summarizing key gendered data findings broken down into 11 categories: economic participation and opportunity, educational attainment, health and survival, political empowerment, general indicators, work participation and leadership, access to finance, civil and political freedom, family and care, education and skills, and health.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note and information on data collection are not available. User’s guide how to read the economy profiles &lt;a href=&#34;https://www.weforum.org/reports/global-gender-gap-report-2022/in-full/user-s-guide-how-to-read-the-economy-profiles&#34;&gt;is provided&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,60 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 2012</title>
+    <title>2012 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/2012/</link>
-    <description>Recent content in 2012 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/2012/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 2012 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Jul 2023 01:47:00 -0400</lastBuildDate>
+    <atom:link href="/date_start/2012/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Kun.Uz</title>
+      <title>Kun.Uz</title>
       <link>/sources/sources/kun_uz/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/kun_uz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2012, Kun.Uz is an online publication platform with a wide presence across social media platforms. It offers coverage of news events in Uzbekistan and across the world. The publication works in cooperation with the state and public organizations operating on the territory of Uzbekistan.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2012, Kun.Uz is an online publication platform with a wide presence across social media platforms. It offers coverage of news events in Uzbekistan and across the world. The publication works in cooperation with the state and public organizations operating on the territory of Uzbekistan.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Vlast</title>
+      <title>Vlast</title>
       <link>/sources/sources/vlast/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/vlast/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2012, &lt;a href=&#34;https://vlast.kz/&#34;&gt;Vlast&lt;/a&gt; offers coverage of current events in Kazakhstan, as well as various editorial projects.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: HolaNews</title>
+      <title>HolaNews</title>
       <link>/sources/sources/holanews/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/holanews/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2012, &lt;a href=&#34;https://www.instagram.com/holanewskz/&#34;&gt;HolaNews&lt;/a&gt; offers coverage of current events in Kazakhstan on Instagram, Facebook, and Telegram.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2012, &lt;a href=&#34;https://www.instagram.com/holanewskz/&#34;&gt;HolaNews&lt;/a&gt; offers coverage of current events in Kazakhstan on Instagram, Facebook, and Telegram.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

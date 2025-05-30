@@ -1,74 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 2002</title>
+    <title>2002 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/2002/</link>
-    <description>Recent content in 2002 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/2002/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 2002 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2023 00:13:59 -0400</lastBuildDate>
+    <atom:link href="/date_start/2002/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: National Library of Uzbekistan named after Alisher Navoi</title>
+      <title>National Library of Uzbekistan named after Alisher Navoi</title>
       <link>/sources/sources/national_library_uz/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/national_library_uz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Originally founded in 1870, the &lt;a href=&#34;https://www.natlib.uz/&#34;&gt;National Library of Uzbekistan&lt;/a&gt; received its current name in 2002. It is the main state book depository for national and foreign press, information and research institution, and a methodological center for all libraries of the country. The National Library is located in Tashkent.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Originally founded in 1870, the &lt;a href=&#34;https://www.natlib.uz/&#34;&gt;National Library of Uzbekistan&lt;/a&gt; received its current name in 2002. It is the main state book depository for national and foreign press, information and research institution, and a methodological center for all libraries of the country. The National Library is located in Tashkent.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: European Sex Workers Rights Alliance</title>
+      <title>European Sex Workers Rights Alliance</title>
       <link>/sources/sources/eswra/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/eswra/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2002 under the name of International Committee for Sex Workers in Europe (ICRSE), &lt;a href=&#34;https://www.eswalliance.org/&#34;&gt;European Sex Workers Rights Alliance&lt;/a&gt; is a sex worker-led network representing more than 100 organizations in 30 countries across Europe and Central Asia. One of its recent publication is &amp;ldquo;Sex work &amp;amp; racism: the impact of structural racism on racialized sex workers in Europe and Central Asia&amp;rdquo; report.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2002 under the name of International Committee for Sex Workers in Europe (ICRSE), &lt;a href=&#34;https://www.eswalliance.org/&#34;&gt;European Sex Workers Rights Alliance&lt;/a&gt; is a sex worker-led network representing more than 100 organizations in 30 countries across Europe and Central Asia. One of its recent publication is &amp;ldquo;Sex work &amp;amp; racism: the impact of structural racism on racialized sex workers in Europe and Central Asia&amp;rdquo; report.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Diplomat (The)</title>
+      <title>Diplomat (The)</title>
       <link>/sources/sources/diplomat/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/diplomat/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2002 and based in Arlington, Virginia, &lt;a href=&#34;https://thediplomat.com/&#34;&gt;The Diplomat&lt;/a&gt; offers coverage of current events in Central Asia.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2002 and based in Arlington, Virginia, &lt;a href=&#34;https://thediplomat.com/&#34;&gt;The Diplomat&lt;/a&gt; offers coverage of current events in Central Asia.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Foreign Policy Research Institute</title>
+      <title>Foreign Policy Research Institute</title>
       <link>/sources/sources/foreign_policy_research_institute/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/foreign_policy_research_institute/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2002, based in Philadelphia, Pennsylvania. &lt;a href=&#34;https://www.fpri.org/central-asia-initiative/&#34;&gt;Foreign Policy Research Institute&lt;/a&gt; is dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US. Its Central Asia Initiative produces analyses of trends in the region concerning the US national security.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2002, based in Philadelphia, Pennsylvania. &lt;a href=&#34;https://www.fpri.org/central-asia-initiative/&#34;&gt;Foreign Policy Research Institute&lt;/a&gt; is dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US. Its Central Asia Initiative produces analyses of trends in the region concerning the US national security.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

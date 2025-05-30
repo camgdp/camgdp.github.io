@@ -1,74 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 2015</title>
+    <title>2015 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/2015/</link>
-    <description>Recent content in 2015 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/2015/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 2015 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 23:08:14 -0400</lastBuildDate>
+    <atom:link href="/date_start/2015/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Daryo</title>
+      <title>Daryo</title>
       <link>/sources/sources/daryo/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/daryo/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2015, &lt;a href=&#34;https://daryo.uz&#34;&gt;Daryo&lt;/a&gt; is a digital news media offering coverage of politics, economics, sport, and culture in Uzbekistan and around the world.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2015, &lt;a href=&#34;https://daryo.uz&#34;&gt;Daryo&lt;/a&gt; is a digital news media offering coverage of politics, economics, sport, and culture in Uzbekistan and around the world.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Kaz Fem</title>
+      <title>Kaz Fem</title>
       <link>/sources/sources/kazfem/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/kazfem/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2015, &lt;a href=&#34;https://www.instagram.com/kaz_fem/&#34;&gt;KazFem&lt;/a&gt; is a grassroots feminist organization dedicated to research and development of feminist theory in Kazakhstan. One of the leading organizations behind Kazakhstan’s annual women rights march. Available mostly in Russian with occasional material in Kazakh.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2015, &lt;a href=&#34;https://www.instagram.com/kaz_fem/&#34;&gt;KazFem&lt;/a&gt; is a grassroots feminist organization dedicated to research and development of feminist theory in Kazakhstan. One of the leading organizations behind Kazakhstan’s annual women rights march. Available mostly in Russian with occasional material in Kazakh.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Qalampir</title>
+      <title>Qalampir</title>
       <link>/sources/sources/qalampir/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/qalampir/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2015, &lt;a href=&#34;https://qalampir.uz/&#34;&gt;Qalampir&lt;/a&gt; is a digital news and analytics publication with an aim to achieve transparent and quality informational space in the media sector of Uzbekistan.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2015, &lt;a href=&#34;https://qalampir.uz/&#34;&gt;Qalampir&lt;/a&gt; is a digital news and analytics publication with an aim to achieve transparent and quality informational space in the media sector of Uzbekistan.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Informburo</title>
+      <title>Informburo</title>
       <link>/sources/sources/informburo/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/informburo/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2015 and affiliated with 31st Channel television station, &lt;a href=&#34;https://informburo.kz/&#34;&gt;Informburo&lt;/a&gt; offers news coverage, informational and analytical materials.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2015 and affiliated with 31st Channel television station, &lt;a href=&#34;https://informburo.kz/&#34;&gt;Informburo&lt;/a&gt; offers news coverage, informational and analytical materials.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

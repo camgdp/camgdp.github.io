@@ -1,298 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Local media</title>
+    <title>Local Media on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/category/local-media/</link>
-    <description>Recent content in Local media on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/category/local-media/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Local Media on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 23:08:14 -0400</lastBuildDate>
+    <atom:link href="/category/local-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Against Frotterizm</title>
+      <title>Against Frotterizm</title>
       <link>/sources/sources/against_frotterizm/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/against_frotterizm/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/frotterizm.uz/&#34;&gt;Against Frotterizm&lt;/a&gt; is a social campaign project based on voluntary involved. It is combating frotteurism and harassment of women in Uzbekistan&amp;rsquo;s public transport. The project aims to increase public awareness of the issue, develop mechanisms to detect cases of harassment in public transport, and develop instructions on what to do and how to protect victims if they are harassed on public transport.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/frotterizm.uz/&#34;&gt;Against Frotterizm&lt;/a&gt; is a social campaign project based on voluntary involved. It is combating frotteurism and harassment of women in Uzbekistan&amp;rsquo;s public transport. The project aims to increase public awareness of the issue, develop mechanisms to detect cases of harassment in public transport, and develop instructions on what to do and how to protect victims if they are harassed on public transport.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Daryo</title>
+      <title>Daryo</title>
       <link>/sources/sources/daryo/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/daryo/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2015, &lt;a href=&#34;https://daryo.uz&#34;&gt;Daryo&lt;/a&gt; is a digital news media offering coverage of politics, economics, sport, and culture in Uzbekistan and around the world.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2015, &lt;a href=&#34;https://daryo.uz&#34;&gt;Daryo&lt;/a&gt; is a digital news media offering coverage of politics, economics, sport, and culture in Uzbekistan and around the world.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Qalampir</title>
+      <title>Qalampir</title>
       <link>/sources/sources/qalampir/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/qalampir/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2015, &lt;a href=&#34;https://qalampir.uz/&#34;&gt;Qalampir&lt;/a&gt; is a digital news and analytics publication with an aim to achieve transparent and quality informational space in the media sector of Uzbekistan.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2015, &lt;a href=&#34;https://qalampir.uz/&#34;&gt;Qalampir&lt;/a&gt; is a digital news and analytics publication with an aim to achieve transparent and quality informational space in the media sector of Uzbekistan.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: QAZAQUEER</title>
+      <title>QAZAQUEER</title>
       <link>/sources/sources/qazaqueer/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/qazaqueer/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2022 by Mutali Moskeu, &lt;a href=&#34;https://www.instagram.com/qazaqueer/&#34;&gt;QAZAQUEER&lt;/a&gt; is a social media project on the lives of the LGBTQIA+ community in Kazakhstan. It primarily produces content in Kazakh and offers educational resources on queer identity, relationships, and sexuality.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2022 by Mutali Moskeu, &lt;a href=&#34;https://www.instagram.com/qazaqueer/&#34;&gt;QAZAQUEER&lt;/a&gt; is a social media project on the lives of the LGBTQIA+ community in Kazakhstan. It primarily produces content in Kazakh and offers educational resources on queer identity, relationships, and sexuality.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Repost</title>
+      <title>Repost</title>
       <link>/sources/sources/repost/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/repost/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2017, &lt;a href=&#34;https://repost.uz/&#34;&gt;Repost&lt;/a&gt; is a Russian-language news media in Uzbekistan. It covers local and world affairs, as well as lifestyle and cultural events.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2017, &lt;a href=&#34;https://repost.uz/&#34;&gt;Repost&lt;/a&gt; is a Russian-language news media in Uzbekistan. It covers local and world affairs, as well as lifestyle and cultural events.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Sof.uz</title>
+      <title>Sof.uz</title>
       <link>/sources/sources/sof/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/sof/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2016, &lt;a href=&#34;https://sof.uz/&#34;&gt;Sof.uz&lt;/a&gt; is a digital news publication designed to deliver news to a wider audience using accessible language.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2016, &lt;a href=&#34;https://sof.uz/&#34;&gt;Sof.uz&lt;/a&gt; is a digital news publication designed to deliver news to a wider audience using accessible language.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Spot</title>
+      <title>Spot</title>
       <link>/sources/sources/spot/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/spot/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2017 as a part of the Afisha Media company, &lt;a href=&#34;https://www.spot.uz/&#34;&gt;Spot&lt;/a&gt; is a news media primarily covering business and economic news in Uzbekistan. It also offers editorial pieces on the same topics.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2017 as a part of the Afisha Media company, &lt;a href=&#34;https://www.spot.uz/&#34;&gt;Spot&lt;/a&gt; is a news media primarily covering business and economic news in Uzbekistan. It also offers editorial pieces on the same topics.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: TEDxAbayStWomen</title>
+      <title>TEDxAbayStWomen</title>
       <link>/sources/sources/tedxabaystwomen/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/tedxabaystwomen/</guid>
-      <description>
-        
-        
-        &lt;p&gt;First held in 2019, &lt;a href=&#34;https://www.instagram.com/tedxabaystwomen/&#34;&gt;TEDxAbayStWomen&lt;/a&gt; is a noncommercial conference on gender equality usually held in Almaty, Kazakhstan. Next conference is expected to be held in 2024.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;First held in 2019, &lt;a href=&#34;https://www.instagram.com/tedxabaystwomen/&#34;&gt;TEDxAbayStWomen&lt;/a&gt; is a noncommercial conference on gender equality usually held in Almaty, Kazakhstan. Next conference is expected to be held in 2024.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Uzbek Review</title>
+      <title>Uzbek Review</title>
       <link>/sources/sources/uzbek_review/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uzbek_review/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.uzbek.review&#34;&gt;Uzbek Review&lt;/a&gt; is a news agency founded by Europe-Uzbekistan Association for Economic Cooperation (EUROUZ). It regularly publishes market reports and occasional analytical pieces.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.uzbek.review&#34;&gt;Uzbek Review&lt;/a&gt; is a news agency founded by Europe-Uzbekistan Association for Economic Cooperation (EUROUZ). It regularly publishes market reports and occasional analytical pieces.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Uzbekistan Daily</title>
+      <title>Uzbekistan Daily</title>
       <link>/sources/sources/uzdaily/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uzdaily/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 2009, &lt;a href=&#34;http://uzdaily.uz/&#34;&gt;Uzbekistan Daily (UzDaily)&lt;/a&gt; is a digital news media with a focus on business and occasional coverage of other Central Asian countries.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 2009, &lt;a href=&#34;http://uzdaily.uz/&#34;&gt;Uzbekistan Daily (UzDaily)&lt;/a&gt; is a digital news media with a focus on business and occasional coverage of other Central Asian countries.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: UzReport</title>
+      <title>UzReport</title>
       <link>/sources/sources/uzreport/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uzreport/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Launched in 1999, &lt;a href=&#34;https://uzreport.news/&#34;&gt;UzReport&lt;/a&gt; is one of the largest news portals in Uzbekistan. It offers coverage of politics, economics, culture, and sports, as well as analytical and interview pieces.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Launched in 1999, &lt;a href=&#34;https://uzreport.news/&#34;&gt;UzReport&lt;/a&gt; is one of the largest news portals in Uzbekistan. It offers coverage of politics, economics, culture, and sports, as well as analytical and interview pieces.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Womxn of Central Asia</title>
+      <title>Womxn of Central Asia</title>
       <link>/sources/sources/womxn_of_ca/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/womxn_of_ca/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/womxnofcentralasia/&#34;&gt;Womxn of Central Asia&lt;/a&gt; is a social media project sharing stories and success of Central Asian women in various professional fields. It also has a Spotify-based podcast.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/womxnofcentralasia/&#34;&gt;Womxn of Central Asia&lt;/a&gt; is a social media project sharing stories and success of Central Asian women in various professional fields. It also has a Spotify-based podcast.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Art - Review</title>
+      <title>Art - Review</title>
       <link>/sources/sources/art_review/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/art_review/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artreviewuz/&#34;&gt;Art - Review&lt;/a&gt; is local media about art and culture in Uzbekistan. It has presence on Instagram, &lt;a href=&#34;https://t.me/artreviewuz&#34;&gt;Telegram&lt;/a&gt;, and &lt;a href=&#34;https://web.facebook.com/artreview.uz&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artreviewuz/&#34;&gt;Art - Review&lt;/a&gt; is local media about art and culture in Uzbekistan. It has presence on Instagram, &lt;a href=&#34;https://t.me/artreviewuz&#34;&gt;Telegram&lt;/a&gt;, and &lt;a href=&#34;https://web.facebook.com/artreview.uz&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ayol buyum emas</title>
+      <title>Ayol buyum emas</title>
       <link>/sources/sources/ayol_buyum_emas/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ayol_buyum_emas/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayolbuyumemas/&#34;&gt;Ayol buyum emas&lt;/a&gt; is a nascent social project aimed at supporting Uzbek women and combating violence against them. It also has presence in &lt;a href=&#34;https://t.me/ayolbuyumemas&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayolbuyumemas/&#34;&gt;Ayol buyum emas&lt;/a&gt; is a nascent social project aimed at supporting Uzbek women and combating violence against them. It also has presence in &lt;a href=&#34;https://t.me/ayolbuyumemas&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ayt Community</title>
+      <title>Ayt Community</title>
       <link>/sources/sources/ayt_community/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ayt_community/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayt_community/&#34;&gt;Ayt Community&lt;/a&gt; is a local media with a focus on feminism, legislature, and ethics. Ayt Community also organizes various events and advocates for an inclusive future for women.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayt_community/&#34;&gt;Ayt Community&lt;/a&gt; is a local media with a focus on feminism, legislature, and ethics. Ayt Community also organizes various events and advocates for an inclusive future for women.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Exponaut</title>
+      <title>Exponaut</title>
       <link>/sources/sources/exponaut/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/exponaut/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/exponautz/&#34;&gt;Exponaut&lt;/a&gt; is an independent media geared toward a younger audience. It covers art and culture, as well as creating projects meant to spotlight women and LGBTQIA+ community of Uzbekistan. Exponaut also has presence on &lt;a href=&#34;https://t.me/exponautz/729&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/exponautz/&#34;&gt;Exponaut&lt;/a&gt; is an independent media geared toward a younger audience. It covers art and culture, as well as creating projects meant to spotlight women and LGBTQIA+ community of Uzbekistan. Exponaut also has presence on &lt;a href=&#34;https://t.me/exponautz/729&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Manarifat</title>
+      <title>Manarifat</title>
       <link>/sources/sources/manarifat/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/manarifat/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/manarifat/&#34;&gt;Manarifat&lt;/a&gt; is a social media initiative dedicated to matters of sexual and reproductive health of women. It offers educational content on often stigmatized topics related to sexuality.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/manarifat/&#34;&gt;Manarifat&lt;/a&gt; is a social media initiative dedicated to matters of sexual and reproductive health of women. It offers educational content on often stigmatized topics related to sexuality.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Sening mening haqqimiz</title>
+      <title>Sening mening haqqimiz</title>
       <link>/sources/sources/sening_mening_haqqimiz/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/sening_mening_haqqimiz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/sening_mening_haqqimiz/&#34;&gt;Sening mening haqqimiz&lt;/a&gt; is a social media account advocating for women&amp;rsquo;s rights, education, and development in Uzbekistan. On its Instagram page, sening mening haqqimiz shares relevant resources and news. The initiative is particularly focused on issues of violence against women.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/sening_mening_haqqimiz/&#34;&gt;Sening mening haqqimiz&lt;/a&gt; is a social media account advocating for women&amp;rsquo;s rights, education, and development in Uzbekistan. On its Instagram page, sening mening haqqimiz shares relevant resources and news. The initiative is particularly focused on issues of violence against women.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Uzbekistan with a Female Voice</title>
+      <title>Uzbekistan with a Female Voice</title>
       <link>/sources/sources/uzbekistan_with_a_female_voice/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uzbekistan_with_a_female_voice/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/uzbekistanwithafemalevoice/&#34;&gt;Uzbekistan with a Female Voice&lt;/a&gt; is a social media initiative that advocates for gender equality and women empowerment in Uzbekistan by spotlighting stories of Uzbek women and sharing relevant events and news. It has presence on &lt;a href=&#34;https://www.facebook.com/Ozbekistonayollarkozibilan/&#34;&gt;Facebook&lt;/a&gt; and &lt;a href=&#34;http://t.me/uzbekayol&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/uzbekistanwithafemalevoice/&#34;&gt;Uzbekistan with a Female Voice&lt;/a&gt; is a social media initiative that advocates for gender equality and women empowerment in Uzbekistan by spotlighting stories of Uzbek women and sharing relevant events and news. It has presence on &lt;a href=&#34;https://www.facebook.com/Ozbekistonayollarkozibilan/&#34;&gt;Facebook&lt;/a&gt; and &lt;a href=&#34;http://t.me/uzbekayol&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Hook Report</title>
+      <title>Hook Report</title>
       <link>/sources/sources/hook_report/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/hook_report/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2018, &lt;a href=&#34;https://hook.report/&#34;&gt;Hook Report&lt;/a&gt; is an independent Uzbek media offering coverage of political, economic, art, and cultural news in the country. According to its mission, Hook Report aims to bring quality news coverage using a less traditional and formal approach.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2018, &lt;a href=&#34;https://hook.report/&#34;&gt;Hook Report&lt;/a&gt; is an independent Uzbek media offering coverage of political, economic, art, and cultural news in the country. According to its mission, Hook Report aims to bring quality news coverage using a less traditional and formal approach.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

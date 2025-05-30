@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
+    <link>/tags/datasets/</link>
+    <description>Recent content in Datasets on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
+    <atom:link href="/tags/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Data Portal of the Republic of Uzbekistan</title>
+      <link>/sources/sources/data_egov_uz/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/data_egov_uz/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://data.egov.uz&#34;&gt;Open Data Portal of the Republic of Uzbekistan&lt;/a&gt; provides over 10,000 freely downloadable datasets from more than 150 organizations on various aspects of life in Uzbekistan, including education, health, economy, population, culture, justice, and more.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are typically available in CSV, Excel, XML, JSON, and RDF formats. Before downloading, a brief pop-up will ask the user to identify the intended use of the data (research, personal, application development, media, or other), but no registration is required.  In addition to keyword search, data can be browsed by topic or organization, and the most recent and most highly rated datasets are highlighted.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

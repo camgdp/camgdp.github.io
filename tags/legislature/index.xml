@@ -1,102 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – legislature</title>
+    <title>Legislature on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/tags/legislature/</link>
-    <description>Recent content in legislature on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/tags/legislature/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Legislature on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 20:55:56 -0400</lastBuildDate>
+    <atom:link href="/tags/legislature/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Human Rights Focus</title>
+      <title>Human Rights Focus</title>
       <link>/sources/sources/human_rights_focus/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/human_rights_focus/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2022 by USAID and Kazakhstan Public Association &amp;ldquo;Dignity&amp;rdquo;, &lt;a href=&#34;https://humanrightsfocus.kz/&#34;&gt;Human Rights Focus&lt;/a&gt; is a project mobilizing and organizing various groups, including human rights defenders, NGOs, civil society leaders, and others, for empowering and encouraging women in Kazakhstan to participate more fully in public administration and decision-making and for prevention of bullying in Kazakhstani schools. Human Rights Focus offers trainings and workshops to Kazakhstani teachers, hosts conferences, and provides educational content on social media.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2022 by USAID and Kazakhstan Public Association &amp;ldquo;Dignity&amp;rdquo;, &lt;a href=&#34;https://humanrightsfocus.kz/&#34;&gt;Human Rights Focus&lt;/a&gt; is a project mobilizing and organizing various groups, including human rights defenders, NGOs, civil society leaders, and others, for empowering and encouraging women in Kazakhstan to participate more fully in public administration and decision-making and for prevention of bullying in Kazakhstani schools. Human Rights Focus offers trainings and workshops to Kazakhstani teachers, hosts conferences, and provides educational content on social media.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Legal Policy Research Center</title>
+      <title>Legal Policy Research Center</title>
       <link>/sources/sources/lprc/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/lprc/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2008 by a group of Kazakhstani lawyers, &lt;a href=&#34;https://lprc.kz/&#34;&gt;Legal Policy Research Center (LPRC)&lt;/a&gt; is a non-political, independent research institute promoting the principle of the rule of law and liberal values through the implementation of research, publishing and educational activities in the field of legal policy. Its mission is to strengthen democratic values through effective legal reforms. Its projects include promoting anti-discrimination agenda and combating sexual harassment.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2008 by a group of Kazakhstani lawyers, &lt;a href=&#34;https://lprc.kz/&#34;&gt;Legal Policy Research Center (LPRC)&lt;/a&gt; is a non-political, independent research institute promoting the principle of the rule of law and liberal values through the implementation of research, publishing and educational activities in the field of legal policy. Its mission is to strengthen democratic values through effective legal reforms. Its projects include promoting anti-discrimination agenda and combating sexual harassment.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Right Now</title>
+      <title>Right Now</title>
       <link>/sources/sources/right-now/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/right-now/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2022 in association with the US Embassy in Kazakhstan and the National Alumi Network of US programs graduates, &lt;a href=&#34;https://www.instagram.com/rightnow.kz/&#34;&gt;Right Now&lt;/a&gt; is a social media platform promoting awareness of legal rights in Kazakhstan. It offers online lectures on various topics, including violence against women and children.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2022 in association with the US Embassy in Kazakhstan and the National Alumi Network of US programs graduates, &lt;a href=&#34;https://www.instagram.com/rightnow.kz/&#34;&gt;Right Now&lt;/a&gt; is a social media platform promoting awareness of legal rights in Kazakhstan. It offers online lectures on various topics, including violence against women and children.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ayol buyum emas</title>
+      <title>Ayol buyum emas</title>
       <link>/sources/sources/ayol_buyum_emas/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ayol_buyum_emas/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayolbuyumemas/&#34;&gt;Ayol buyum emas&lt;/a&gt; is a nascent social project aimed at supporting Uzbek women and combating violence against them. It also has presence in &lt;a href=&#34;https://t.me/ayolbuyumemas&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayolbuyumemas/&#34;&gt;Ayol buyum emas&lt;/a&gt; is a nascent social project aimed at supporting Uzbek women and combating violence against them. It also has presence in &lt;a href=&#34;https://t.me/ayolbuyumemas&#34;&gt;Telegram&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Ayt Community</title>
+      <title>Ayt Community</title>
       <link>/sources/sources/ayt_community/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/ayt_community/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayt_community/&#34;&gt;Ayt Community&lt;/a&gt; is a local media with a focus on feminism, legislature, and ethics. Ayt Community also organizes various events and advocates for an inclusive future for women.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ayt_community/&#34;&gt;Ayt Community&lt;/a&gt; is a local media with a focus on feminism, legislature, and ethics. Ayt Community also organizes various events and advocates for an inclusive future for women.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Sening mening haqqimiz</title>
+      <title>Sening mening haqqimiz</title>
       <link>/sources/sources/sening_mening_haqqimiz/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/sening_mening_haqqimiz/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/sening_mening_haqqimiz/&#34;&gt;Sening mening haqqimiz&lt;/a&gt; is a social media account advocating for women&amp;rsquo;s rights, education, and development in Uzbekistan. On its Instagram page, sening mening haqqimiz shares relevant resources and news. The initiative is particularly focused on issues of violence against women.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/sening_mening_haqqimiz/&#34;&gt;Sening mening haqqimiz&lt;/a&gt; is a social media account advocating for women&amp;rsquo;s rights, education, and development in Uzbekistan. On its Instagram page, sening mening haqqimiz shares relevant resources and news. The initiative is particularly focused on issues of violence against women.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

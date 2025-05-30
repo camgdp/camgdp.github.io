@@ -1,18 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Category</title>
+    <title>Category on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/category/</link>
-    <description>Recent content in Category on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/category/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Category on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
+    <atom:link href="/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Government</title>
+      <link>/category/government/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/category/government/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>INGO</title>
+      <link>/category/ingo/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/category/ingo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Podcast</title>
+      <link>/category/podcast/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/category/podcast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>/category/social-media/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/category/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>/category/archive/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/category/archive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regional NGO</title>
+      <link>/category/regional-ngo/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/category/regional-ngo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Independent Media</title>
+      <link>/category/independent-media/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/category/independent-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>International Media</title>
+      <link>/category/international-media/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/category/international-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local Media</title>
+      <link>/category/local-media/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/category/local-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local NGO</title>
+      <link>/category/local-ngo/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/category/local-ngo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regional Media</title>
+      <link>/category/regional-media/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/category/regional-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>State Media</title>
+      <link>/category/state-media/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/category/state-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>/category/media/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/category/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>State-Affiliated Media</title>
+      <link>/category/state-affiliated-media/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/category/state-affiliated-media/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

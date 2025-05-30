@@ -1,78 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – regional NGO</title>
+    <title>Regional NGO on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/category/regional-ngo/</link>
-    <description>Recent content in regional NGO on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/category/regional-ngo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Regional NGO on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Oct 2023 20:59:56 -0400</lastBuildDate>
+    <atom:link href="/category/regional-ngo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Museum of Contemporary Women&#39;s and Queer Art of Central Asia (MoFA&#43;)</title>
+      <title>Museum of Contemporary Women&#39;s and Queer Art of Central Asia (MoFA&#43;)</title>
       <link>/sources/sources/mofa/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/mofa/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;http://femmuseum.org/&#34;&gt;Central Asian Museum of Feminist and Queer Art (MoFA+)&lt;/a&gt; is a museum spotlighting feminist and queer artists from Central Asia and advocating for the rights and freedoms of women and LGBTQIA+ community. MoFA+ hosts solo and group exhibits, workshops, and events. The museum also grants art fellowships and is involved in documentary filmmaking.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://femmuseum.org/&#34;&gt;Central Asian Museum of Feminist and Queer Art (MoFA+)&lt;/a&gt; is a museum spotlighting feminist and queer artists from Central Asia and advocating for the rights and freedoms of women and LGBTQIA+ community. MoFA+ hosts solo and group exhibits, workshops, and events. The museum also grants art fellowships and is involved in documentary filmmaking.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Antiuniversity of Feminism</title>
+      <title>Antiuniversity of Feminism</title>
       <link>/sources/sources/antiuniversity_of_feminism/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/antiuniversity_of_feminism/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/antiuniversity_of_feminism/&#34;&gt;Antiuniversity of Feminism&lt;/a&gt; is a grassroots project aimed at creating a safe space for women and people with all gender identities to learn about feminism and gender theory. Antiuniversity offers free online courses in Kyrgyz. The project was founded and created by Elvira Tilek.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/antiuniversity_of_feminism/&#34;&gt;Antiuniversity of Feminism&lt;/a&gt; is a grassroots project aimed at creating a safe space for women and people with all gender identities to learn about feminism and gender theory. Antiuniversity offers free online courses in Kyrgyz. The project was founded and created by Elvira Tilek.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Central Asia Barometer</title>
+      <title>Central Asia Barometer</title>
       <link>/sources/sources/central_asia_barometer/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/central_asia_barometer/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://ca-barometer.org/&#34;&gt;Central Asia Barometer (CAB)&lt;/a&gt; is a regional independent NGO for applied social research.&lt;/p&gt;
-&lt;p&gt;The CAB Survey Project is a multinational empirical survey on human beliefs and values first conducted in 2017. Questionnaires identify gender of the respondents with two options included, male or female.&lt;/p&gt;
-&lt;p&gt;CAB provides free access to databases of the CAB Survey Project available in SPSS, Excel, and Stata formats.&lt;/p&gt;
-&lt;p&gt;Methodological note &lt;a href=&#34;https://ca-barometer.org/en/what-we-do/methodology/research-methods&#34;&gt;is available&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ca-barometer.org/&#34;&gt;Central Asia Barometer (CAB)&lt;/a&gt; is a regional independent NGO for applied social research.&lt;/p&gt;&#xA;&lt;p&gt;The CAB Survey Project is a multinational empirical survey on human beliefs and values first conducted in 2017. Questionnaires identify gender of the respondents with two options included, male or female.&lt;/p&gt;&#xA;&lt;p&gt;CAB provides free access to databases of the CAB Survey Project available in SPSS, Excel, and Stata formats.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note &lt;a href=&#34;https://ca-barometer.org/en/what-we-do/methodology/research-methods&#34;&gt;is available&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: The Oxus Society for Central Asian Affairs</title>
+      <title>The Oxus Society for Central Asian Affairs</title>
       <link>/sources/sources/oxus_society/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/oxus_society/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;
-&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;&#xA;&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

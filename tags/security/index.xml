@@ -1,32 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – security</title>
+    <title>Security on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/tags/security/</link>
-    <description>Recent content in security on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Security on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jul 2023 23:03:28 -0400</lastBuildDate>
+    <atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Foreign Policy Research Institute</title>
+      <title>Foreign Policy Research Institute</title>
       <link>/sources/sources/foreign_policy_research_institute/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/foreign_policy_research_institute/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2002, based in Philadelphia, Pennsylvania. &lt;a href=&#34;https://www.fpri.org/central-asia-initiative/&#34;&gt;Foreign Policy Research Institute&lt;/a&gt; is dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US. Its Central Asia Initiative produces analyses of trends in the region concerning the US national security.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2002, based in Philadelphia, Pennsylvania. &lt;a href=&#34;https://www.fpri.org/central-asia-initiative/&#34;&gt;Foreign Policy Research Institute&lt;/a&gt; is dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US. Its Central Asia Initiative produces analyses of trends in the region concerning the US national security.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

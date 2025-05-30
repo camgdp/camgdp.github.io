@@ -1,60 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – analytics</title>
+    <title>Analytics on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/data_type/analytics/</link>
-    <description>Recent content in analytics on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/data_type/analytics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Analytics on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jul 2023 23:03:28 -0400</lastBuildDate>
+    <atom:link href="/data_type/analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Central Asian Analytical Network</title>
+      <title>Central Asian Analytical Network</title>
       <link>/sources/sources/central_asian_analytical_network/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/central_asian_analytical_network/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://www.caa-network.org/&#34;&gt;Central Asian Analytical Network&lt;/a&gt; offers editorial and opinion pieces, interviews, book and publication reviews, and expert projects on politics, society, and economics of Central Asia.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://www.caa-network.org/&#34;&gt;Central Asian Analytical Network&lt;/a&gt; offers editorial and opinion pieces, interviews, book and publication reviews, and expert projects on politics, society, and economics of Central Asia.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Voices on Central Asia</title>
+      <title>Voices on Central Asia</title>
       <link>/sources/sources/voices_on_central_asia/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/voices_on_central_asia/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in collaboration with the Central Asia Program and the Central Asian Analytical Network on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://voicesoncentralasia.org/&#34;&gt;Voices on Central Asia&lt;/a&gt; offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in collaboration with the Central Asia Program and the Central Asian Analytical Network on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), &lt;a href=&#34;https://voicesoncentralasia.org/&#34;&gt;Voices on Central Asia&lt;/a&gt; offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Uyat Emes</title>
+      <title>Uyat Emes</title>
       <link>/sources/sources/uyat_emes/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/uyat_emes/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2018, &lt;a href=&#34;https://uyatemes.kz/&#34;&gt;Uyat Emes&lt;/a&gt; is an educational site about sex and relationships for Kazakhstani teenagers and their parents. The mission of the initiative is to help young people become more literate about reproductive health and sexuality.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2018, &lt;a href=&#34;https://uyatemes.kz/&#34;&gt;Uyat Emes&lt;/a&gt; is an educational site about sex and relationships for Kazakhstani teenagers and their parents. The mission of the initiative is to help young people become more literate about reproductive health and sexuality.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

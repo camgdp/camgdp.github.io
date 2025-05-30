@@ -1,32 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – youth</title>
+    <title>Youth on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/tags/youth/</link>
-    <description>Recent content in youth on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/tags/youth/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Youth on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Jun 2023 13:32:58 -0400</lastBuildDate>
+    <atom:link href="/tags/youth/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: PaperLab</title>
+      <title>PaperLab</title>
       <link>/sources/sources/paperlab/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/paperlab/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2015 and supported by the Soros Foundation-Kazakhstan, &lt;a href=&#34;https://paperlab.kz/&#34;&gt;PaperLab&lt;/a&gt; is a public policy research organization in Kazakhstan. PaperLab publishes research, organizes public discussions, and offers training and networking opportunities to Central Asian experts. Most publications are in Kazakh and Russian and sometimes in English. PaperLab has done extensive research on sex education in Kazakhstan and frequently collaborates with other NGOs and INGOs on the topic of violence against women. Methodology note and description of sources are not always included in the publications.   &lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2015 and supported by the Soros Foundation-Kazakhstan, &lt;a href=&#34;https://paperlab.kz/&#34;&gt;PaperLab&lt;/a&gt; is a public policy research organization in Kazakhstan. PaperLab publishes research, organizes public discussions, and offers training and networking opportunities to Central Asian experts. Most publications are in Kazakh and Russian and sometimes in English. PaperLab has done extensive research on sex education in Kazakhstan and frequently collaborates with other NGOs and INGOs on the topic of violence against women. Methodology note and description of sources are not always included in the publications.   &lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

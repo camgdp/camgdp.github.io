@@ -1,32 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – regional media</title>
+    <title>Regional Media on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/tags/regional-media/</link>
-    <description>Recent content in regional media on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/tags/regional-media/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Regional Media on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Jul 2023 22:19:24 -0400</lastBuildDate>
+    <atom:link href="/tags/regional-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Artif</title>
+      <title>Artif</title>
       <link>/sources/sources/artif/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/artif/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artif.ication/&#34;&gt;Artif&lt;/a&gt; is a social media platform connecting artists, human rights defenders, and activists from Eastern Europe and Central Asia. The platform&amp;rsquo;s mission is to voice social problems using art accessible to everyone.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artif.ication/&#34;&gt;Artif&lt;/a&gt; is a social media platform connecting artists, human rights defenders, and activists from Eastern Europe and Central Asia. The platform&amp;rsquo;s mission is to voice social problems using art accessible to everyone.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

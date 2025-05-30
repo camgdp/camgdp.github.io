@@ -1,267 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Ryan Womack</title>
+    <title>Ryan Womack on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/contributor/ryan-womack/</link>
-    <description>Recent content in Ryan Womack on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/contributor/ryan-womack/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Ryan Womack on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
+    <atom:link href="/contributor/ryan-womack/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guides: Uzbekistan Getting Started Guide</title>
+      <title>Uzbekistan Getting Started Guide</title>
       <link>/guides/uzbekistan/uzbekistan_getting_started_guide/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/guides/uzbekistan/uzbekistan_getting_started_guide/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;
-&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://camgdp.org/sources/sources/world_values_survey_uz/&#34;&gt;World Values Survey (Uzbekistan)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/wef_global_gender_gap_report/&#34;&gt;World Economic Forum&amp;rsquo;s Global Gender Gap Report&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/un_uz/&#34;&gt;UN Development Program in Uzbekistan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;local-non-governmental-organizations-local-ngos&#34;&gt;Local non-governmental organizations (Local NGOs)&lt;/h2&gt;
-&lt;p&gt;For information on issues that often go unrecognized in official state media and governmental sources, such as feminist activism and LGBTQ topics, &lt;a href=&#34;/category/local-ngo&#34;&gt;local NGOs&lt;/a&gt; can fill in the gaps.  These sources are often activist and organized around specific issues and groups.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/nemolchi_uz/&#34;&gt;NeMolchi.UZ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/femagora/&#34;&gt;FemAgora&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;government&#34;&gt;Government&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;/category/government&#34;&gt;Government&lt;/a&gt; resources provide many official data series and sources of official government laws and pronouncements, often in great detail, but may lack in coverage of underrepresented groups or controversial issues.  Typically the government is the only organization that has the resources and authority to compel widespread participation in data and information collection for efforts such as a National Census and other large-scale initiatives.  At the same time, the government&amp;rsquo;s official role may discourage data collection and respondent participation about a wide range of topics such as views and behavior relating to politics, religion, sexual and gender expression, ethnic identity, and more.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/statistics_agency/&#34;&gt;Statistics Agency under the President of the Republic of Uzbekistan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/family_and_womens_committee/&#34;&gt;Family and Women&amp;rsquo;s Committee of Uzbekistan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
-&lt;p&gt;While &lt;a href=&#34;/category/state-affiliated-media/&#34;&gt;state-affiliated media&lt;/a&gt; and &lt;a href=&#34;/category/state-media/&#34;&gt;state-media&lt;/a&gt; offer mainstream perspectives, while &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; can provide a closer focus on smaller groups. &lt;a href=&#34;/category/independent-media/&#34;&gt;Independent media&lt;/a&gt; can deliver alternative viewpoints, and &lt;a href=&#34;/category/social-media/&#34;&gt;social media&lt;/a&gt; can tap directly into current opinion and provide insight into topics omitted in other sources.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/uza/&#34;&gt;Uzbekistan National News Agency&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/loyiha/&#34;&gt;Loyiha&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;local-information&#34;&gt;Local information&lt;/h2&gt;
-&lt;p&gt;For major cities and provinces, local government and &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; (also mentioned above) may provide additional detail and nuance beyond national sources.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/against_frotterizm/&#34;&gt;Against Frotterizm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/ayol_buyum_emas/&#34;&gt;Ayol buyum emas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
+      <description>&lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;&#xA;&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo/&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Guides: Kazakhstan Getting Started Guide</title>
+      <title>Kazakhstan Getting Started Guide</title>
       <link>/guides/kazakhstan/kazakhstan_getting_started_guide/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>/guides/kazakhstan/kazakhstan_getting_started_guide/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;
-&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/un_population_fund_kazakhstan/&#34;&gt;UN Population Fund in Kazakhstan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/wef_global_gender_gap_report/&#34;&gt;World Economic Forum&amp;rsquo;s Global Gender Gap Report&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/spotlight_initiative&#34;&gt;Spotlight Initiative Regional Programme for Central Asia and Afghanistan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;local-non-governmental-organizations-local-ngos&#34;&gt;Local non-governmental organizations (Local NGOs)&lt;/h2&gt;
-&lt;p&gt;For information on issues that often go unrecognized in official state media and governmental sources, such as feminist activism and LGBTQ topics, &lt;a href=&#34;/category/local-ngo&#34;&gt;local NGOs&lt;/a&gt; can fill in the gaps.  These sources are often activist and organized around specific issues and groups.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/feminita/&#34;&gt;Feminita&lt;/a&gt;, a grassroots queer feminist collective&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/kazfem/&#34;&gt;KazFem&lt;/a&gt;, the grassroots feminist organization&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;government&#34;&gt;Government&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;/category/government&#34;&gt;Government&lt;/a&gt; resources provide many official data series and sources of official government laws and pronouncements, often in great detail, but may lack in coverage of underrepresented groups or controversial issues.  Typically the government is the only organization that has the resources and authority to compel widespread participation in data and information collection for efforts such as a National Census and other large-scale initiatives.  At the same time, the government&amp;rsquo;s official role may discourage data collection and respondent participation about a wide range of topics such as views and behavior relating to politics, religion, sexual and gender expression, ethnic identity, and more.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/bureau_of_national_statistics_gender/&#34;&gt;Bureau of National Statistics Gender Statistics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/ak_orda/&#34;&gt;Ak Orda&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
-&lt;p&gt;While &lt;a href=&#34;/category/state-affiliated-media/&#34;&gt;state-affiliated media&lt;/a&gt; and &lt;a href=&#34;/category/state-media/&#34;&gt;state-media&lt;/a&gt; offer mainstream perspectives, while &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt; and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; can provide a closer focus on smaller groups. &lt;a href=&#34;/category/independent-media/&#34;&gt;Independent media&lt;/a&gt; can deliver alternative viewpoints, and &lt;a href=&#34;/category/social-media/&#34;&gt;social media&lt;/a&gt; can tap directly into current opinion and provide insight into topics omitted in other sources,&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/zakon_kz/&#34;&gt;Zakon.kz&lt;/a&gt; (state-affiliated)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/batyr_jamal/&#34;&gt;Batyr Jamal&lt;/a&gt; (independent, women-oriented)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/human_rights_kz/&#34;&gt;Human Rights KZ&lt;/a&gt; (independent, human rights focused)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;local-information&#34;&gt;Local information&lt;/h2&gt;
-&lt;p&gt;For major cities and provinces, local government, &lt;a href=&#34;/category/regional-media/&#34;&gt;regional media&lt;/a&gt;, and &lt;a href=&#34;/category/local-media/&#34;&gt;local media&lt;/a&gt; (also mentioned above) may provide additional detail and nuance beyond national sources.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/akimat_of_the_city_of_astana/&#34;&gt;Akimat of the city of Astana&lt;/a&gt; for information on &lt;strong&gt;Astana&lt;/strong&gt;, the capital city of Kazakhstan.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/sources/sources/akimat_of_the_city_of_almaty/&#34;&gt;Akimat of the city of Almaty&lt;/a&gt; for information on &lt;strong&gt;Almaty&lt;/strong&gt;, the largest city in Kazakhstan.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Created 2023-10-17, updated 2023-12-03&lt;/p&gt;
-
-      </description>
+      <description>&lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;&#xA;&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo/&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: National Statistical Committee of the Kyrgyz Republic</title>
+      <title>Living Standards Measurement Study (LSMS) - World Bank - Tajikistan</title>
+      <link>/sources/sources/living_standards_measurement_survey_tajikistan/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/living_standards_measurement_survey_tajikistan/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.worldbank.org/en/programs/lsms&#34;&gt;Living Standards Measurement Study (LSMS)&lt;/a&gt; is the World Bank&amp;rsquo;s flagship household survey program focused on strengthening household survey systems in client countries and on improving the quality of microdata to better inform development policies. The LSMS is housed in the Data Production and Methods Unit of the World Bank’s Development Data Group.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://microdata.worldbank.org/index.php/catalog/lsms/?page=1&amp;amp;country%5B%5D=210&amp;amp;ps=15&amp;amp;repo=lsms&#34;&gt;Data on Tajikistan&lt;/a&gt; is available from 1999 to 2009.&lt;/p&gt;&#xA;&lt;p&gt;The scope of the study includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Internal Migration&lt;/li&gt;&#xA;&lt;li&gt;International Migration&lt;/li&gt;&#xA;&lt;li&gt;Family Members Living Away from the Household&lt;/li&gt;&#xA;&lt;li&gt;Preschool Education&lt;/li&gt;&#xA;&lt;li&gt;Education (6 years and older)&lt;/li&gt;&#xA;&lt;li&gt;Utilization of Outpatient Health Care&lt;/li&gt;&#xA;&lt;li&gt;Hospitalization&lt;/li&gt;&#xA;&lt;li&gt;Access to Health Care&lt;/li&gt;&#xA;&lt;li&gt;Labor Force Participation in Labor Market&lt;/li&gt;&#xA;&lt;li&gt;Overview Last 14 Days&lt;/li&gt;&#xA;&lt;li&gt;Main and Secondary Jobs in the Last 14 Days&lt;/li&gt;&#xA;&lt;li&gt;Activities over the Last 24 Months&lt;/li&gt;&#xA;&lt;li&gt;Utilities&lt;/li&gt;&#xA;&lt;li&gt;Water and Sanitation&lt;/li&gt;&#xA;&lt;li&gt;Durable Goods&lt;/li&gt;&#xA;&lt;li&gt;Transfers from Another Household&lt;/li&gt;&#xA;&lt;li&gt;Tansfers to Another Household&lt;/li&gt;&#xA;&lt;li&gt;Social Assistance&lt;/li&gt;&#xA;&lt;li&gt;Subjective Poverty and Food Security&lt;/li&gt;&#xA;&lt;li&gt;Coping Strategies&lt;/li&gt;&#xA;&lt;li&gt;Expenditure on Food in the Last Seven Days&lt;/li&gt;&#xA;&lt;li&gt;Nonfood Purchases Past 30 Days&lt;/li&gt;&#xA;&lt;li&gt;Nonfood Purchases Past 6 Months&lt;/li&gt;&#xA;&lt;li&gt;Nonfood Purchases Past 12 Months&lt;/li&gt;&#xA;&lt;li&gt;Other Income&lt;/li&gt;&#xA;&lt;li&gt;Household and Population Weights&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>National Statistics Committee of the Republic of Uzbekistan</title>
+      <link>/sources/sources/stat_gov_uz/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/stat_gov_uz/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Uzbekistan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; (&lt;a href=&#34;https://camgdp.org/sources/sources/gender_stat_uz/&#34;&gt;also described on CAMGDP&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stat.uz/en/publications&#34;&gt;Publications&lt;/a&gt; include &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt;.  The &lt;a href=&#34;https://stat.uz/en/publications/3627-statistical-yearbook-of-the-republic-of-uzbekistan&#34;&gt;Statistical Yearbook of the Republic of Uzbekistan&lt;/a&gt; and other publications are available for purchase, with only their tables of contents freely viewable. Quarterly reports and other frequently updated releases are typically freely downloadable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Data Portal of the Republic of Uzbekistan</title>
+      <link>/sources/sources/data_egov_uz/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/data_egov_uz/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://data.egov.uz&#34;&gt;Open Data Portal of the Republic of Uzbekistan&lt;/a&gt; provides over 10,000 freely downloadable datasets from more than 150 organizations on various aspects of life in Uzbekistan, including education, health, economy, population, culture, justice, and more.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are typically available in CSV, Excel, XML, JSON, and RDF formats. Before downloading, a brief pop-up will ask the user to identify the intended use of the data (research, personal, application development, media, or other), but no registration is required.  In addition to keyword search, data can be browsed by topic or organization, and the most recent and most highly rated datasets are highlighted.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SIAT Integrated Information System (Uzbekistan)</title>
+      <link>/sources/sources/siat_stat_uz/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/siat_stat_uz/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://siat.stat.uz&#34;&gt;SIAT Integrated Information System&lt;/a&gt; provides detailed statistical tables for economic and social indicators for the Republic of Uzbekistan.&lt;/p&gt;&#xA;&lt;p&gt;After selecting the desired indicator, data may be downloaded in Excel, CSV, PDF, JSON, or XML formats, and may also be graphed online, with downloadable images.  Either time series line charts or cartograms can be selected. Detailed metadata describes the provenance of the data and contacts for further information.&lt;/p&gt;&#xA;&lt;p&gt;The site is navigable in Uzbek, Russian, and English. Most downloads of publications and tables are in Russian.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>State Gender Statistics of the Republic of Uzbekistan</title>
+      <link>/sources/sources/gender_stat_uz/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>/sources/sources/gender_stat_uz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; of the &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides highlighted gender indicators on education, fertility, health, labor and employment, and more. These are downloadable in multiple formats (Excel,CSV, PDF, JSON, XML), with dates of coverage typically from the 2000s to the present. The publication &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt; is also available here.&lt;/p&gt;&#xA;&lt;p&gt;In the words of the site, &amp;ldquo;Gender statistics are statistics that adequately reflect the real situation of women and men in all strategic areas in order to identify gender differences and study them systematically.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>National Statistical Committee of the Kyrgyz Republic</title>
       <link>/sources/sources/stat_gov_kg/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/stat_gov_kg/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://stat.gov.kg&#34;&gt;National Statistical Committee of the Kyrgyz Republic&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Kyrgyzstan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;
-&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://stat.gov.kg/en/gendernaya-statistika/&#34;&gt;Gender Statistics&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Publications include the &lt;a href=&#34;https://stat.gov.kg/en/publications/statisticheskij-ezhegodnik-kyrgyzskoj-respubliki/&#34;&gt;Statistical Yearbook of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/&#34;&gt;Social Trends of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/&#34;&gt;Women and Men in the Kyrgyz Republic&lt;/a&gt;, and many other regular and special publications available for download.&lt;/p&gt;
-&lt;p&gt;A special &lt;a href=&#34;https://stat.gov.kg/en/opendata/&#34;&gt;Open Data&lt;/a&gt; section provides downloadable data in additional formats (XML, JSON, and Excel).&lt;/p&gt;
-&lt;p&gt;Extensive information about definitions, methodologies, and updates is generally available for the data collected. An &lt;a href=&#34;https://www.stat.gov.kg/ru/rmc/institut/&#34;&gt;online learning&lt;/a&gt; section provides another avenue for learning about the data.&lt;/p&gt;
-&lt;p&gt;The site is navigable in Kyrgyz, Russian, and English. Most downloads of publications and tables are in Russian.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://stat.gov.kg&#34;&gt;National Statistical Committee of the Kyrgyz Republic&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Kyrgyzstan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://stat.gov.kg/en/gendernaya-statistika/&#34;&gt;Gender Statistics&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Publications include the &lt;a href=&#34;https://stat.gov.kg/en/publications/statisticheskij-ezhegodnik-kyrgyzskoj-respubliki/&#34;&gt;Statistical Yearbook of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/&#34;&gt;Social Trends of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/&#34;&gt;Women and Men in the Kyrgyz Republic&lt;/a&gt;, and many other regular and special publications available for download.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Caspiana</title>
+      <title>Caspiana</title>
       <link>/sources/sources/caspiana/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/caspiana/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/&#34;&gt;Caspiana&lt;/a&gt;: A Digital Toolbox for Students and Scholars of Central Asia and the South Caucasus is a website created to facilitate research on the fascinating regions spreading east and west of the Caspian Sea.&lt;/p&gt;
-&lt;p&gt;Notably the site contains sections on &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/governance&#34;&gt;Governance&lt;/a&gt;, &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/media&#34;&gt;Media&lt;/a&gt;, and &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/statistics&#34;&gt;Statistics&lt;/a&gt; that link to major government offices and information providers. Additional material includes academic resources such as conferences and language learning links.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/&#34;&gt;Caspiana&lt;/a&gt;: A Digital Toolbox for Students and Scholars of Central Asia and the South Caucasus is a website created to facilitate research on the fascinating regions spreading east and west of the Caspian Sea.&lt;/p&gt;&#xA;&lt;p&gt;Notably the site contains sections on &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/governance&#34;&gt;Governance&lt;/a&gt;, &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/media&#34;&gt;Media&lt;/a&gt;, and &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/statistics&#34;&gt;Statistics&lt;/a&gt; that link to major government offices and information providers. Additional material includes academic resources such as conferences and language learning links.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Generations and Gender Survey - Kazakhstan</title>
+      <title>Generations and Gender Survey - Kazakhstan</title>
       <link>/sources/sources/generations_and_gender_survey_kazakhstan/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/generations_and_gender_survey_kazakhstan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://ggp.colectica.org/item/int.ggp/009e728f-77f1-4c45-88be-e3bc1acb5bfa/1&#34;&gt;Kazakhstan data&lt;/a&gt; from the &lt;a href=&#34;https://www.ggp-i.org/&#34;&gt;Generations and Gender Survey&lt;/a&gt; for 2020.&lt;/p&gt;
-&lt;p&gt;Data covers the non-institutionalized, resident population aged 18-79 in Kazakhstan on 2nd April 2018.&lt;/p&gt;
-&lt;p&gt;The Generations and Gender Survey (GGS) data provides micro-level data that can be used to investigate partnership dynamics, transition to adulthood, fertility, care and support networks, division of household tasks, and contraception, among other topics. These data are an essential resource in the understanding of fundamental societal challenges across Europe and beyond and form a substantial basis for the formulation of evidence-based policies. Key features of the survey are:&lt;/p&gt;
-&lt;p&gt;Cross-national comparability: The comparative focus allows analyses of the ways in which policies, culture and economic circumstances influence dependencies between men and women and between the young and the old.&lt;/p&gt;
-&lt;p&gt;A longitudinal design: The GGP survey applies a panel design - collecting information on the same persons at three-year intervals - to allow the examination of causes and consequences of inequalities between genders and generations.&lt;/p&gt;
-&lt;p&gt;A large sample size: The GGP survey has an average of 10,000 respondents per country, making it possible to study numerical minorities and uncommon events.&lt;/p&gt;
-&lt;p&gt;A broad age range: The GGP collects data on the whole life course by interviewing respondents aged 18-79. It also enables analysis of multiple generations by asking extensive questions about intergenerational exchange and support.&lt;/p&gt;
-&lt;p&gt;The combination of micro and macro data: Alongside the micro data collected via surveys, the GGP has a contextual database with over 100 indicators which cover not only the year of the survey but also retrospective indicators covering the past 40 years to be used alongside the retrospective data in the surveys. A theory-driven and multidisciplinary questionnaire: The GGS questionnaire is developed and maintained by a team of leading social scientists from demography, sociology and economics. The questionnaire seeks to bring together a wide range of subjects that examine the causes and consequences of family change.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ggp.colectica.org/item/int.ggp/009e728f-77f1-4c45-88be-e3bc1acb5bfa/1&#34;&gt;Kazakhstan data&lt;/a&gt; from the &lt;a href=&#34;https://www.ggp-i.org/&#34;&gt;Generations and Gender Survey&lt;/a&gt; for 2020.&lt;/p&gt;&#xA;&lt;p&gt;Data covers the non-institutionalized, resident population aged 18-79 in Kazakhstan on 2nd April 2018.&lt;/p&gt;&#xA;&lt;p&gt;The Generations and Gender Survey (GGS) data provides micro-level data that can be used to investigate partnership dynamics, transition to adulthood, fertility, care and support networks, division of household tasks, and contraception, among other topics. These data are an essential resource in the understanding of fundamental societal challenges across Europe and beyond and form a substantial basis for the formulation of evidence-based policies. Key features of the survey are:&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Living Standards Measurement Study (LSMS) - World Bank - Kazakhstan</title>
+      <title>Living Standards Measurement Study (LSMS) - World Bank - Kazakhstan</title>
       <link>/sources/sources/living_standards_measurement_survey_kazakhstan/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/living_standards_measurement_survey_kazakhstan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://www.worldbank.org/en/programs/lsms&#34;&gt;Living Standards Measurement Study (LSMS)&lt;/a&gt; is the World Bank&amp;rsquo;s flagship household survey program focused on strengthening household survey systems in client countries and on improving the quality of microdata to better inform development policies. The LSMS is housed in the Data Production and Methods Unit of the World Bank’s Development Data Group.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://microdata.worldbank.org/index.php/catalog/2292&#34;&gt;Data on Kazakhstan&lt;/a&gt; is available for 1996.&lt;/p&gt;
-&lt;p&gt;The scope of the study includes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;household roster&lt;/li&gt;
-&lt;li&gt;housing conditions&lt;/li&gt;
-&lt;li&gt;durable goods&lt;/li&gt;
-&lt;li&gt;agriculture and livestock&lt;/li&gt;
-&lt;li&gt;consumption&lt;/li&gt;
-&lt;li&gt;food purchases&lt;/li&gt;
-&lt;li&gt;home production&lt;/li&gt;
-&lt;li&gt;expenditures in last 12 months&lt;/li&gt;
-&lt;li&gt;income&lt;/li&gt;
-&lt;li&gt;migration&lt;/li&gt;
-&lt;li&gt;education&lt;/li&gt;
-&lt;li&gt;caring for children&lt;/li&gt;
-&lt;li&gt;occupation, employment&lt;/li&gt;
-&lt;li&gt;time budget&lt;/li&gt;
-&lt;li&gt;health, medical care, women&amp;rsquo;s health&lt;/li&gt;
-&lt;li&gt;anthropometrics&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.worldbank.org/en/programs/lsms&#34;&gt;Living Standards Measurement Study (LSMS)&lt;/a&gt; is the World Bank&amp;rsquo;s flagship household survey program focused on strengthening household survey systems in client countries and on improving the quality of microdata to better inform development policies. The LSMS is housed in the Data Production and Methods Unit of the World Bank’s Development Data Group.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://microdata.worldbank.org/index.php/catalog/2292&#34;&gt;Data on Kazakhstan&lt;/a&gt; is available for 1996.&lt;/p&gt;&#xA;&lt;p&gt;The scope of the study includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;household roster&lt;/li&gt;&#xA;&lt;li&gt;housing conditions&lt;/li&gt;&#xA;&lt;li&gt;durable goods&lt;/li&gt;&#xA;&lt;li&gt;agriculture and livestock&lt;/li&gt;&#xA;&lt;li&gt;consumption&lt;/li&gt;&#xA;&lt;li&gt;food purchases&lt;/li&gt;&#xA;&lt;li&gt;home production&lt;/li&gt;&#xA;&lt;li&gt;expenditures in last 12 months&lt;/li&gt;&#xA;&lt;li&gt;income&lt;/li&gt;&#xA;&lt;li&gt;migration&lt;/li&gt;&#xA;&lt;li&gt;education&lt;/li&gt;&#xA;&lt;li&gt;caring for children&lt;/li&gt;&#xA;&lt;li&gt;occupation, employment&lt;/li&gt;&#xA;&lt;li&gt;time budget&lt;/li&gt;&#xA;&lt;li&gt;health, medical care, women&amp;rsquo;s health&lt;/li&gt;&#xA;&lt;li&gt;anthropometrics&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Living Standards Measurement Study (LSMS) - World Bank - Kyrgyzstan</title>
+      <title>Living Standards Measurement Study (LSMS) - World Bank - Kyrgyzstan</title>
       <link>/sources/sources/living_standards_measurement_survey_kyrgyzstan/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/living_standards_measurement_survey_kyrgyzstan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://www.worldbank.org/en/programs/lsms&#34;&gt;Living Standards Measurement Study (LSMS)&lt;/a&gt; is the World Bank&amp;rsquo;s flagship household survey program focused on strengthening household survey systems in client countries and on improving the quality of microdata to better inform development policies. The LSMS is housed in the Data Production and Methods Unit of the World Bank’s Development Data Group.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://microdata.worldbank.org/index.php/catalog/lsms/?page=1&amp;amp;country%5B%5D=118&amp;amp;ps=15&amp;amp;repo=lsms&#34;&gt;Data on Kyrgyzstan&lt;/a&gt; is available from 1993 to 1998 through the &lt;strong&gt;Poverty Monitoring Survey&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The scope of the study includes household and family, jobs and employment, education, health, and other variables.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.worldbank.org/en/programs/lsms&#34;&gt;Living Standards Measurement Study (LSMS)&lt;/a&gt; is the World Bank&amp;rsquo;s flagship household survey program focused on strengthening household survey systems in client countries and on improving the quality of microdata to better inform development policies. The LSMS is housed in the Data Production and Methods Unit of the World Bank’s Development Data Group.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://microdata.worldbank.org/index.php/catalog/lsms/?page=1&amp;amp;country%5B%5D=118&amp;amp;ps=15&amp;amp;repo=lsms&#34;&gt;Data on Kyrgyzstan&lt;/a&gt; is available from 1993 to 1998 through the &lt;strong&gt;Poverty Monitoring Survey&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The scope of the study includes household and family, jobs and employment, education, health, and other variables.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Sources: Living Standards Measurement Study (LSMS) - World Bank - Tajikistan</title>
-      <link>/sources/sources/living_standards_measurement_survey_tajikistan/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/sources/sources/living_standards_measurement_survey_tajikistan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;a href=&#34;https://www.worldbank.org/en/programs/lsms&#34;&gt;Living Standards Measurement Study (LSMS)&lt;/a&gt; is the World Bank&amp;rsquo;s flagship household survey program focused on strengthening household survey systems in client countries and on improving the quality of microdata to better inform development policies. The LSMS is housed in the Data Production and Methods Unit of the World Bank’s Development Data Group.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://microdata.worldbank.org/index.php/catalog/lsms/?page=1&amp;amp;country%5B%5D=210&amp;amp;ps=15&amp;amp;repo=lsms&#34;&gt;Data on Tajikistan&lt;/a&gt; is available from 1999 to 2009.&lt;/p&gt;
-&lt;p&gt;The scope of the study includes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Internal Migration&lt;/li&gt;
-&lt;li&gt;International Migration&lt;/li&gt;
-&lt;li&gt;Family Members Living Away from the Household&lt;/li&gt;
-&lt;li&gt;Preschool Education&lt;/li&gt;
-&lt;li&gt;Education (6 years and older)&lt;/li&gt;
-&lt;li&gt;Utilization of Outpatient Health Care&lt;/li&gt;
-&lt;li&gt;Hospitalization&lt;/li&gt;
-&lt;li&gt;Access to Health Care&lt;/li&gt;
-&lt;li&gt;Labor Force Participation in Labor Market&lt;/li&gt;
-&lt;li&gt;Overview Last 14 Days&lt;/li&gt;
-&lt;li&gt;Main and Secondary Jobs in the Last 14 Days&lt;/li&gt;
-&lt;li&gt;Activities over the Last 24 Months&lt;/li&gt;
-&lt;li&gt;Utilities&lt;/li&gt;
-&lt;li&gt;Water and Sanitation&lt;/li&gt;
-&lt;li&gt;Durable Goods&lt;/li&gt;
-&lt;li&gt;Transfers from Another Household&lt;/li&gt;
-&lt;li&gt;Tansfers to Another Household&lt;/li&gt;
-&lt;li&gt;Social Assistance&lt;/li&gt;
-&lt;li&gt;Subjective Poverty and Food Security&lt;/li&gt;
-&lt;li&gt;Coping Strategies&lt;/li&gt;
-&lt;li&gt;Expenditure on Food in the Last Seven Days&lt;/li&gt;
-&lt;li&gt;Nonfood Purchases Past 30 Days&lt;/li&gt;
-&lt;li&gt;Nonfood Purchases Past 6 Months&lt;/li&gt;
-&lt;li&gt;Nonfood Purchases Past 12 Months&lt;/li&gt;
-&lt;li&gt;Other Income&lt;/li&gt;
-&lt;li&gt;Household and Population Weights&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
   </channel>
 </rss>

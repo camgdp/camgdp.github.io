@@ -1,18 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Date_start</title>
+    <title>Date_start on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/</link>
-    <description>Recent content in Date_start on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Date_start on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
+    <atom:link href="/date_start/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1999</title>
+      <link>/date_start/1999/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/date_start/1999/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2020</title>
+      <link>/date_start/2020/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>/date_start/2020/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1993</title>
+      <link>/date_start/1993/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/date_start/1993/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1996</title>
+      <link>/date_start/1996/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/date_start/1996/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2022</title>
+      <link>/date_start/2022/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>/date_start/2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2010</title>
+      <link>/date_start/2010/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/date_start/2010/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1934</title>
+      <link>/date_start/1934/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/1934/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1943</title>
+      <link>/date_start/1943/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/1943/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2002</title>
+      <link>/date_start/2002/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2002/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2006</title>
+      <link>/date_start/2006/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2006/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1976</title>
+      <link>/date_start/1976/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/1976/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1992</title>
+      <link>/date_start/1992/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/1992/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1998</title>
+      <link>/date_start/1998/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/1998/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2005</title>
+      <link>/date_start/2005/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2008</title>
+      <link>/date_start/2008/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2008/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2009</title>
+      <link>/date_start/2009/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2015</title>
+      <link>/date_start/2015/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2016</title>
+      <link>/date_start/2016/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2016/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2017</title>
+      <link>/date_start/2017/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2018</title>
+      <link>/date_start/2018/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2019</title>
+      <link>/date_start/2019/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2021</title>
+      <link>/date_start/2021/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>/date_start/2023/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1960</title>
+      <link>/date_start/1960/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/1960/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2012</title>
+      <link>/date_start/2012/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2013</title>
+      <link>/date_start/2013/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2014</title>
+      <link>/date_start/2014/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1997</title>
+      <link>/date_start/1997/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/1997/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2003</title>
+      <link>/date_start/2003/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2004</title>
+      <link>/date_start/2004/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2004/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2011</title>
+      <link>/date_start/2011/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2011/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1995</title>
+      <link>/date_start/1995/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/1995/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2000</title>
+      <link>/date_start/2000/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>/date_start/2000/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

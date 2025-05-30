@@ -1,32 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 1976</title>
+    <title>1976 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/1976/</link>
-    <description>Recent content in 1976 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/1976/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 1976 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 23:13:56 -0400</lastBuildDate>
+    <atom:link href="/date_start/1976/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Amerika Ovozi</title>
+      <title>Amerika Ovozi</title>
       <link>/sources/sources/amerika_ovozi/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/amerika_ovozi/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://www.amerikaovozi.com/&#34;&gt;Amerika Ovozi (Voice of America)&lt;/a&gt; is an international multimedia agency launched in 1942 and funded by the US Congress. Its charter was founded in 1976. Since 2016, Amerika Ovozi legally established itself as an independent media with a neutral coverage.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.amerikaovozi.com/&#34;&gt;Amerika Ovozi (Voice of America)&lt;/a&gt; is an international multimedia agency launched in 1942 and funded by the US Congress. Its charter was founded in 1976. Since 2016, Amerika Ovozi legally established itself as an independent media with a neutral coverage.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

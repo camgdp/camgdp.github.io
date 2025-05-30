@@ -1,46 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 2011</title>
+    <title>2011 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/2011/</link>
-    <description>Recent content in 2011 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/2011/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 2011 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jul 2023 23:03:28 -0400</lastBuildDate>
+    <atom:link href="/date_start/2011/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Novastan</title>
+      <title>Novastan</title>
       <link>/sources/sources/novastan/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/novastan/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2011 in Bishkek, Kyrgyzstan and based in Paris and Berlin, &lt;a href=&#34;https://novastan.org/&#34;&gt;Novastan&lt;/a&gt; offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and the Uyghur region.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2011 in Bishkek, Kyrgyzstan and based in Paris and Berlin, &lt;a href=&#34;https://novastan.org/&#34;&gt;Novastan&lt;/a&gt; offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, and the Uyghur region.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Eurasian Cultural Alliance</title>
+      <title>Eurasian Cultural Alliance</title>
       <link>/sources/sources/eurasian_cultural_alliance/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/eurasian_cultural_alliance/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2011, the &lt;a href=&#34;https://en.cultura.kz/&#34;&gt;Eurasian Cultural Alliance&lt;/a&gt; is a NGO dedicated to cultivating the contemporary art scene of Kazakhstan. The mission of the Alliance is to stimulate the creative economy, improve social and economic standing of the region&amp;rsquo;s key cultural players, and advance the integration of the Kazakhstani identity into a larger global context.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2011, the &lt;a href=&#34;https://en.cultura.kz/&#34;&gt;Eurasian Cultural Alliance&lt;/a&gt; is a NGO dedicated to cultivating the contemporary art scene of Kazakhstan. The mission of the Alliance is to stimulate the creative economy, improve social and economic standing of the region&amp;rsquo;s key cultural players, and advance the integration of the Kazakhstani identity into a larger global context.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

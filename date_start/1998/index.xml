@@ -1,60 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 1998</title>
+    <title>1998 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_start/1998/</link>
-    <description>Recent content in 1998 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_start/1998/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 1998 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 20:55:56 -0400</lastBuildDate>
+    <atom:link href="/date_start/1998/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Kok.team</title>
+      <title>Kok.team</title>
       <link>/sources/sources/kok.team/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/kok.team/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2017 and dissolved in 2022, &lt;a href=&#34;https://www.kok.team/&#34;&gt;Kok.team&lt;/a&gt; was a grassroots LGBT organization dedicated to providing information on the LGBT issues in Kazakh. Digital archive contains articles, podcasts and videos of Kazakhstani LGBT  community. Available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2017 and dissolved in 2022, &lt;a href=&#34;https://www.kok.team/&#34;&gt;Kok.team&lt;/a&gt; was a grassroots LGBT organization dedicated to providing information on the LGBT issues in Kazakh. Digital archive contains articles, podcasts and videos of Kazakhstani LGBT  community. Available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: MISK</title>
+      <title>MISK</title>
       <link>/sources/sources/misk/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/misk/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 1998 &lt;a href=&#34;https://misk.org.kz/&#34;&gt;MISK (Kazakhstani Informational Youth Service)&lt;/a&gt; dedicated to research on youth, monitoring youth policy legislation, and human rights training. Key projects of the organization include School of Human Rights and School of Civil Education. MISK also regularly published surveys on various social issues. Summary of survey findings include brief information on sample sizes of each survey. Available in Russian.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 1998 &lt;a href=&#34;https://misk.org.kz/&#34;&gt;MISK (Kazakhstani Informational Youth Service)&lt;/a&gt; dedicated to research on youth, monitoring youth policy legislation, and human rights training. Key projects of the organization include School of Human Rights and School of Civil Education. MISK also regularly published surveys on various social issues. Summary of survey findings include brief information on sample sizes of each survey. Available in Russian.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Units to Guard Women against Violence</title>
+      <title>Units to Guard Women against Violence</title>
       <link>/sources/sources/units_to_guard_women_against_violence/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/units_to_guard_women_against_violence/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 1998, the &lt;a href=&#34;https://adilet.zan.kz/rus/docs/V1500012948&#34;&gt;Republic of Kazakhstan Administrations of Internal Affairs’ Units to Guard Women against Violence&lt;/a&gt; is a domestic body on the basis of police work force designed to protect constitutional rights of women, coordinate detention and prosecution processes in the case of the detention of women, and organize work to prevent domestic violence against women. The official text of the establishment of the units &lt;a href=&#34;https://adilet.zan.kz/rus/docs/V1500012948&#34;&gt;could be found here&lt;/a&gt;. In 2021, Kaz Fem feminist organization &lt;a href=&#34;https://www.instagram.com/p/CXtA7T6MbAM/&#34;&gt;criticized&lt;/a&gt; the compensation policy of the Units’ workers stating that on average its female workers earn less than workers of other internal affairs’ units.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 1998, the &lt;a href=&#34;https://adilet.zan.kz/rus/docs/V1500012948&#34;&gt;Republic of Kazakhstan Administrations of Internal Affairs’ Units to Guard Women against Violence&lt;/a&gt; is a domestic body on the basis of police work force designed to protect constitutional rights of women, coordinate detention and prosecution processes in the case of the detention of women, and organize work to prevent domestic violence against women. The official text of the establishment of the units &lt;a href=&#34;https://adilet.zan.kz/rus/docs/V1500012948&#34;&gt;could be found here&lt;/a&gt;. In 2021, Kaz Fem feminist organization &lt;a href=&#34;https://www.instagram.com/p/CXtA7T6MbAM/&#34;&gt;criticized&lt;/a&gt; the compensation policy of the Units’ workers stating that on average its female workers earn less than workers of other internal affairs’ units.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,46 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – sex work</title>
+    <title>Sex Work on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/tags/sex-work/</link>
-    <description>Recent content in sex work on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/tags/sex-work/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Sex Work on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 23:08:14 -0400</lastBuildDate>
+    <atom:link href="/tags/sex-work/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: European Sex Workers Rights Alliance</title>
+      <title>European Sex Workers Rights Alliance</title>
       <link>/sources/sources/eswra/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/eswra/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2002 under the name of International Committee for Sex Workers in Europe (ICRSE), &lt;a href=&#34;https://www.eswalliance.org/&#34;&gt;European Sex Workers Rights Alliance&lt;/a&gt; is a sex worker-led network representing more than 100 organizations in 30 countries across Europe and Central Asia. One of its recent publication is &amp;ldquo;Sex work &amp;amp; racism: the impact of structural racism on racialized sex workers in Europe and Central Asia&amp;rdquo; report.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2002 under the name of International Committee for Sex Workers in Europe (ICRSE), &lt;a href=&#34;https://www.eswalliance.org/&#34;&gt;European Sex Workers Rights Alliance&lt;/a&gt; is a sex worker-led network representing more than 100 organizations in 30 countries across Europe and Central Asia. One of its recent publication is &amp;ldquo;Sex work &amp;amp; racism: the impact of structural racism on racialized sex workers in Europe and Central Asia&amp;rdquo; report.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Feminita</title>
+      <title>Feminita</title>
       <link>/sources/sources/feminita/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/feminita/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;a href=&#34;https://feminita.kz/&#34;&gt;Feminita&lt;/a&gt; is a grassroots queer feminist collective. Feminita aims to create and strengthen the rights of women and activist communities and empower the most oppressed groups of Kazakhstani population (lesbian, bisexual, queer, women with disabilities, women in sex work). Currently, the organization works on three research projects: assessment of needs of LBQ women; health conditions of LBQT women and transgender men; and sexual wellness of LBQ women. Methodology and research design sections are included in the first two project reports. The reports are available in Russian with occasional translation to Kazakh.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://feminita.kz/&#34;&gt;Feminita&lt;/a&gt; is a grassroots queer feminist collective. Feminita aims to create and strengthen the rights of women and activist communities and empower the most oppressed groups of Kazakhstani population (lesbian, bisexual, queer, women with disabilities, women in sex work). Currently, the organization works on three research projects: assessment of needs of LBQ women; health conditions of LBQT women and transgender men; and sexual wellness of LBQ women. Methodology and research design sections are included in the first two project reports. The reports are available in Russian with occasional translation to Kazakh.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

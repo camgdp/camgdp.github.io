@@ -1,46 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – journalism</title>
+    <title>Journalism on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/tags/journalism/</link>
-    <description>Recent content in journalism on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/tags/journalism/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Journalism on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 21:47:16 -0400</lastBuildDate>
+    <atom:link href="/tags/journalism/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Unit </title>
+      <title>Unit </title>
       <link>/sources/sources/unit/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/unit/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2021 by n-ost, a Berlin-based media NGO, &lt;a href=&#34;https://unit.n-ost.org&#34;&gt;Unit&lt;/a&gt; is a crossborder community of journalists and activists from Central Asia, Eastern Europe, and South Caucasus who work on the LGBTQIA+ issues.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2021 by n-ost, a Berlin-based media NGO, &lt;a href=&#34;https://unit.n-ost.org&#34;&gt;Unit&lt;/a&gt; is a crossborder community of journalists and activists from Central Asia, Eastern Europe, and South Caucasus who work on the LGBTQIA+ issues.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Prague Civil Society Centre</title>
+      <title>Prague Civil Society Centre</title>
       <link>/sources/sources/prague_civil_society_centre/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/prague_civil_society_centre/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2014 and based in Prague, the Czech Republic. &lt;a href=&#34;https://www.praguecivilsociety.org/&#34;&gt;Prague Civil Society Centre&lt;/a&gt; is dedicated to enabling civic groups and journalists to connect with their communities through grant making, capacity building, and learning. The Centre is funded by governments of Sweden, the Czech Republic, the UK, and the US, as well as the European Commission, the Oak Foundation, and the Wellspring Philanthropic Fund. Focuses on Eastern Europe and Central Asia. In addition to civil society programs, the Centre publishes media and publications on various topics related to the civic groups in Central Asia.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2014 and based in Prague, the Czech Republic. &lt;a href=&#34;https://www.praguecivilsociety.org/&#34;&gt;Prague Civil Society Centre&lt;/a&gt; is dedicated to enabling civic groups and journalists to connect with their communities through grant making, capacity building, and learning. The Centre is funded by governments of Sweden, the Czech Republic, the UK, and the US, as well as the European Commission, the Oak Foundation, and the Wellspring Philanthropic Fund. Focuses on Eastern Europe and Central Asia. In addition to civil society programs, the Centre publishes media and publications on various topics related to the civic groups in Central Asia.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

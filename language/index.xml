@@ -1,18 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – Language</title>
+    <title>Language on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/language/</link>
-    <description>Recent content in Language on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/language/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in Language on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
+    <atom:link href="/language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>English</title>
+      <link>/language/english/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/language/english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Russian</title>
+      <link>/language/russian/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/language/russian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uzbek</title>
+      <link>/language/uzbek/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/language/uzbek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kyrgyz</title>
+      <link>/language/kyrgyz/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>/language/kyrgyz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kazakh</title>
+      <link>/language/kazakh/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/language/kazakh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arabic</title>
+      <link>/language/arabic/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/language/arabic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>French</title>
+      <link>/language/french/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/language/french/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spanish</title>
+      <link>/language/spanish/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/language/spanish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ukrainian</title>
+      <link>/language/ukrainian/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/language/ukrainian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dutch</title>
+      <link>/language/dutch/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/language/dutch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>German</title>
+      <link>/language/german/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/language/german/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tajik</title>
+      <link>/language/tajik/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/language/tajik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turkmen</title>
+      <link>/language/turkmen/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/language/turkmen/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

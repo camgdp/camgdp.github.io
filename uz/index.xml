@@ -1,16 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – CAMGDP</title>
+    <title>CAMGDP on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/uz/</link>
-    <description>Recent content on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/uz/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-      
-    
-    
+    <description>Recent content in CAMGDP on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>uz</language>
+    <atom:link href="/uz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O&#39;zbekiston Gender Tadqiqotlar Qo&#39;llanma</title>
+      <link>/uz/qollanmalar/ozbekiston/ozbekiston_gender_tadqiqotlar_qollanma/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/uz/qollanmalar/ozbekiston/ozbekiston_gender_tadqiqotlar_qollanma/</guid>
+      <description>&lt;h2 id=&#34;kirish&#34;&gt;Kirish&lt;/h2&gt;&#xA;&lt;p&gt;Xush kelibsiz O&amp;rsquo;zbekiston Gender Ma&amp;rsquo;lumotlar Tadqiqoti Ko&amp;rsquo;rsatgichiga, bu muhim mavzuni O&amp;rsquo;zbekistonning unikal madaniy va tarixiy konteksti ichida ko&amp;rsquo;rsatib berish uchun ishlab chiqilgan manbaga. Markaziy Osiyo yuragini o&amp;rsquo;rnatilgan mamlakat sifatida, O&amp;rsquo;zbekiston jins va gender munosabatlari boyicha o&amp;rsquo;zining odamlarining tajribalarini shakllantirgan traditsiyalar, obichaylar va ijtimoiy-siyosiy ta&amp;rsquo;sirlar to&amp;rsquo;plamiga ega.&lt;/p&gt;&#xA;&lt;p&gt;Ushbu ko&amp;rsquo;rsatgich, O&amp;rsquo;zbekiston ichidagi jins va jinsiyatning murakkab dinamikalarini o&amp;rsquo;rganishga qiziqshuvchi olimlar, talabalar, tadqiqotchilar, faol huquqshunoslar va har bir kishi uchun qimmatli bir vositadir sifatida tayyorlangan. Biz ushbu ko&amp;rsquo;rsatgich foydalanuvchilariga, O&amp;rsquo;zbekistonning bu mozaik va tezroq o&amp;rsquo;zgaruvchan jamiyatida bu tarkibiy shakllanishning qanday shakllanganligini, tasavvurlashini va boshqa omma almashinuvlarini o&amp;rsquo;rganishlarini ta&amp;rsquo;minlashni umid qilamiz.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O&#39;zbekiston Bilan Ishlashni Boshlash Uchun Qo&#39;llanma</title>
+      <link>/uz/qollanmalar/ozbekiston/ozbekiston_bilan_ishlashni_boshlash_uchun_qollanma/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/uz/qollanmalar/ozbekiston/ozbekiston_bilan_ishlashni_boshlash_uchun_qollanma/</guid>
+      <description>&lt;h2 id=&#34;xalqaro-davlat-tomonidan-emas-tashkilotlar-xdttolar&#34;&gt;Xalqaro davlat tomonidan e’mas tashkilotlar (XDTTOlar)&lt;/h2&gt;&#xA;&lt;p&gt;Xalqaro davlat tomonidan e’mas tashkilotlar (&lt;a href=&#34;/category/ingo&#34;&gt;XDTTOlar&lt;/a&gt;) odatda ularga o‘zlarining o‘zbekistondagi yoki boshqa mamlakatlardagi ma’lumotlarni to‘plash uchun global va soliqqa oid bo‘lgan tarixiy va taqqoslashli ko‘rsatkichlar bilan yaqinlashadi. XDTTOlar mamlakat darajasida raqamli ma’lumotlarni olib kelishi mumkin, lekin ularda o‘zbekistondagi mahalli nuqtai nazar va ayrimliklarga oid ma’lumotlar (masalan, viloyat yoki shahar darajasidagi ma’lumotlar) bo‘lishi mumkin. Boshqa XDTTOlar ayrim-muammo yoki mavzuga oid fokuslanib, o‘zlashtirilgan ko‘rsatkichlar va aktivistlik nuqtai nazarlarni qo‘llaydilar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qidiruv natijalari</title>
+      <link>/uz/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/uz/search/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

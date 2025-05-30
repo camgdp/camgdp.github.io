@@ -1,46 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP – 2022</title>
+    <title>2022 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
     <link>/date_end/2022/</link>
-    <description>Recent content in 2022 on CAMGDP</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	  <atom:link href="/date_end/2022/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <description>Recent content in 2022 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Aug 2023 20:55:56 -0400</lastBuildDate>
+    <atom:link href="/date_end/2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sources: Kaz Fem</title>
+      <title>Kaz Fem</title>
       <link>/sources/sources/kazfem/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/kazfem/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2015, &lt;a href=&#34;https://www.instagram.com/kaz_fem/&#34;&gt;KazFem&lt;/a&gt; is a grassroots feminist organization dedicated to research and development of feminist theory in Kazakhstan. One of the leading organizations behind Kazakhstan’s annual women rights march. Available mostly in Russian with occasional material in Kazakh.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2015, &lt;a href=&#34;https://www.instagram.com/kaz_fem/&#34;&gt;KazFem&lt;/a&gt; is a grassroots feminist organization dedicated to research and development of feminist theory in Kazakhstan. One of the leading organizations behind Kazakhstan’s annual women rights march. Available mostly in Russian with occasional material in Kazakh.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sources: Kok.team</title>
+      <title>Kok.team</title>
       <link>/sources/sources/kok.team/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>/sources/sources/kok.team/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Founded in 2017 and dissolved in 2022, &lt;a href=&#34;https://www.kok.team/&#34;&gt;Kok.team&lt;/a&gt; was a grassroots LGBT organization dedicated to providing information on the LGBT issues in Kazakh. Digital archive contains articles, podcasts and videos of Kazakhstani LGBT  community. Available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;
-
-      </description>
+      <description>&lt;p&gt;Founded in 2017 and dissolved in 2022, &lt;a href=&#34;https://www.kok.team/&#34;&gt;Kok.team&lt;/a&gt; was a grassroots LGBT organization dedicated to providing information on the LGBT issues in Kazakh. Digital archive contains articles, podcasts and videos of Kazakhstani LGBT  community. Available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
