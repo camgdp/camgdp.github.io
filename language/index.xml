@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Language on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/language/</link>
-    <description>Recent content in Language on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Language on CAMGDP</title>
+    <link>https://camgdp.org/language/</link>
+    <description>Recent content in Language on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
-    <atom:link href="/language/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:36:55 -0400</lastBuildDate>
+    <atom:link href="https://camgdp.org/language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>English</title>
-      <link>/language/english/</link>
+      <link>https://camgdp.org/language/english/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/language/english/</guid>
+      <guid>https://camgdp.org/language/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Russian</title>
-      <link>/language/russian/</link>
+      <link>https://camgdp.org/language/russian/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/language/russian/</guid>
+      <guid>https://camgdp.org/language/russian/</guid>
       <description></description>
     </item>
     <item>
       <title>Uzbek</title>
-      <link>/language/uzbek/</link>
+      <link>https://camgdp.org/language/uzbek/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/language/uzbek/</guid>
+      <guid>https://camgdp.org/language/uzbek/</guid>
       <description></description>
     </item>
     <item>
       <title>Kyrgyz</title>
-      <link>/language/kyrgyz/</link>
+      <link>https://camgdp.org/language/kyrgyz/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>/language/kyrgyz/</guid>
+      <guid>https://camgdp.org/language/kyrgyz/</guid>
       <description></description>
     </item>
     <item>
       <title>Kazakh</title>
-      <link>/language/kazakh/</link>
+      <link>https://camgdp.org/language/kazakh/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/language/kazakh/</guid>
+      <guid>https://camgdp.org/language/kazakh/</guid>
       <description></description>
     </item>
     <item>
       <title>Arabic</title>
-      <link>/language/arabic/</link>
+      <link>https://camgdp.org/language/arabic/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/language/arabic/</guid>
+      <guid>https://camgdp.org/language/arabic/</guid>
       <description></description>
     </item>
     <item>
       <title>French</title>
-      <link>/language/french/</link>
+      <link>https://camgdp.org/language/french/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/language/french/</guid>
+      <guid>https://camgdp.org/language/french/</guid>
       <description></description>
     </item>
     <item>
       <title>Spanish</title>
-      <link>/language/spanish/</link>
+      <link>https://camgdp.org/language/spanish/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/language/spanish/</guid>
+      <guid>https://camgdp.org/language/spanish/</guid>
       <description></description>
     </item>
     <item>
       <title>Ukrainian</title>
-      <link>/language/ukrainian/</link>
+      <link>https://camgdp.org/language/ukrainian/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/language/ukrainian/</guid>
+      <guid>https://camgdp.org/language/ukrainian/</guid>
       <description></description>
     </item>
     <item>
       <title>Dutch</title>
-      <link>/language/dutch/</link>
+      <link>https://camgdp.org/language/dutch/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/language/dutch/</guid>
+      <guid>https://camgdp.org/language/dutch/</guid>
       <description></description>
     </item>
     <item>
       <title>German</title>
-      <link>/language/german/</link>
+      <link>https://camgdp.org/language/german/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/language/german/</guid>
+      <guid>https://camgdp.org/language/german/</guid>
       <description></description>
     </item>
     <item>
       <title>Tajik</title>
-      <link>/language/tajik/</link>
+      <link>https://camgdp.org/language/tajik/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/language/tajik/</guid>
+      <guid>https://camgdp.org/language/tajik/</guid>
       <description></description>
     </item>
     <item>
       <title>Turkmen</title>
-      <link>/language/turkmen/</link>
+      <link>https://camgdp.org/language/turkmen/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/language/turkmen/</guid>
+      <guid>https://camgdp.org/language/turkmen/</guid>
       <description></description>
     </item>
   </channel>

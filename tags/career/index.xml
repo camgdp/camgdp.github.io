@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Career on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/career/</link>
-    <description>Recent content in Career on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Career on CAMGDP</title>
+    <link>https://camgdp.org/tags/career/</link>
+    <description>Recent content in Career on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 30 Jul 2023 22:19:24 -0400</lastBuildDate>
-    <atom:link href="/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Qizlar Ovozi</title>
-      <link>/sources/sources/qizlar_ovozi/</link>
+      <link>https://camgdp.org/sources/sources/qizlar_ovozi/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/qizlar_ovozi/</guid>
+      <guid>https://camgdp.org/sources/sources/qizlar_ovozi/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://qizlarovozi.uz/&#34;&gt;Qizlar Ovozi&lt;/a&gt; is a school aimed at motivating and helping girls and young women aged 14 to 30 years in their professional development. The school also intends to increase and strengthen women&amp;rsquo;s role in public life. Qizlar Ovozi was founded by Nilufar Kiyamova.&lt;/p&gt;</description>
     </item>
   </channel>

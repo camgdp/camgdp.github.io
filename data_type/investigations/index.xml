@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Investigations on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/data_type/investigations/</link>
-    <description>Recent content in Investigations on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Investigations on CAMGDP</title>
+    <link>https://camgdp.org/data_type/investigations/</link>
+    <description>Recent content in Investigations on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Jun 2023 13:32:58 -0400</lastBuildDate>
-    <atom:link href="/data_type/investigations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/data_type/investigations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ratel</title>
-      <link>/sources/sources/ratel/</link>
+      <link>https://camgdp.org/sources/sources/ratel/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/ratel/</guid>
+      <guid>https://camgdp.org/sources/sources/ratel/</guid>
       <description>&lt;p&gt;Founded in 2013, &lt;a href=&#34;https://ratel.kz/&#34;&gt;Ratel&lt;/a&gt; offers coverage of current events, opinion pieces, and journalistic investigations in Kazakhstan, specifically concerning corruption. The publication had its license rescinded in 2018 in a court ruling on the grounds of spreading misinformation due to the published investigations of various corruption cases. The site resumed its work in 2019. Available primarily in Russian with occasional publications in Kazakh and English.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interview on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/data_type/interview/</link>
-    <description>Recent content in Interview on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Interview on CAMGDP</title>
+    <link>https://camgdp.org/data_type/interview/</link>
+    <description>Recent content in Interview on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 Jul 2023 01:47:00 -0400</lastBuildDate>
-    <atom:link href="/data_type/interview/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/data_type/interview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>World Bank</title>
-      <link>/sources/sources/world_bank/</link>
+      <link>https://camgdp.org/sources/sources/world_bank/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/world_bank/</guid>
+      <guid>https://camgdp.org/sources/sources/world_bank/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://genderdata.worldbank.org/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt; covers &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/kyrgyz-republic/&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/mongolia/&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/tajikistan/&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/Turkmenistan/&#34;&gt;Turkmenistan&lt;/a&gt;, and &lt;a href=&#34;https://genderdata.worldbank.org/countries/uzbekistan/&#34;&gt;Uzbekistan&lt;/a&gt;, and offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;&#xA;&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Friedrich Ebert Stiftung</title>
-      <link>/sources/sources/fes/</link>
+      <link>https://camgdp.org/sources/sources/fes/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/fes/</guid>
+      <guid>https://camgdp.org/sources/sources/fes/</guid>
       <description>&lt;p&gt;Founded in 1925 in Germany with a Kazakhstani office opened in 1993, &lt;a href=&#34;https://kazakhstan.fes.de/&#34;&gt;Friedrich Ebert Stiftung&lt;/a&gt; is a foundation funded by the German government. The INGO focuses on social and gender justice issues, as well as political participation and youth leadership.&lt;/p&gt;&#xA;&lt;p&gt;Publications on Kazakhstan include population surveys, particularly focused on youth, and are available in English, Kazakh, and Russian.&lt;/p&gt;&#xA;&lt;p&gt;Published surveys include &amp;ldquo;Youth and Education,&amp;rdquo; &amp;ldquo;Youth and Values,&amp;rdquo; &amp;ldquo;Youth and Social Justice.&amp;rdquo; Gendered breakdown of data is included for some survey questions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UN Population Fund in Kazakhstan</title>
-      <link>/sources/sources/un_population_fund_kazakhstan/</link>
+      <link>https://camgdp.org/sources/sources/un_population_fund_kazakhstan/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/un_population_fund_kazakhstan/</guid>
+      <guid>https://camgdp.org/sources/sources/un_population_fund_kazakhstan/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://www.unfpa.org&#34;&gt;UN Population Fund&lt;/a&gt; produces country-specific landing pages. The work of the Fund includes data on sexual and reproductive health, gender equality, young people, and population matters.&lt;/p&gt;&#xA;&lt;p&gt;Their &lt;a href=&#34;https://www.unfpa.org/data/world-population/KZ&#34;&gt;Data Portal for Kazakhstan&lt;/a&gt; gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.   Their semi-regularly published &lt;a href=&#34;https://kazakhstan.unfpa.org/en/publications&#34;&gt;reports and surveys&lt;/a&gt; address these topics. Survey publcations contain a methodology section.&lt;/p&gt;&#xA;&lt;p&gt;There is also a &lt;a href=&#34;https://www.unfpa.org/data/transparency-portal/unfpa-kazakhstan&#34;&gt;Transparency portal&lt;/a&gt; that details expenses and program activities of the Population Fund in Kazakhstan.&lt;/p&gt;</description>
     </item>
   </channel>

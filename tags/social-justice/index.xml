@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Justice on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/social-justice/</link>
-    <description>Recent content in Social Justice on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Social Justice on CAMGDP</title>
+    <link>https://camgdp.org/tags/social-justice/</link>
+    <description>Recent content in Social Justice on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jul 2023 22:21:02 -0400</lastBuildDate>
-    <atom:link href="/tags/social-justice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/social-justice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Friedrich Ebert Stiftung</title>
-      <link>/sources/sources/fes_uz/</link>
+      <link>https://camgdp.org/sources/sources/fes_uz/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/fes_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/fes_uz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/fesuzbekistan/&#34;&gt;FES Uzbekistan&lt;/a&gt; was founded in 1997. The foundation&amp;rsquo;s mission in the country is stated as promoting ideas of inclusive society and contributing to the development of just economic and social politics, as well as supporting civil society, labor unions, and gender equality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Friedrich Ebert Stiftung</title>
-      <link>/sources/sources/fes/</link>
+      <link>https://camgdp.org/sources/sources/fes/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/fes/</guid>
+      <guid>https://camgdp.org/sources/sources/fes/</guid>
       <description>&lt;p&gt;Founded in 1925 in Germany with a Kazakhstani office opened in 1993, &lt;a href=&#34;https://kazakhstan.fes.de/&#34;&gt;Friedrich Ebert Stiftung&lt;/a&gt; is a foundation funded by the German government. The INGO focuses on social and gender justice issues, as well as political participation and youth leadership.&lt;/p&gt;&#xA;&lt;p&gt;Publications on Kazakhstan include population surveys, particularly focused on youth, and are available in English, Kazakh, and Russian.&lt;/p&gt;&#xA;&lt;p&gt;Published surveys include &amp;ldquo;Youth and Education,&amp;rdquo; &amp;ldquo;Youth and Values,&amp;rdquo; &amp;ldquo;Youth and Social Justice.&amp;rdquo; Gendered breakdown of data is included for some survey questions.&lt;/p&gt;</description>
     </item>
   </channel>

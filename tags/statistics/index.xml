@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statistics on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/statistics/</link>
-    <description>Recent content in Statistics on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Statistics on CAMGDP</title>
+    <link>https://camgdp.org/tags/statistics/</link>
+    <description>Recent content in Statistics on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
-    <atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:36:55 -0400</lastBuildDate>
+    <atom:link href="https://camgdp.org/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National Statistics Committee of the Republic of Uzbekistan</title>
-      <link>/sources/sources/stat_gov_uz/</link>
+      <link>https://camgdp.org/sources/sources/stat_gov_uz/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/stat_gov_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/stat_gov_uz/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Uzbekistan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; (&lt;a href=&#34;https://camgdp.org/sources/sources/gender_stat_uz/&#34;&gt;also described on CAMGDP&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stat.uz/en/publications&#34;&gt;Publications&lt;/a&gt; include &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt;.  The &lt;a href=&#34;https://stat.uz/en/publications/3627-statistical-yearbook-of-the-republic-of-uzbekistan&#34;&gt;Statistical Yearbook of the Republic of Uzbekistan&lt;/a&gt; and other publications are available for purchase, with only their tables of contents freely viewable. Quarterly reports and other frequently updated releases are typically freely downloadable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Data Portal of the Republic of Uzbekistan</title>
-      <link>/sources/sources/data_egov_uz/</link>
+      <link>https://camgdp.org/sources/sources/data_egov_uz/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/data_egov_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/data_egov_uz/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://data.egov.uz&#34;&gt;Open Data Portal of the Republic of Uzbekistan&lt;/a&gt; provides over 10,000 freely downloadable datasets from more than 150 organizations on various aspects of life in Uzbekistan, including education, health, economy, population, culture, justice, and more.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are typically available in CSV, Excel, XML, JSON, and RDF formats. Before downloading, a brief pop-up will ask the user to identify the intended use of the data (research, personal, application development, media, or other), but no registration is required.  In addition to keyword search, data can be browsed by topic or organization, and the most recent and most highly rated datasets are highlighted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SIAT Integrated Information System (Uzbekistan)</title>
-      <link>/sources/sources/siat_stat_uz/</link>
+      <link>https://camgdp.org/sources/sources/siat_stat_uz/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/siat_stat_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/siat_stat_uz/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://siat.stat.uz&#34;&gt;SIAT Integrated Information System&lt;/a&gt; provides detailed statistical tables for economic and social indicators for the Republic of Uzbekistan.&lt;/p&gt;&#xA;&lt;p&gt;After selecting the desired indicator, data may be downloaded in Excel, CSV, PDF, JSON, or XML formats, and may also be graphed online, with downloadable images.  Either time series line charts or cartograms can be selected. Detailed metadata describes the provenance of the data and contacts for further information.&lt;/p&gt;&#xA;&lt;p&gt;The site is navigable in Uzbek, Russian, and English. Most downloads of publications and tables are in Russian.&lt;/p&gt;</description>
     </item>
     <item>
       <title>State Gender Statistics of the Republic of Uzbekistan</title>
-      <link>/sources/sources/gender_stat_uz/</link>
+      <link>https://camgdp.org/sources/sources/gender_stat_uz/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/gender_stat_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/gender_stat_uz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; of the &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides highlighted gender indicators on education, fertility, health, labor and employment, and more. These are downloadable in multiple formats (Excel,CSV, PDF, JSON, XML), with dates of coverage typically from the 2000s to the present. The publication &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt; is also available here.&lt;/p&gt;&#xA;&lt;p&gt;In the words of the site, &amp;ldquo;Gender statistics are statistics that adequately reflect the real situation of women and men in all strategic areas in order to identify gender differences and study them systematically.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>National Statistical Committee of the Kyrgyz Republic</title>
-      <link>/sources/sources/stat_gov_kg/</link>
+      <link>https://camgdp.org/sources/sources/stat_gov_kg/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/stat_gov_kg/</guid>
+      <guid>https://camgdp.org/sources/sources/stat_gov_kg/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://stat.gov.kg&#34;&gt;National Statistical Committee of the Kyrgyz Republic&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Kyrgyzstan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://stat.gov.kg/en/gendernaya-statistika/&#34;&gt;Gender Statistics&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Publications include the &lt;a href=&#34;https://stat.gov.kg/en/publications/statisticheskij-ezhegodnik-kyrgyzskoj-respubliki/&#34;&gt;Statistical Yearbook of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/&#34;&gt;Social Trends of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/&#34;&gt;Women and Men in the Kyrgyz Republic&lt;/a&gt;, and many other regular and special publications available for download.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Caspiana</title>
-      <link>/sources/sources/caspiana/</link>
+      <link>https://camgdp.org/sources/sources/caspiana/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/caspiana/</guid>
+      <guid>https://camgdp.org/sources/sources/caspiana/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/&#34;&gt;Caspiana&lt;/a&gt;: A Digital Toolbox for Students and Scholars of Central Asia and the South Caucasus is a website created to facilitate research on the fascinating regions spreading east and west of the Caspian Sea.&lt;/p&gt;&#xA;&lt;p&gt;Notably the site contains sections on &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/governance&#34;&gt;Governance&lt;/a&gt;, &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/media&#34;&gt;Media&lt;/a&gt;, and &lt;a href=&#34;https://caspiana.omeka.fas.harvard.edu/exhibits/show/statistics&#34;&gt;Statistics&lt;/a&gt; that link to major government offices and information providers. Additional material includes academic resources such as conferences and language learning links.&lt;/p&gt;</description>
     </item>
   </channel>

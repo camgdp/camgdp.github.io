@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Human Trafficking on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/human-trafficking/</link>
-    <description>Recent content in Human Trafficking on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Human Trafficking on CAMGDP</title>
+    <link>https://camgdp.org/tags/human-trafficking/</link>
+    <description>Recent content in Human Trafficking on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 30 Jul 2023 22:19:24 -0400</lastBuildDate>
-    <atom:link href="/tags/human-trafficking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/human-trafficking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Center of legal protection &#39;Zan Talaby&#39;</title>
-      <link>/sources/sources/zan_talaby/</link>
+      <link>https://camgdp.org/sources/sources/zan_talaby/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/zan_talaby/</guid>
+      <guid>https://camgdp.org/sources/sources/zan_talaby/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/NgoZanTalabyShymkent/&#34;&gt;Center of legal protection &amp;ldquo;Zan Talaby&amp;rdquo;&lt;/a&gt; is a Shymkent-based NGO dedicated to combating human trafficking in Kazakhstan. It offers hotline assistance to victims of human trafficking and actively engages in discussions, awareness campaigns, and educational trainings on the issue.&lt;/p&gt;</description>
     </item>
   </channel>

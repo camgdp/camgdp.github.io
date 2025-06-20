@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>INGO on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/ingo/</link>
-    <description>Recent content in INGO on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>INGO on CAMGDP</title>
+    <link>https://camgdp.org/tags/ingo/</link>
+    <description>Recent content in INGO on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 30 Jul 2023 22:19:24 -0400</lastBuildDate>
-    <atom:link href="/tags/ingo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/ingo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trans*Coalition</title>
-      <link>/sources/sources/trans_coalition/</link>
+      <link>https://camgdp.org/sources/sources/trans_coalition/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/trans_coalition/</guid>
+      <guid>https://camgdp.org/sources/sources/trans_coalition/</guid>
       <description>&lt;p&gt;Founded in 2013, &lt;a href=&#34;https://www.transcoalition.net/&#34;&gt;Trans*Coalition&lt;/a&gt; is a platform for trans- and non-binary activists from the countries of the Caucasus, Central Asia and Eastern Europe. It advocates for uniting, solidarizing, strengthening the voice of the trans-activist community in our region through the development of a sustainable, effective, authoritative, and resourceful organization. Key areas of Trans&lt;em&gt;Coalition&amp;rsquo;s work include response to the COVID-19 pandemic, migration, depathologizing, sex work, and legislation. In Central Asia, Trans&lt;/em&gt;Coalition offers a hot line, a map of resources and aid, and information for trans sex workers.&lt;/p&gt;</description>
     </item>
   </channel>

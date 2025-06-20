@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Society on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/society/</link>
-    <description>Recent content in Society on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Society on CAMGDP</title>
+    <link>https://camgdp.org/tags/society/</link>
+    <description>Recent content in Society on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Jun 2023 13:32:58 -0400</lastBuildDate>
-    <atom:link href="/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/society/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/sources/sources/public_opinion_research_institute/</link>
+      <link>https://camgdp.org/sources/sources/public_opinion_research_institute/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/public_opinion_research_institute/</guid>
+      <guid>https://camgdp.org/sources/sources/public_opinion_research_institute/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://opinions.kz/&#34;&gt;Public Opinion Research Institute&lt;/a&gt; is a Kazakhstani sociological institute specializes in public opinion, marketing, and sociological studies of Kazakhstan and other countries. The institute publishes research reports on various topics, including COVID-19, migration, social values, etc. Most publications are available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;</description>
     </item>
   </channel>

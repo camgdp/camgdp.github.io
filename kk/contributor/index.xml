@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contributor on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/kk/contributor/</link>
-    <description>Recent content in Contributor on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Contributor on CAMGDP</title>
+    <link>https://camgdp.org/kk/contributor/</link>
+    <description>Recent content in Contributor on CAMGDP</description>
     <generator>Hugo</generator>
     <language>kk</language>
     <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/kk/contributor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/kk/contributor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aizada Arystanbek</title>
-      <link>/kk/contributor/aizada-arystanbek/</link>
+      <link>https://camgdp.org/kk/contributor/aizada-arystanbek/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/kk/contributor/aizada-arystanbek/</guid>
+      <guid>https://camgdp.org/kk/contributor/aizada-arystanbek/</guid>
       <description></description>
     </item>
   </channel>

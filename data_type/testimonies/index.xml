@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testimonies on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/data_type/testimonies/</link>
-    <description>Recent content in Testimonies on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Testimonies on CAMGDP</title>
+    <link>https://camgdp.org/data_type/testimonies/</link>
+    <description>Recent content in Testimonies on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 Jul 2023 01:47:00 -0400</lastBuildDate>
-    <atom:link href="/data_type/testimonies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/data_type/testimonies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NeMolchiKZ</title>
-      <link>/sources/sources/nemolchikz/</link>
+      <link>https://camgdp.org/sources/sources/nemolchikz/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/nemolchikz/</guid>
+      <guid>https://camgdp.org/sources/sources/nemolchikz/</guid>
       <description>&lt;p&gt;Founded in 2017, &lt;a href=&#34;https://nemolchi.kz/&#34;&gt;#NeMolchiKZ&lt;/a&gt; is a grassroots public fund dedicated to protection of victims of gender-based violence. The fund defines its activities along the three components, including legal protection, promotion of awareness, and legislative.   &lt;/p&gt;</description>
     </item>
     <item>
       <title>Schitaetsya</title>
-      <link>/sources/sources/schitaetsya/</link>
+      <link>https://camgdp.org/sources/sources/schitaetsya/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/schitaetsya/</guid>
+      <guid>https://camgdp.org/sources/sources/schitaetsya/</guid>
       <description>&lt;p&gt;Founded in 2021, &lt;a href=&#34;https://schitaetsya.kz/&#34;&gt;Schitaetsya&lt;/a&gt; is a collaborative project by the Kaz Fem feminist organization and other experts and organization to collect accurate information about domestic violence in Kazakhstan and provide informational resources for victims of domestic abuse.&lt;/p&gt;</description>
     </item>
   </channel>

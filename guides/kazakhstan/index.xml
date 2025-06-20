@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kazakhstan on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/guides/kazakhstan/</link>
-    <description>Recent content in Kazakhstan on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Kazakhstan on CAMGDP</title>
+    <link>https://camgdp.org/guides/kazakhstan/</link>
+    <description>Recent content in Kazakhstan on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/guides/kazakhstan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/guides/kazakhstan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kazakhstan Gender Research Guide</title>
-      <link>/guides/kazakhstan/kazakhstan_gender_research_guide/</link>
+      <link>https://camgdp.org/guides/kazakhstan/kazakhstan_gender_research_guide/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/guides/kazakhstan/kazakhstan_gender_research_guide/</guid>
+      <guid>https://camgdp.org/guides/kazakhstan/kazakhstan_gender_research_guide/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to Kazakhstan’s Gender Data Research Guide. This guide is designed to assist researchers, students, scholars, and activists in exploring the intricate landscape of gender and sexuality within the context of Kazakhstan. We recognize the importance of prioritizing locally produced knowledge and grassroots activism in understanding the complexities of this subject.&lt;/p&gt;&#xA;&lt;p&gt;Kazakhstan, as a diverse and rapidly evolving nation in Central Asia, presents a unique intersection of cultures, histories, and identities. This guide aims to provide a curated selection of resources, databases, and research strategies that will empower you to delve into the multifaceted dimensions of gender roles, sexual identities, and social dynamics in this region. Our commitment to highlighting locally produced knowledge and grassroots activism ensures that you have access to perspectives that are rooted in the lived experiences of individuals within Kazakhstan. These perspectives, often originating from community-based organizations, independent scholars, and advocacy groups, offer insights that traditional academic literature may not fully capture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kazakhstan Getting Started Guide</title>
-      <link>/guides/kazakhstan/kazakhstan_getting_started_guide/</link>
+      <link>https://camgdp.org/guides/kazakhstan/kazakhstan_getting_started_guide/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/guides/kazakhstan/kazakhstan_getting_started_guide/</guid>
-      <description>&lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;&#xA;&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;/category/ingo/&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;</description>
+      <guid>https://camgdp.org/guides/kazakhstan/kazakhstan_getting_started_guide/</guid>
+      <description>&lt;h2 id=&#34;international-non-governmental-organizations-ingos&#34;&gt;International non-governmental organizations (INGOs)&lt;/h2&gt;&#xA;&lt;p&gt;International non-governmental organizations (&lt;a href=&#34;https://camgdp.org/category/ingo/&#34;&gt;INGOs&lt;/a&gt;) typically bring a global and comparative perpective to the data and information they collect, often providing standardized reporting across countries.  INGOs can be good sources of numeric data at the country-level but may be lacking in local points of view and distinctive local voices and detail (such as provincial or city level data).  Other INGOs take a more focused and activist perspective on specific issues.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Migration on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/migration/</link>
-    <description>Recent content in Migration on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Migration on CAMGDP</title>
+    <link>https://camgdp.org/tags/migration/</link>
+    <description>Recent content in Migration on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
-    <atom:link href="/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:36:55 -0400</lastBuildDate>
+    <atom:link href="https://camgdp.org/tags/migration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Living Standards Measurement Study (LSMS) - World Bank - Tajikistan</title>
-      <link>/sources/sources/living_standards_measurement_survey_tajikistan/</link>
+      <link>https://camgdp.org/sources/sources/living_standards_measurement_survey_tajikistan/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/living_standards_measurement_survey_tajikistan/</guid>
+      <guid>https://camgdp.org/sources/sources/living_standards_measurement_survey_tajikistan/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://www.worldbank.org/en/programs/lsms&#34;&gt;Living Standards Measurement Study (LSMS)&lt;/a&gt; is the World Bank&amp;rsquo;s flagship household survey program focused on strengthening household survey systems in client countries and on improving the quality of microdata to better inform development policies. The LSMS is housed in the Data Production and Methods Unit of the World Bank’s Development Data Group.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://microdata.worldbank.org/index.php/catalog/lsms/?page=1&amp;amp;country%5B%5D=210&amp;amp;ps=15&amp;amp;repo=lsms&#34;&gt;Data on Tajikistan&lt;/a&gt; is available from 1999 to 2009.&lt;/p&gt;&#xA;&lt;p&gt;The scope of the study includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Internal Migration&lt;/li&gt;&#xA;&lt;li&gt;International Migration&lt;/li&gt;&#xA;&lt;li&gt;Family Members Living Away from the Household&lt;/li&gt;&#xA;&lt;li&gt;Preschool Education&lt;/li&gt;&#xA;&lt;li&gt;Education (6 years and older)&lt;/li&gt;&#xA;&lt;li&gt;Utilization of Outpatient Health Care&lt;/li&gt;&#xA;&lt;li&gt;Hospitalization&lt;/li&gt;&#xA;&lt;li&gt;Access to Health Care&lt;/li&gt;&#xA;&lt;li&gt;Labor Force Participation in Labor Market&lt;/li&gt;&#xA;&lt;li&gt;Overview Last 14 Days&lt;/li&gt;&#xA;&lt;li&gt;Main and Secondary Jobs in the Last 14 Days&lt;/li&gt;&#xA;&lt;li&gt;Activities over the Last 24 Months&lt;/li&gt;&#xA;&lt;li&gt;Utilities&lt;/li&gt;&#xA;&lt;li&gt;Water and Sanitation&lt;/li&gt;&#xA;&lt;li&gt;Durable Goods&lt;/li&gt;&#xA;&lt;li&gt;Transfers from Another Household&lt;/li&gt;&#xA;&lt;li&gt;Tansfers to Another Household&lt;/li&gt;&#xA;&lt;li&gt;Social Assistance&lt;/li&gt;&#xA;&lt;li&gt;Subjective Poverty and Food Security&lt;/li&gt;&#xA;&lt;li&gt;Coping Strategies&lt;/li&gt;&#xA;&lt;li&gt;Expenditure on Food in the Last Seven Days&lt;/li&gt;&#xA;&lt;li&gt;Nonfood Purchases Past 30 Days&lt;/li&gt;&#xA;&lt;li&gt;Nonfood Purchases Past 6 Months&lt;/li&gt;&#xA;&lt;li&gt;Nonfood Purchases Past 12 Months&lt;/li&gt;&#xA;&lt;li&gt;Other Income&lt;/li&gt;&#xA;&lt;li&gt;Household and Population Weights&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>National Statistics Committee of the Republic of Uzbekistan</title>
-      <link>/sources/sources/stat_gov_uz/</link>
+      <link>https://camgdp.org/sources/sources/stat_gov_uz/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/stat_gov_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/stat_gov_uz/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Uzbekistan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; (&lt;a href=&#34;https://camgdp.org/sources/sources/gender_stat_uz/&#34;&gt;also described on CAMGDP&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stat.uz/en/publications&#34;&gt;Publications&lt;/a&gt; include &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt;.  The &lt;a href=&#34;https://stat.uz/en/publications/3627-statistical-yearbook-of-the-republic-of-uzbekistan&#34;&gt;Statistical Yearbook of the Republic of Uzbekistan&lt;/a&gt; and other publications are available for purchase, with only their tables of contents freely viewable. Quarterly reports and other frequently updated releases are typically freely downloadable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SIAT Integrated Information System (Uzbekistan)</title>
-      <link>/sources/sources/siat_stat_uz/</link>
+      <link>https://camgdp.org/sources/sources/siat_stat_uz/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/siat_stat_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/siat_stat_uz/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://siat.stat.uz&#34;&gt;SIAT Integrated Information System&lt;/a&gt; provides detailed statistical tables for economic and social indicators for the Republic of Uzbekistan.&lt;/p&gt;&#xA;&lt;p&gt;After selecting the desired indicator, data may be downloaded in Excel, CSV, PDF, JSON, or XML formats, and may also be graphed online, with downloadable images.  Either time series line charts or cartograms can be selected. Detailed metadata describes the provenance of the data and contacts for further information.&lt;/p&gt;&#xA;&lt;p&gt;The site is navigable in Uzbek, Russian, and English. Most downloads of publications and tables are in Russian.&lt;/p&gt;</description>
     </item>
     <item>
       <title>State Gender Statistics of the Republic of Uzbekistan</title>
-      <link>/sources/sources/gender_stat_uz/</link>
+      <link>https://camgdp.org/sources/sources/gender_stat_uz/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/gender_stat_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/gender_stat_uz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; of the &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides highlighted gender indicators on education, fertility, health, labor and employment, and more. These are downloadable in multiple formats (Excel,CSV, PDF, JSON, XML), with dates of coverage typically from the 2000s to the present. The publication &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt; is also available here.&lt;/p&gt;&#xA;&lt;p&gt;In the words of the site, &amp;ldquo;Gender statistics are statistics that adequately reflect the real situation of women and men in all strategic areas in order to identify gender differences and study them systematically.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>National Statistical Committee of the Kyrgyz Republic</title>
-      <link>/sources/sources/stat_gov_kg/</link>
+      <link>https://camgdp.org/sources/sources/stat_gov_kg/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/stat_gov_kg/</guid>
+      <guid>https://camgdp.org/sources/sources/stat_gov_kg/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://stat.gov.kg&#34;&gt;National Statistical Committee of the Kyrgyz Republic&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Kyrgyzstan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://stat.gov.kg/en/gendernaya-statistika/&#34;&gt;Gender Statistics&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Publications include the &lt;a href=&#34;https://stat.gov.kg/en/publications/statisticheskij-ezhegodnik-kyrgyzskoj-respubliki/&#34;&gt;Statistical Yearbook of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/&#34;&gt;Social Trends of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/&#34;&gt;Women and Men in the Kyrgyz Republic&lt;/a&gt;, and many other regular and special publications available for download.&lt;/p&gt;</description>
     </item>
     <item>
       <title>International Organization for Migration</title>
-      <link>/sources/sources/iom_uz/</link>
+      <link>https://camgdp.org/sources/sources/iom_uz/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/iom_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/iom_uz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.iom.int/countries/uzbekistan&#34;&gt;IOM&lt;/a&gt; presence in Uzbekistan began in 2003. In 2019, Uzbekistan officially became a member-state of the IOM. The organization was officially accredited in April 2021.&lt;/p&gt;&#xA;&lt;p&gt;There are currently no reports or country-specific research conducted by the IOM in Uzbekistan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UN Women Data Hub</title>
-      <link>/sources/sources/un_women_data_hub/</link>
+      <link>https://camgdp.org/sources/sources/un_women_data_hub/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/un_women_data_hub/</guid>
+      <guid>https://camgdp.org/sources/sources/un_women_data_hub/</guid>
       <description>&lt;p&gt;Publications on the &lt;a href=&#34;https://data.unwomen.org/publications&#34;&gt;UN Women Data Hub&lt;/a&gt; have an option to filter by region.&#xA;Eurasia and Central Asia region primarily focuses on Eastern European and Balkan countries with occasional inclusion of Central Asia.&lt;/p&gt;&#xA;&lt;p&gt;Themes of publications include data use, disabilities, economic empowerment, ending violence against women, environment, gender and COVID-19, HIV and AIDS, migration, sustainable development, and peace and security.&lt;/p&gt;</description>
     </item>
     <item>
       <title>International Organization for Migration</title>
-      <link>/sources/sources/iom/</link>
+      <link>https://camgdp.org/sources/sources/iom/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/iom/</guid>
+      <guid>https://camgdp.org/sources/sources/iom/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://kazakhstan.iom.int/&#34;&gt;International Organization for Migration&lt;/a&gt; publishes &lt;a href=&#34;https://kazakhstan.iom.int/data-and-resources&#34;&gt;reports&lt;/a&gt; on migration issues in Kazakhstan.&lt;/p&gt;&#xA;&lt;p&gt;Data is usually presented in gendered format splitting respondents between male and female. Methodological note and information on data collection are not available. Reports are available in English, Kazakh, and Russian.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>/sources/sources/public_opinion_research_institute/</link>
+      <link>https://camgdp.org/sources/sources/public_opinion_research_institute/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/public_opinion_research_institute/</guid>
+      <guid>https://camgdp.org/sources/sources/public_opinion_research_institute/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://opinions.kz/&#34;&gt;Public Opinion Research Institute&lt;/a&gt; is a Kazakhstani sociological institute specializes in public opinion, marketing, and sociological studies of Kazakhstan and other countries. The institute publishes research reports on various topics, including COVID-19, migration, social values, etc. Most publications are available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;</description>
     </item>
   </channel>

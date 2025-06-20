@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gender Equality on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/gender-equality/</link>
-    <description>Recent content in Gender Equality on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Gender Equality on CAMGDP</title>
+    <link>https://camgdp.org/tags/gender-equality/</link>
+    <description>Recent content in Gender Equality on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Aug 2023 20:55:56 -0400</lastBuildDate>
-    <atom:link href="/tags/gender-equality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/gender-equality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TEDxAbayStWomen</title>
-      <link>/sources/sources/tedxabaystwomen/</link>
+      <link>https://camgdp.org/sources/sources/tedxabaystwomen/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/tedxabaystwomen/</guid>
+      <guid>https://camgdp.org/sources/sources/tedxabaystwomen/</guid>
       <description>&lt;p&gt;First held in 2019, &lt;a href=&#34;https://www.instagram.com/tedxabaystwomen/&#34;&gt;TEDxAbayStWomen&lt;/a&gt; is a noncommercial conference on gender equality usually held in Almaty, Kazakhstan. Next conference is expected to be held in 2024.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contributor on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/uz/contributor/</link>
-    <description>Recent content in Contributor on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Contributor on CAMGDP</title>
+    <link>https://camgdp.org/uz/contributor/</link>
+    <description>Recent content in Contributor on CAMGDP</description>
     <generator>Hugo</generator>
     <language>uz</language>
     <lastBuildDate>Sun, 02 Jun 2024 01:35:05 -0400</lastBuildDate>
-    <atom:link href="/uz/contributor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/uz/contributor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aizada Arystanbek</title>
-      <link>/uz/contributor/aizada-arystanbek/</link>
+      <link>https://camgdp.org/uz/contributor/aizada-arystanbek/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/uz/contributor/aizada-arystanbek/</guid>
+      <guid>https://camgdp.org/uz/contributor/aizada-arystanbek/</guid>
       <description></description>
     </item>
     <item>
       <title>Ryan Womack</title>
-      <link>/uz/contributor/ryan-womack/</link>
+      <link>https://camgdp.org/uz/contributor/ryan-womack/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/uz/contributor/ryan-womack/</guid>
+      <guid>https://camgdp.org/uz/contributor/ryan-womack/</guid>
       <description></description>
     </item>
   </channel>

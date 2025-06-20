@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Дереккөздер on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/kk/%D0%B4%D0%B5%D1%80%D0%B5%D0%BA%D0%BA%D3%A9%D0%B7%D0%B4%D0%B5%D1%80/</link>
-    <description>Recent content in Дереккөздер on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Дереккөздер on CAMGDP</title>
+    <link>https://camgdp.org/kk/%D0%B4%D0%B5%D1%80%D0%B5%D0%BA%D0%BA%D3%A9%D0%B7%D0%B4%D0%B5%D1%80/</link>
+    <description>Recent content in Дереккөздер on CAMGDP</description>
     <generator>Hugo</generator>
     <language>kk</language>
-    <atom:link href="/kk/%D0%B4%D0%B5%D1%80%D0%B5%D0%BA%D0%BA%D3%A9%D0%B7%D0%B4%D0%B5%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/kk/%D0%B4%D0%B5%D1%80%D0%B5%D0%BA%D0%BA%D3%A9%D0%B7%D0%B4%D0%B5%D1%80/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

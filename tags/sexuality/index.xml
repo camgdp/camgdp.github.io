@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sexuality on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/sexuality/</link>
-    <description>Recent content in Sexuality on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Sexuality on CAMGDP</title>
+    <link>https://camgdp.org/tags/sexuality/</link>
+    <description>Recent content in Sexuality on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Jun 2023 13:32:58 -0400</lastBuildDate>
-    <atom:link href="/tags/sexuality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/sexuality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uyat Emes</title>
-      <link>/sources/sources/uyat_emes/</link>
+      <link>https://camgdp.org/sources/sources/uyat_emes/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/uyat_emes/</guid>
+      <guid>https://camgdp.org/sources/sources/uyat_emes/</guid>
       <description>&lt;p&gt;Founded in 2018, &lt;a href=&#34;https://uyatemes.kz/&#34;&gt;Uyat Emes&lt;/a&gt; is an educational site about sex and relationships for Kazakhstani teenagers and their parents. The mission of the initiative is to help young people become more literate about reproductive health and sexuality.&lt;/p&gt;</description>
     </item>
   </channel>

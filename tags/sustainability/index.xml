@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sustainability on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/sustainability/</link>
-    <description>Recent content in Sustainability on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Sustainability on CAMGDP</title>
+    <link>https://camgdp.org/tags/sustainability/</link>
+    <description>Recent content in Sustainability on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jul 2023 23:03:28 -0400</lastBuildDate>
-    <atom:link href="/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UN Women Data Hub</title>
-      <link>/sources/sources/un_women_data_hub/</link>
+      <link>https://camgdp.org/sources/sources/un_women_data_hub/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/un_women_data_hub/</guid>
+      <guid>https://camgdp.org/sources/sources/un_women_data_hub/</guid>
       <description>&lt;p&gt;Publications on the &lt;a href=&#34;https://data.unwomen.org/publications&#34;&gt;UN Women Data Hub&lt;/a&gt; have an option to filter by region.&#xA;Eurasia and Central Asia region primarily focuses on Eastern European and Balkan countries with occasional inclusion of Central Asia.&lt;/p&gt;&#xA;&lt;p&gt;Themes of publications include data use, disabilities, economic empowerment, ending violence against women, environment, gender and COVID-19, HIV and AIDS, migration, sustainable development, and peace and security.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UN Women: Europe and Central Asia</title>
-      <link>/sources/sources/un_women_europe_and_central_asia/</link>
+      <link>https://camgdp.org/sources/sources/un_women_europe_and_central_asia/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/un_women_europe_and_central_asia/</guid>
+      <guid>https://camgdp.org/sources/sources/un_women_europe_and_central_asia/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://eca.unwomen.org/en/where-we-are/kazakhstan&#34;&gt;UN Women: Europe and Central Asia&lt;/a&gt; provides an overview of the UN initiatives in Kazakhstan, including a list of major international treaties ratified by the country.&lt;/p&gt;&#xA;&lt;p&gt;The overview includes four main themes: women’s economic empowerment, ending violence against women, national planning and budgeting, and sustainable development agenda.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;</description>
     </item>
   </channel>

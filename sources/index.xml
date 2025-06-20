@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAMGDP sources on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/sources/</link>
-    <description>Recent content in CAMGDP sources on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>CAMGDP sources on CAMGDP</title>
+    <link>https://camgdp.org/sources/</link>
+    <description>Recent content in CAMGDP sources on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/sources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/sources/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

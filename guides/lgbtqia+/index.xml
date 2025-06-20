@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LGBTQIA&#43; on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/guides/lgbtqia&#43;/</link>
-    <description>Recent content in LGBTQIA&#43; on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>LGBTQIA&#43; on CAMGDP</title>
+    <link>https://camgdp.org/guides/lgbtqia&#43;/</link>
+    <description>Recent content in LGBTQIA&#43; on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/guides/lgbtqia+/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/guides/lgbtqia+/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

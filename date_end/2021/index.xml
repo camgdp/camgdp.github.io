@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2021 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/date_end/2021/</link>
-    <description>Recent content in 2021 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>2021 on CAMGDP</title>
+    <link>https://camgdp.org/date_end/2021/</link>
+    <description>Recent content in 2021 on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jul 2023 23:03:28 -0400</lastBuildDate>
-    <atom:link href="/date_end/2021/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/date_end/2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Central Asia Barometer</title>
-      <link>/sources/sources/central_asia_barometer/</link>
+      <link>https://camgdp.org/sources/sources/central_asia_barometer/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/central_asia_barometer/</guid>
+      <guid>https://camgdp.org/sources/sources/central_asia_barometer/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ca-barometer.org/&#34;&gt;Central Asia Barometer (CAB)&lt;/a&gt; is a regional independent NGO for applied social research.&lt;/p&gt;&#xA;&lt;p&gt;The CAB Survey Project is a multinational empirical survey on human beliefs and values first conducted in 2017. Questionnaires identify gender of the respondents with two options included, male or female.&lt;/p&gt;&#xA;&lt;p&gt;CAB provides free access to databases of the CAB Survey Project available in SPSS, Excel, and Stata formats.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note &lt;a href=&#34;https://ca-barometer.org/en/what-we-do/methodology/research-methods&#34;&gt;is available&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UN Kazakhstan Annual Report 2021</title>
-      <link>/sources/sources/un_kazakhstan_annual_report_2021/</link>
+      <link>https://camgdp.org/sources/sources/un_kazakhstan_annual_report_2021/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/un_kazakhstan_annual_report_2021/</guid>
+      <guid>https://camgdp.org/sources/sources/un_kazakhstan_annual_report_2021/</guid>
       <description>&lt;p&gt;Pages 24-27 of the &lt;a href=&#34;https://kazakhstan.un.org/en/176526-un-kazakhstan-annual-report-2021&#34;&gt;UN Kazakhstan Annual Report 2021&lt;/a&gt; summarize the UN’s efforts in fostering gender equality and human rights development in Kazakhstan.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;</description>
     </item>
   </channel>

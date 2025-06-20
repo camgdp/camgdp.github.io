@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Corruption on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/corruption/</link>
-    <description>Recent content in Corruption on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Corruption on CAMGDP</title>
+    <link>https://camgdp.org/tags/corruption/</link>
+    <description>Recent content in Corruption on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jul 2023 23:03:28 -0400</lastBuildDate>
-    <atom:link href="/tags/corruption/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/corruption/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OCCRP</title>
-      <link>/sources/sources/occrp/</link>
+      <link>https://camgdp.org/sources/sources/occrp/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/occrp/</guid>
+      <guid>https://camgdp.org/sources/sources/occrp/</guid>
       <description>&lt;p&gt;Founded in 2005 in Sarajevo, Bosnia and Herzegovina, the &lt;a href=&#34;https://www.occrp.org/&#34;&gt;Organized Crime and Corruption Reporting Project&lt;/a&gt; aims to develop and equip a global network of investigative journalists, as well as publish stories exposing crime and corruption. The project regularly covers post-Soviet and Central Asian countries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ratel</title>
-      <link>/sources/sources/ratel/</link>
+      <link>https://camgdp.org/sources/sources/ratel/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/ratel/</guid>
+      <guid>https://camgdp.org/sources/sources/ratel/</guid>
       <description>&lt;p&gt;Founded in 2013, &lt;a href=&#34;https://ratel.kz/&#34;&gt;Ratel&lt;/a&gt; offers coverage of current events, opinion pieces, and journalistic investigations in Kazakhstan, specifically concerning corruption. The publication had its license rescinded in 2018 in a court ruling on the grounds of spreading misinformation due to the published investigations of various corruption cases. The site resumed its work in 2019. Available primarily in Russian with occasional publications in Kazakh and English.&lt;/p&gt;</description>
     </item>
   </channel>

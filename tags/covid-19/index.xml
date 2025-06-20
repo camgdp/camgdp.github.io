@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>COVID-19 on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/covid-19/</link>
-    <description>Recent content in COVID-19 on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>COVID-19 on CAMGDP</title>
+    <link>https://camgdp.org/tags/covid-19/</link>
+    <description>Recent content in COVID-19 on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Jun 2023 13:32:58 -0400</lastBuildDate>
-    <atom:link href="/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gender Economics Research Center</title>
-      <link>/sources/sources/gerc/</link>
+      <link>https://camgdp.org/sources/sources/gerc/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/gerc/</guid>
+      <guid>https://camgdp.org/sources/sources/gerc/</guid>
       <description>&lt;p&gt;Founded in 2018 with the assistance of the Soros Foundation-Kazakhstan, &lt;a href=&#34;https://en.narxoz.kz/research/institutes/gerc&#34;&gt;Gender Economics Research Center (GERC)&lt;/a&gt; is a research center at Narxoz University, Almaty. GERC is dedicated to development and coordination of research on gender and economy. The center publishes research articles and reports on the topics of labor market, education, COVID-19 impact, and others.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>/sources/sources/public_opinion_research_institute/</link>
+      <link>https://camgdp.org/sources/sources/public_opinion_research_institute/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/public_opinion_research_institute/</guid>
+      <guid>https://camgdp.org/sources/sources/public_opinion_research_institute/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://opinions.kz/&#34;&gt;Public Opinion Research Institute&lt;/a&gt; is a Kazakhstani sociological institute specializes in public opinion, marketing, and sociological studies of Kazakhstan and other countries. The institute publishes research reports on various topics, including COVID-19, migration, social values, etc. Most publications are available in Kazakh and Russian with occasional translation to English.&lt;/p&gt;</description>
     </item>
   </channel>

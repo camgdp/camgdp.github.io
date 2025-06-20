@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Regional NGO on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/regional-ngo/</link>
-    <description>Recent content in Regional NGO on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Regional NGO on CAMGDP</title>
+    <link>https://camgdp.org/tags/regional-ngo/</link>
+    <description>Recent content in Regional NGO on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 Nov 2023 21:15:32 -0400</lastBuildDate>
-    <atom:link href="/tags/regional-ngo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/regional-ngo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crossroads Central Asia</title>
-      <link>/sources/sources/crossroads/</link>
+      <link>https://camgdp.org/sources/sources/crossroads/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/crossroads/</guid>
+      <guid>https://camgdp.org/sources/sources/crossroads/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://crossroads-ca.org/&#34;&gt;Crossroads Central Asia&lt;/a&gt; is a Bishkek-based non-profit research institute with an aim to &amp;ldquo;promote better understanding of political, economic and security affairs of Central Asia and its wider Eurasian neighborhood.&amp;rdquo; It publishes analytical commentary and research reports.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Antiuniversity of Feminism</title>
-      <link>/sources/sources/antiuniversity_of_feminism/</link>
+      <link>https://camgdp.org/sources/sources/antiuniversity_of_feminism/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/antiuniversity_of_feminism/</guid>
+      <guid>https://camgdp.org/sources/sources/antiuniversity_of_feminism/</guid>
       <description>&lt;p&gt;Founded in 2021, &lt;a href=&#34;https://www.instagram.com/antiuniversity_of_feminism/&#34;&gt;Antiuniversity of Feminism&lt;/a&gt; is a grassroots project aimed at creating a safe space for women and people with all gender identities to learn about feminism and gender theory. Antiuniversity offers free online courses in Kyrgyz. The project was founded and created by Elvira Tilek.&lt;/p&gt;</description>
     </item>
   </channel>

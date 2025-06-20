@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fertility on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/fertility/</link>
-    <description>Recent content in Fertility on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Fertility on CAMGDP</title>
+    <link>https://camgdp.org/tags/fertility/</link>
+    <description>Recent content in Fertility on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 22 May 2024 22:24:27 -0400</lastBuildDate>
-    <atom:link href="/tags/fertility/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/fertility/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generations and Gender Survey - Kazakhstan</title>
-      <link>/sources/sources/generations_and_gender_survey_kazakhstan/</link>
+      <link>https://camgdp.org/sources/sources/generations_and_gender_survey_kazakhstan/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/generations_and_gender_survey_kazakhstan/</guid>
+      <guid>https://camgdp.org/sources/sources/generations_and_gender_survey_kazakhstan/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ggp.colectica.org/item/int.ggp/009e728f-77f1-4c45-88be-e3bc1acb5bfa/1&#34;&gt;Kazakhstan data&lt;/a&gt; from the &lt;a href=&#34;https://www.ggp-i.org/&#34;&gt;Generations and Gender Survey&lt;/a&gt; for 2020.&lt;/p&gt;&#xA;&lt;p&gt;Data covers the non-institutionalized, resident population aged 18-79 in Kazakhstan on 2nd April 2018.&lt;/p&gt;&#xA;&lt;p&gt;The Generations and Gender Survey (GGS) data provides micro-level data that can be used to investigate partnership dynamics, transition to adulthood, fertility, care and support networks, division of household tasks, and contraception, among other topics. These data are an essential resource in the understanding of fundamental societal challenges across Europe and beyond and form a substantial basis for the formulation of evidence-based policies. Key features of the survey are:&lt;/p&gt;</description>
     </item>
   </channel>

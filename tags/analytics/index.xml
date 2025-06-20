@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Analytics on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/analytics/</link>
-    <description>Recent content in Analytics on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Analytics on CAMGDP</title>
+    <link>https://camgdp.org/tags/analytics/</link>
+    <description>Recent content in Analytics on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 Nov 2023 21:15:32 -0400</lastBuildDate>
-    <atom:link href="/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amerika Ovozi</title>
-      <link>/sources/sources/amerika_ovozi/</link>
+      <link>https://camgdp.org/sources/sources/amerika_ovozi/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/amerika_ovozi/</guid>
+      <guid>https://camgdp.org/sources/sources/amerika_ovozi/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.amerikaovozi.com/&#34;&gt;Amerika Ovozi (Voice of America)&lt;/a&gt; is an international multimedia agency launched in 1942 and funded by the US Congress. Its charter was founded in 1976. Since 2016, Amerika Ovozi legally established itself as an independent media with a neutral coverage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crossroads Central Asia</title>
-      <link>/sources/sources/crossroads/</link>
+      <link>https://camgdp.org/sources/sources/crossroads/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/crossroads/</guid>
+      <guid>https://camgdp.org/sources/sources/crossroads/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://crossroads-ca.org/&#34;&gt;Crossroads Central Asia&lt;/a&gt; is a Bishkek-based non-profit research institute with an aim to &amp;ldquo;promote better understanding of political, economic and security affairs of Central Asia and its wider Eurasian neighborhood.&amp;rdquo; It publishes analytical commentary and research reports.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qalampir</title>
-      <link>/sources/sources/qalampir/</link>
+      <link>https://camgdp.org/sources/sources/qalampir/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/qalampir/</guid>
+      <guid>https://camgdp.org/sources/sources/qalampir/</guid>
       <description>&lt;p&gt;Launched in 2015, &lt;a href=&#34;https://qalampir.uz/&#34;&gt;Qalampir&lt;/a&gt; is a digital news and analytics publication with an aim to achieve transparent and quality informational space in the media sector of Uzbekistan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uzbek Review</title>
-      <link>/sources/sources/uzbek_review/</link>
+      <link>https://camgdp.org/sources/sources/uzbek_review/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/uzbek_review/</guid>
+      <guid>https://camgdp.org/sources/sources/uzbek_review/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.uzbek.review&#34;&gt;Uzbek Review&lt;/a&gt; is a news agency founded by Europe-Uzbekistan Association for Economic Cooperation (EUROUZ). It regularly publishes market reports and occasional analytical pieces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UzReport</title>
-      <link>/sources/sources/uzreport/</link>
+      <link>https://camgdp.org/sources/sources/uzreport/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/uzreport/</guid>
+      <guid>https://camgdp.org/sources/sources/uzreport/</guid>
       <description>&lt;p&gt;Launched in 1999, &lt;a href=&#34;https://uzreport.news/&#34;&gt;UzReport&lt;/a&gt; is one of the largest news portals in Uzbekistan. It offers coverage of politics, economics, culture, and sports, as well as analytical and interview pieces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anhor</title>
-      <link>/sources/sources/anhor/</link>
+      <link>https://camgdp.org/sources/sources/anhor/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/anhor/</guid>
+      <guid>https://camgdp.org/sources/sources/anhor/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://anhor.uz/&#34;&gt;Anhor&lt;/a&gt; is an independent media that positions itself as a platform for &amp;ldquo;analytics, investigations, and news.&amp;rdquo; The publication&amp;rsquo;s mission is to contribute to effective governing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Policy Solutions Center</title>
-      <link>/sources/sources/policy_solutions_center/</link>
+      <link>https://camgdp.org/sources/sources/policy_solutions_center/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/policy_solutions_center/</guid>
+      <guid>https://camgdp.org/sources/sources/policy_solutions_center/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://policysolutions.kz/&#34;&gt;Policy Solutions Center&lt;/a&gt; is a grassroots organizations of Kazakhstani researchers involved in the study of socio-political and socio-economic problems in Kazakhstan, as well as the development of policy and management recommendations. The Center publishes analytical pieces and develops projects on political, economic, and social issues.&lt;/p&gt;</description>
     </item>
   </channel>

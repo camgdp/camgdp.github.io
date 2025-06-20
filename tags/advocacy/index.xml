@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Advocacy on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/advocacy/</link>
-    <description>Recent content in Advocacy on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Advocacy on CAMGDP</title>
+    <link>https://camgdp.org/tags/advocacy/</link>
+    <description>Recent content in Advocacy on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Aug 2023 23:08:14 -0400</lastBuildDate>
-    <atom:link href="/tags/advocacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/advocacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>European Sex Workers Rights Alliance</title>
-      <link>/sources/sources/eswra/</link>
+      <link>https://camgdp.org/sources/sources/eswra/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/eswra/</guid>
+      <guid>https://camgdp.org/sources/sources/eswra/</guid>
       <description>&lt;p&gt;Founded in 2002 under the name of International Committee for Sex Workers in Europe (ICRSE), &lt;a href=&#34;https://www.eswalliance.org/&#34;&gt;European Sex Workers Rights Alliance&lt;/a&gt; is a sex worker-led network representing more than 100 organizations in 30 countries across Europe and Central Asia. One of its recent publication is &amp;ldquo;Sex work &amp;amp; racism: the impact of structural racism on racialized sex workers in Europe and Central Asia&amp;rdquo; report.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ILGA-Europe</title>
-      <link>/sources/sources/ilga/</link>
+      <link>https://camgdp.org/sources/sources/ilga/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/ilga/</guid>
+      <guid>https://camgdp.org/sources/sources/ilga/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.ilga-europe.org/&#34;&gt;ILGA-Europe&lt;/a&gt; is an International NGO advocating for the protection of LGBTI people and uniting over 600 organizations from 54 countries across Europe and Central Asia. ILGA conducts its work through resourcing and connecting communities, driving political change, and amplifying voices. Its mission is to provide a solid foundation for activists and organizations. ILGA publishes reports on the protection of rights of LGBTI people in Central Asia, specifically related to violence and organizing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unit </title>
-      <link>/sources/sources/unit/</link>
+      <link>https://camgdp.org/sources/sources/unit/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/unit/</guid>
+      <guid>https://camgdp.org/sources/sources/unit/</guid>
       <description>&lt;p&gt;Founded in 2021 by n-ost, a Berlin-based media NGO, &lt;a href=&#34;https://unit.n-ost.org&#34;&gt;Unit&lt;/a&gt; is a crossborder community of journalists and activists from Central Asia, Eastern Europe, and South Caucasus who work on the LGBTQIA+ issues.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ECOM</title>
-      <link>/sources/sources/ecom/</link>
+      <link>https://camgdp.org/sources/sources/ecom/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/ecom/</guid>
+      <guid>https://camgdp.org/sources/sources/ecom/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ecom.ngo/&#34;&gt;ECOM (Eurasian Coalition for Health, Rights, Gender and Sexual Diversity)&lt;/a&gt; is a regional NGO working the sphere of health of LGBTI communities in Eastern Europe and Central Asia. It is a membership association open to non-profit organizations and activists working in the field. ECOM publishes regular reports on violation of rights of the LGBTI people in various Central Asian countries, including Uzbekistan and Tajikistan.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Crisis Center on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/crisis-center/</link>
-    <description>Recent content in Crisis Center on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Crisis Center on CAMGDP</title>
+    <link>https://camgdp.org/tags/crisis-center/</link>
+    <description>Recent content in Crisis Center on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Jun 2023 13:32:58 -0400</lastBuildDate>
-    <atom:link href="/tags/crisis-center/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/tags/crisis-center/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crisis Centers Union</title>
-      <link>/sources/sources/crisis_centers_union/</link>
+      <link>https://camgdp.org/sources/sources/crisis_centers_union/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/crisis_centers_union/</guid>
+      <guid>https://camgdp.org/sources/sources/crisis_centers_union/</guid>
       <description>&lt;p&gt;Founded in 2005, &lt;a href=&#34;https://www.telefon150.kz/&#34;&gt;Crisis Centers Union&lt;/a&gt; unites 18 organizations from 12 regions of Kazakhstan. The Union is aimed at prevention and eradication of all forms of gender-based violence, formation of a non-violent culture in Kazakhstani society. The website offers news articles, photo and video materials, informational materials, webinars, and infographics.&lt;/p&gt;</description>
     </item>
   </channel>

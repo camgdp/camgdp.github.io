@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arabic on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/language/arabic/</link>
-    <description>Recent content in Arabic on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Arabic on CAMGDP</title>
+    <link>https://camgdp.org/language/arabic/</link>
+    <description>Recent content in Arabic on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 Jul 2023 01:47:00 -0400</lastBuildDate>
-    <atom:link href="/language/arabic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/language/arabic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>World Bank</title>
-      <link>/sources/sources/world_bank/</link>
+      <link>https://camgdp.org/sources/sources/world_bank/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/world_bank/</guid>
+      <guid>https://camgdp.org/sources/sources/world_bank/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://genderdata.worldbank.org/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt; covers &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/kyrgyz-republic/&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/mongolia/&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/tajikistan/&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/Turkmenistan/&#34;&gt;Turkmenistan&lt;/a&gt;, and &lt;a href=&#34;https://genderdata.worldbank.org/countries/uzbekistan/&#34;&gt;Uzbekistan&lt;/a&gt;, and offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;&#xA;&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Oxus Society for Central Asian Affairs</title>
-      <link>/sources/sources/oxus_society/</link>
+      <link>https://camgdp.org/sources/sources/oxus_society/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/oxus_society/</guid>
+      <guid>https://camgdp.org/sources/sources/oxus_society/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://oxussociety.org/&#34;&gt;The Oxus Society for Central Asian Affairs&lt;/a&gt; is a Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world.&lt;/p&gt;&#xA;&lt;p&gt;The Oxus Society publishes datasets on articles and books on Central Asia, as well as a directory of researchers studying Central Asia. The NGO also publishes reports on various topic, particularly pertaining to international relations, religion, and domestic politics.&lt;/p&gt;</description>
     </item>
   </channel>

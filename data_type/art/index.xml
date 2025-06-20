@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Art on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/data_type/art/</link>
-    <description>Recent content in Art on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Art on CAMGDP</title>
+    <link>https://camgdp.org/data_type/art/</link>
+    <description>Recent content in Art on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Aug 2023 20:55:56 -0400</lastBuildDate>
-    <atom:link href="/data_type/art/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://camgdp.org/data_type/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feminist Translocalities</title>
-      <link>/sources/sources/feminist_translocalities/</link>
+      <link>https://camgdp.org/sources/sources/feminist_translocalities/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/feminist_translocalities/</guid>
+      <guid>https://camgdp.org/sources/sources/feminist_translocalities/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://feminisms.co/&#34;&gt;Feminist Translocalities&lt;/a&gt; is grassroots transnational feminist organization aiming to bring together and support feminist and LGBTQ+ activists from Ukraine, Belarus, and Russia. The organization publishes magazine articles and zines, hosts events, and engages in other various projects. Although the website describes the organization as primarily focused on Ukraine, Belarus, and Russia, it frequently publishes works by Central Asian authors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Artif</title>
-      <link>/sources/sources/artif/</link>
+      <link>https://camgdp.org/sources/sources/artif/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/artif/</guid>
+      <guid>https://camgdp.org/sources/sources/artif/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/artif.ication/&#34;&gt;Artif&lt;/a&gt; is a social media platform connecting artists, human rights defenders, and activists from Eastern Europe and Central Asia. The platform&amp;rsquo;s mission is to voice social problems using art accessible to everyone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eurasian Cultural Alliance</title>
-      <link>/sources/sources/eurasian_cultural_alliance/</link>
+      <link>https://camgdp.org/sources/sources/eurasian_cultural_alliance/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/eurasian_cultural_alliance/</guid>
+      <guid>https://camgdp.org/sources/sources/eurasian_cultural_alliance/</guid>
       <description>&lt;p&gt;Founded in 2011, the &lt;a href=&#34;https://en.cultura.kz/&#34;&gt;Eurasian Cultural Alliance&lt;/a&gt; is a NGO dedicated to cultivating the contemporary art scene of Kazakhstan. The mission of the Alliance is to stimulate the creative economy, improve social and economic standing of the region&amp;rsquo;s key cultural players, and advance the integration of the Kazakhstani identity into a larger global context.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tselinny Center</title>
-      <link>/sources/sources/tselinny_center/</link>
+      <link>https://camgdp.org/sources/sources/tselinny_center/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/tselinny_center/</guid>
+      <guid>https://camgdp.org/sources/sources/tselinny_center/</guid>
       <description>&lt;p&gt;Founded in 2018 by Kairat Boranbayev, &lt;a href=&#34;http://tselinny.org/&#34;&gt;Tselinny Center&lt;/a&gt; is dedicated to studying and developing cultural scene in Kazakhstan. The center publishes educational books, hosts art exhibitions, and organizes events.&lt;/p&gt;</description>
     </item>
   </channel>

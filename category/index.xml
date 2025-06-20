@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Category on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/category/</link>
-    <description>Recent content in Category on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Category on CAMGDP</title>
+    <link>https://camgdp.org/category/</link>
+    <description>Recent content in Category on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
-    <atom:link href="/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:36:55 -0400</lastBuildDate>
+    <atom:link href="https://camgdp.org/category/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Government</title>
-      <link>/category/government/</link>
+      <link>https://camgdp.org/category/government/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/category/government/</guid>
+      <guid>https://camgdp.org/category/government/</guid>
       <description></description>
     </item>
     <item>
       <title>INGO</title>
-      <link>/category/ingo/</link>
+      <link>https://camgdp.org/category/ingo/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/category/ingo/</guid>
+      <guid>https://camgdp.org/category/ingo/</guid>
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>/category/podcast/</link>
+      <link>https://camgdp.org/category/podcast/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>/category/podcast/</guid>
+      <guid>https://camgdp.org/category/podcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media</title>
-      <link>/category/social-media/</link>
+      <link>https://camgdp.org/category/social-media/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>/category/social-media/</guid>
+      <guid>https://camgdp.org/category/social-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Archive</title>
-      <link>/category/archive/</link>
+      <link>https://camgdp.org/category/archive/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/category/archive/</guid>
+      <guid>https://camgdp.org/category/archive/</guid>
       <description></description>
     </item>
     <item>
       <title>Regional NGO</title>
-      <link>/category/regional-ngo/</link>
+      <link>https://camgdp.org/category/regional-ngo/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/category/regional-ngo/</guid>
+      <guid>https://camgdp.org/category/regional-ngo/</guid>
       <description></description>
     </item>
     <item>
       <title>Independent Media</title>
-      <link>/category/independent-media/</link>
+      <link>https://camgdp.org/category/independent-media/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/category/independent-media/</guid>
+      <guid>https://camgdp.org/category/independent-media/</guid>
       <description></description>
     </item>
     <item>
       <title>International Media</title>
-      <link>/category/international-media/</link>
+      <link>https://camgdp.org/category/international-media/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/category/international-media/</guid>
+      <guid>https://camgdp.org/category/international-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Local Media</title>
-      <link>/category/local-media/</link>
+      <link>https://camgdp.org/category/local-media/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/category/local-media/</guid>
+      <guid>https://camgdp.org/category/local-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Local NGO</title>
-      <link>/category/local-ngo/</link>
+      <link>https://camgdp.org/category/local-ngo/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/category/local-ngo/</guid>
+      <guid>https://camgdp.org/category/local-ngo/</guid>
       <description></description>
     </item>
     <item>
       <title>Regional Media</title>
-      <link>/category/regional-media/</link>
+      <link>https://camgdp.org/category/regional-media/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/category/regional-media/</guid>
+      <guid>https://camgdp.org/category/regional-media/</guid>
       <description></description>
     </item>
     <item>
       <title>State Media</title>
-      <link>/category/state-media/</link>
+      <link>https://camgdp.org/category/state-media/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/category/state-media/</guid>
+      <guid>https://camgdp.org/category/state-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Media</title>
-      <link>/category/media/</link>
+      <link>https://camgdp.org/category/media/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/category/media/</guid>
+      <guid>https://camgdp.org/category/media/</guid>
       <description></description>
     </item>
     <item>
       <title>State-Affiliated Media</title>
-      <link>/category/state-affiliated-media/</link>
+      <link>https://camgdp.org/category/state-affiliated-media/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/category/state-affiliated-media/</guid>
+      <guid>https://camgdp.org/category/state-affiliated-media/</guid>
       <description></description>
     </item>
   </channel>

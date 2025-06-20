@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contributor on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/contributor/</link>
-    <description>Recent content in Contributor on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Contributor on CAMGDP</title>
+    <link>https://camgdp.org/contributor/</link>
+    <description>Recent content in Contributor on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
-    <atom:link href="/contributor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:36:55 -0400</lastBuildDate>
+    <atom:link href="https://camgdp.org/contributor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ryan Womack</title>
-      <link>/contributor/ryan-womack/</link>
+      <link>https://camgdp.org/contributor/ryan-womack/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/contributor/ryan-womack/</guid>
+      <guid>https://camgdp.org/contributor/ryan-womack/</guid>
       <description></description>
     </item>
     <item>
       <title>Aizada Arystanbek</title>
-      <link>/contributor/aizada-arystanbek/</link>
+      <link>https://camgdp.org/contributor/aizada-arystanbek/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>/contributor/aizada-arystanbek/</guid>
+      <guid>https://camgdp.org/contributor/aizada-arystanbek/</guid>
       <description></description>
     </item>
   </channel>

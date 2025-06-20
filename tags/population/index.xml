@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Population on CAMGDP: Central Asia and Mongolia Gender Data Portal</title>
-    <link>/tags/population/</link>
-    <description>Recent content in Population on CAMGDP: Central Asia and Mongolia Gender Data Portal</description>
+    <title>Population on CAMGDP</title>
+    <link>https://camgdp.org/tags/population/</link>
+    <description>Recent content in Population on CAMGDP</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 May 2025 16:22:21 -0400</lastBuildDate>
-    <atom:link href="/tags/population/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:36:55 -0400</lastBuildDate>
+    <atom:link href="https://camgdp.org/tags/population/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National Statistics Committee of the Republic of Uzbekistan</title>
-      <link>/sources/sources/stat_gov_uz/</link>
+      <link>https://camgdp.org/sources/sources/stat_gov_uz/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/stat_gov_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/stat_gov_uz/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Uzbekistan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; (&lt;a href=&#34;https://camgdp.org/sources/sources/gender_stat_uz/&#34;&gt;also described on CAMGDP&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stat.uz/en/publications&#34;&gt;Publications&lt;/a&gt; include &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt;.  The &lt;a href=&#34;https://stat.uz/en/publications/3627-statistical-yearbook-of-the-republic-of-uzbekistan&#34;&gt;Statistical Yearbook of the Republic of Uzbekistan&lt;/a&gt; and other publications are available for purchase, with only their tables of contents freely viewable. Quarterly reports and other frequently updated releases are typically freely downloadable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Data Portal of the Republic of Uzbekistan</title>
-      <link>/sources/sources/data_egov_uz/</link>
+      <link>https://camgdp.org/sources/sources/data_egov_uz/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/data_egov_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/data_egov_uz/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://data.egov.uz&#34;&gt;Open Data Portal of the Republic of Uzbekistan&lt;/a&gt; provides over 10,000 freely downloadable datasets from more than 150 organizations on various aspects of life in Uzbekistan, including education, health, economy, population, culture, justice, and more.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are typically available in CSV, Excel, XML, JSON, and RDF formats. Before downloading, a brief pop-up will ask the user to identify the intended use of the data (research, personal, application development, media, or other), but no registration is required.  In addition to keyword search, data can be browsed by topic or organization, and the most recent and most highly rated datasets are highlighted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SIAT Integrated Information System (Uzbekistan)</title>
-      <link>/sources/sources/siat_stat_uz/</link>
+      <link>https://camgdp.org/sources/sources/siat_stat_uz/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/siat_stat_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/siat_stat_uz/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://siat.stat.uz&#34;&gt;SIAT Integrated Information System&lt;/a&gt; provides detailed statistical tables for economic and social indicators for the Republic of Uzbekistan.&lt;/p&gt;&#xA;&lt;p&gt;After selecting the desired indicator, data may be downloaded in Excel, CSV, PDF, JSON, or XML formats, and may also be graphed online, with downloadable images.  Either time series line charts or cartograms can be selected. Detailed metadata describes the provenance of the data and contacts for further information.&lt;/p&gt;&#xA;&lt;p&gt;The site is navigable in Uzbek, Russian, and English. Most downloads of publications and tables are in Russian.&lt;/p&gt;</description>
     </item>
     <item>
       <title>State Gender Statistics of the Republic of Uzbekistan</title>
-      <link>/sources/sources/gender_stat_uz/</link>
+      <link>https://camgdp.org/sources/sources/gender_stat_uz/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/gender_stat_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/gender_stat_uz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://gender.stat.uz/&#34;&gt;Gender Statistics&lt;/a&gt; of the &lt;a href=&#34;https://stat.uz&#34;&gt;National Statistics Committee of the Republic of Uzbekistan&lt;/a&gt; provides highlighted gender indicators on education, fertility, health, labor and employment, and more. These are downloadable in multiple formats (Excel,CSV, PDF, JSON, XML), with dates of coverage typically from the 2000s to the present. The publication &lt;a href=&#34;https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures&#34;&gt;Women and Men in Uzbekistan: Facts and Figures&lt;/a&gt; is also available here.&lt;/p&gt;&#xA;&lt;p&gt;In the words of the site, &amp;ldquo;Gender statistics are statistics that adequately reflect the real situation of women and men in all strategic areas in order to identify gender differences and study them systematically.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>National Statistical Committee of the Kyrgyz Republic</title>
-      <link>/sources/sources/stat_gov_kg/</link>
+      <link>https://camgdp.org/sources/sources/stat_gov_kg/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/stat_gov_kg/</guid>
+      <guid>https://camgdp.org/sources/sources/stat_gov_kg/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://stat.gov.kg&#34;&gt;National Statistical Committee of the Kyrgyz Republic&lt;/a&gt; provides fundamental economic, social, and other demographic statistics about Kyrgyzstan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available.&lt;/p&gt;&#xA;&lt;p&gt;Statistics are available as downloadable tables in Excel format and as publications, including a special section on &lt;a href=&#34;https://stat.gov.kg/en/gendernaya-statistika/&#34;&gt;Gender Statistics&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Publications include the &lt;a href=&#34;https://stat.gov.kg/en/publications/statisticheskij-ezhegodnik-kyrgyzskoj-respubliki/&#34;&gt;Statistical Yearbook of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/&#34;&gt;Social Trends of the Kyrgyz Republic&lt;/a&gt;, &lt;a href=&#34;https://stat.gov.kg/en/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/&#34;&gt;Women and Men in the Kyrgyz Republic&lt;/a&gt;, and many other regular and special publications available for download.&lt;/p&gt;</description>
     </item>
     <item>
       <title>World Values Survey (Kazakhstan)</title>
-      <link>/sources/sources/world_values_survey_kz/</link>
+      <link>https://camgdp.org/sources/sources/world_values_survey_kz/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/world_values_survey_kz/</guid>
+      <guid>https://camgdp.org/sources/sources/world_values_survey_kz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Values Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;&#xA;&lt;p&gt;Kazakhstan is included in waves 6 (2010-2014) and 7 (2017-2020).&lt;/p&gt;&#xA;&lt;p&gt;Some relevant questions include questions about women’s leadership skills, women’s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;&#xA;&lt;p&gt;The sample size is 1,500 and 1,276 in waves 6 and 7 respectively. A lot of questions are missing data.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;</description>
     </item>
     <item>
       <title>World Values Survey (Uzbekistan)</title>
-      <link>/sources/sources/world_values_survey_uz/</link>
+      <link>https://camgdp.org/sources/sources/world_values_survey_uz/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/world_values_survey_uz/</guid>
+      <guid>https://camgdp.org/sources/sources/world_values_survey_uz/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.worldvaluessurvey.org/WVSOnline.jsp&#34;&gt;World Values Survey&lt;/a&gt; studies social, political, economic, religious and cultural values.&lt;/p&gt;&#xA;&lt;p&gt;Some relevant questions include questions about women&amp;rsquo;s leadership skills, women&amp;rsquo;s rights, familial fiscal responsibilities, acceptance of homosexuality, etc.&lt;/p&gt;&#xA;&lt;p&gt;Uzbekistan is included in wave 6 (2010-2014). Sample size for Uzbekistan is 1487.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note and information on data collection are not available.&lt;/p&gt;</description>
     </item>
     <item>
       <title>World Bank</title>
-      <link>/sources/sources/world_bank/</link>
+      <link>https://camgdp.org/sources/sources/world_bank/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/world_bank/</guid>
+      <guid>https://camgdp.org/sources/sources/world_bank/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://genderdata.worldbank.org/&#34;&gt;World Bank Gender Data Portal&lt;/a&gt; covers &lt;a href=&#34;https://genderdata.worldbank.org/countries/kazakhstan/&#34;&gt;Kazakhstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/kyrgyz-republic/&#34;&gt;Kyrgyzstan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/mongolia/&#34;&gt;Mongolia&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/tajikistan/&#34;&gt;Tajikistan&lt;/a&gt;, &lt;a href=&#34;https://genderdata.worldbank.org/countries/Turkmenistan/&#34;&gt;Turkmenistan&lt;/a&gt;, and &lt;a href=&#34;https://genderdata.worldbank.org/countries/uzbekistan/&#34;&gt;Uzbekistan&lt;/a&gt;, and offers a breakdown of gender-related data in regards to adolescent fertility rates, education completion rates, literacy levels, labor force participation, vulnerable employment, unpaid domestic work, business and bank account ownership, internet usage, and parliament membership.&lt;/p&gt;&#xA;&lt;p&gt;Data sources annotation is available under all indicators. It includes development relevance, limitation and exceptions, and statistical concepts and methodology.&lt;/p&gt;&#xA;&lt;p&gt;Datasets are available via CVS, API, and Databank formats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organization for Economic Co-operation and Development (OECD)</title>
-      <link>/sources/sources/oecd/</link>
+      <link>https://camgdp.org/sources/sources/oecd/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/oecd/</guid>
+      <guid>https://camgdp.org/sources/sources/oecd/</guid>
       <description>&lt;p&gt;Kazakhstan is not a member of the OECD and acts as its &lt;a href=&#34;https://www.oecd.org/countries/kazakhstan/&#34;&gt;partner for the Eurasian region&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Out of available data on Kazakhstan found on the OECD portal, the &lt;a href=&#34;https://www.oecd.org/countries/kazakhstan/gender-policy-delivery-in-kazakhstan-9789264280359-en.htm&#34;&gt;2017 Gender Policy Delivery in Kazakhstan review&lt;/a&gt; is so far the only gender-related publication on Kazakhstan.&lt;/p&gt;&#xA;&lt;p&gt;The review contains policy assessment and recommendation. Methodological note and information on data collection are not available.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UN Population Fund in Kazakhstan</title>
-      <link>/sources/sources/un_population_fund_kazakhstan/</link>
+      <link>https://camgdp.org/sources/sources/un_population_fund_kazakhstan/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/un_population_fund_kazakhstan/</guid>
+      <guid>https://camgdp.org/sources/sources/un_population_fund_kazakhstan/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://www.unfpa.org&#34;&gt;UN Population Fund&lt;/a&gt; produces country-specific landing pages. The work of the Fund includes data on sexual and reproductive health, gender equality, young people, and population matters.&lt;/p&gt;&#xA;&lt;p&gt;Their &lt;a href=&#34;https://www.unfpa.org/data/world-population/KZ&#34;&gt;Data Portal for Kazakhstan&lt;/a&gt; gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.   Their semi-regularly published &lt;a href=&#34;https://kazakhstan.unfpa.org/en/publications&#34;&gt;reports and surveys&lt;/a&gt; address these topics. Survey publcations contain a methodology section.&lt;/p&gt;&#xA;&lt;p&gt;There is also a &lt;a href=&#34;https://www.unfpa.org/data/transparency-portal/unfpa-kazakhstan&#34;&gt;Transparency portal&lt;/a&gt; that details expenses and program activities of the Population Fund in Kazakhstan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>World Economic Forum’s Global Gender Gap Report</title>
-      <link>/sources/sources/wef_global_gender_gap_report/</link>
+      <link>https://camgdp.org/sources/sources/wef_global_gender_gap_report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sources/sources/wef_global_gender_gap_report/</guid>
+      <guid>https://camgdp.org/sources/sources/wef_global_gender_gap_report/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://www.weforum.org/reports/global-gender-gap-report-2022&#34;&gt;World Economic Forum’s Global Gender Gap Report&lt;/a&gt; includes countries’ score cards summarizing key gendered data findings broken down into 11 categories: economic participation and opportunity, educational attainment, health and survival, political empowerment, general indicators, work participation and leadership, access to finance, civil and political freedom, family and care, education and skills, and health.&lt;/p&gt;&#xA;&lt;p&gt;Methodological note and information on data collection are not available. User’s guide how to read the economy profiles &lt;a href=&#34;https://www.weforum.org/reports/global-gender-gap-report-2022/in-full/user-s-guide-how-to-read-the-economy-profiles&#34;&gt;is provided&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
